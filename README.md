@@ -16,6 +16,6 @@
 
   - A student living in Mainland China.🇨🇳
 
-  - Poor Skills,Maybe I can try Python?🤔
+  - Poor Skills,Now I am trying something new,like Golang.🤔
 
   - Desired for Knowledge and prefer to meet other friendly people.😉
