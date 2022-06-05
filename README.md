@@ -12,7 +12,7 @@
 
 
 
-[![MoYoez's github stats](https://github-readme-stats.vercel.app/api?username=moyoez&theme=blue-green)](https://github.com/moyoez?tab=repositories)
+![MoYoez's github stats](https://github-readme-stats.vercel.app/api?username=moyoez&theme=blue-green)
 
 ![MoYoez's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moyoez&theme=blue-green)
 
