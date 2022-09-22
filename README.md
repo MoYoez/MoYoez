@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![pic](https://fastly.jsdelivr.net/gh/moyoez/moyoez@main/%E2%99%A6_90077053.png)
+![pic](https://img1.imgtp.com/2022/09/22/xsQUvvxo.png)
 
 #### this is MoYoez(MoeMagicMango)
 
-  - A student living in Mainland China.
+  - Only a student~
 
-  - Poor skills,Now I am trying something new,like Golang.🤔
+  - Prefer to try something new>P .🤔
 
   - Desired for Knowledge and prefer to meet other friendly people.😉
 
