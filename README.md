@@ -14,7 +14,7 @@
 
 ![MoYoez's github stats](https://github-readme-stats.vercel.app/api?username=moyoez&theme=blue-green)
 
-![MoYoez's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moyoez&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyoez&layout=compact)](https://github.com/moyoez)
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hi.himoyo.cn)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/akirasweetz)
