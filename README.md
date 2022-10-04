@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![pic](https://tva1.sinaimg.cn/large/006pBvLrly1h6t6ahpkm3j322315oqv9.jpg)
+![pic](https://img1.imgtp.com/2022/09/22/xsQUvvxo.png)
 
 #### this is MoYoez(MoeMagicMango)
 
