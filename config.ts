@@ -11,11 +11,12 @@ export const opensource = {
     random: true,
     repos: [
       //'',
-      'Diving-Fish/maimaidx-prober',
+      'FloatTech/ZeroBot-Plugin',
+      'FloatTech/ZeroBot-Plugin-PlayGround',
     ],
   },
 }
-export const motto = `<p align=center><strong>Stay hungry,Stay foolish.</strong></p>`
+export const motto = `<p align=center><strong> Stay hungry, Stay foolish. </strong></p>`
 export const github = {
   name: 'MoYoez',
 }
