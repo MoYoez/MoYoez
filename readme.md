@@ -63,15 +63,15 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/weilinfox/haku-qqbot>weilinfox/haku-qqbot</a><p>qq bot</p></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a><p>二次元相关API</p></li><li><a href=https://github.com/Hyy2001X/AutoBuild-Actions-Template>Hyy2001X/AutoBuild-Actions-Template</a><p>在线编译 Openwrt | 一键在线更新固件 | Stable</p></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/Lost-MSth/Arcaea-server>Lost-MSth/Arcaea-server</a><p>一个微型的Arcaea本地服务器 A small local server for Arcaea</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/brupst/awesome-bupt-scs>brupst/awesome-bupt-scs</a><p>北京邮电大学计算机学院本科编程作业索引</p></li><li><a href=https://github.com/Diving-Fish/ArcaeaBot>Diving-Fish/ArcaeaBot</a><p>Using interface of redive.estertion.win to query Arcaea player's info in QQ chating.</p></li><li><a href=https://github.com/CHN-beta/rkp-ipid>CHN-beta/rkp-ipid</a><p>Modify ID in IP Header</p></li><li><a href=https://github.com/Lost-MSth/Arcaea-server>Lost-MSth/Arcaea-server</a><p>一个微型的Arcaea本地服务器 A small local server for Arcaea</p></li></ul>
 
 **你能找到我吗**
 
 <p><a href="https://github.com/MoYoez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://moe.himoyo.cn" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+<a href="https://steamcommunity.com/id/akirasweetz" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
 <a href="https://moe.himoyo.cn" target="_blank"><img alt="Blog" src='https://img.shields.io/badge/My_Blog-blue.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iNzkiIHZpZXdCb3g9IjAgMCA4MCA3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC43NTcpIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0zOS4xNyAwQzE3LjUzNiAwIDAgMTcuNTM3IDAgMzkuMTdjMCAyMS42MzIgMTcuNTM3IDM5LjE2OSAzOS4xNyAzOS4xNjkgMjEuNjMyIDAgMzkuMTY5LTE3LjUzNyAzOS4xNjktMzkuMTdDNzguMzM5IDE3LjUzNyA2MC44MDIgMCAzOS4xNjkgMHptMCA3My45ODZjLTE5LjIzIDAtMzQuODE4LTE1LjU4OC0zNC44MTgtMzQuODE3IDAtMTkuMjI4IDE1LjU4OS0zNC44MTcgMzQuODE3LTM0LjgxNyAxOS4yMjkgMCAzNC44MTcgMTUuNTg5IDM0LjgxNyAzNC44MTcgMCAxOS4yMjktMTUuNTg4IDM0LjgxNy0zNC44MTcgMzQuODE3eiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjM5LjE2OSIgY3k9IjM5LjE2OSIgcj0iMzEuNTI3Ii8+PC9nPjxwYXRoIGQ9Ik0zOS44MDEgNTkuMDQ3TDE5Ljc1NyAzOS4wNDUgMzkuOCAxOS4wMDFsMjAuMDAyIDIwLjAwMUwzOS44IDU5LjA0N3pNNTUuOTkgNDEuODg0bC03LjE0Ny02LjczNS05LjA0LTguNTJMMjMuNTcgNDEuODg0bTI0Ljc5LTUuNzJMMzMuMTA2IDUxLjQxOG0tMS45MDctMTUuMjU2TDQ2LjQ1NCA1MS40MiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEuOCIvPjwvZz48L3N2Zz4=&logoColor=white' /></a>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/25/23, 5:23 PM<br>下一次刷新：1/26/23, 5:23 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/25/23, 6:04 PM<br>下一次刷新：1/26/23, 6:04 PM</p>
