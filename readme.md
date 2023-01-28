@@ -50,7 +50,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/26/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>1/18/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>1/18/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/26/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -63,7 +63,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt>shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt</a><p>在Dr.COM下使用路由器上校园网WIFI(以广东工业大学、极路由1S HC5661A、OpenWrt为例)</p></li><li><a href=https://github.com/Diving-Fish/ArcaeaBot>Diving-Fish/ArcaeaBot</a><p>Using interface of redive.estertion.win to query Arcaea player's info in QQ chating.</p></li><li><a href=https://github.com/Hyy2001X/AutoBuild-Actions-Template>Hyy2001X/AutoBuild-Actions-Template</a><p>在线编译 Openwrt | 一键在线更新固件 | Stable</p></li><li><a href=https://github.com/PKUFlyingPig/cs-self-learning>PKUFlyingPig/cs-self-learning</a><p>计算机自学指南</p></li></ul>
+<ul><li><a href=https://github.com/Apple-QAQ/haku-qqbot>Apple-QAQ/haku-qqbot</a><p>qq bot</p></li><li><a href=https://github.com/fumiama/jieba>fumiama/jieba</a><p>Jiebago 的性能优化版, 支持从 io.Reader 加载字典</p></li><li><a href=https://github.com/Zxilly/UA2F>Zxilly/UA2F</a><p>Change User-Agent to F-words on OpenWRT router to prevent being checked.</p></li><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a><p>二次元相关API</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/27/23, 9:11 AM<br>下一次刷新：1/28/23, 9:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/28/23, 9:10 AM<br>下一次刷新：1/29/23, 9:10 AM</p>
