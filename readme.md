@@ -1,4 +1,4 @@
-# MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme)
+# MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme) [![wakatime](https://wakatime.com/badge/user/057b0405-d0cc-4063-99fb-0072ae8088db.svg)](https://wakatime.com/@057b0405-d0cc-4063-99fb-0072ae8088db)
 
 ![pic](https://cdn.himoyo.cn/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
@@ -63,7 +63,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Genymobile/gnirehtet>Genymobile/gnirehtet</a><p>Gnirehtet provides reverse tethering for Android</p></li><li><a href=https://github.com/NyanWhite/NyanWhite>NyanWhite/NyanWhite</a></li><li><a href=https://github.com/CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie>CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie</a><p>对于很多计算机网络专业的同学都可能会有幸参加锐捷的计算机网络技能大赛，参加这个比赛很多专科学校很难取得很好的名次，或许是没有对应的官方设备(锐捷的JCOS/路由/交换/EG，企想的综合布线设备)，也或许是学校没有开设某些课程(Linux运维/部署服务，AP/AC/EG)，确实如果想要这种完整的训练体系的话对于一个普通资金不足或者精力不足的学校的话是非常难的，因此有了创建本项目想法，本项目的创建即为了收集全国各个省市的比赛样题/资料，加以收集整理，因此如果您是参赛带队老师或是参数学生，如果看到本项目希望能给予一个star，如果也想为这个项目加点您收集到的或者是您做过的某些东西亦或遇到了某些难题，可以加QQ：2351147520 资讯讨论，如果想看一些其他东西的话可以关注本人CSDN博客 https://blog.csdn.net/qq_40695642/ ，谢谢大家！</p></li><li><a href=https://github.com/Diving-Fish/ArcaeaBot>Diving-Fish/ArcaeaBot</a><p>Using interface of redive.estertion.win to query Arcaea player's info in QQ chating.</p></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/reactiveneko>MoYoez/reactiveneko</a><p>Reactive atomicneko!</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie>CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie</a><p>对于很多计算机网络专业的同学都可能会有幸参加锐捷的计算机网络技能大赛，参加这个比赛很多专科学校很难取得很好的名次，或许是没有对应的官方设备(锐捷的JCOS/路由/交换/EG，企想的综合布线设备)，也或许是学校没有开设某些课程(Linux运维/部署服务，AP/AC/EG)，确实如果想要这种完整的训练体系的话对于一个普通资金不足或者精力不足的学校的话是非常难的，因此有了创建本项目想法，本项目的创建即为了收集全国各个省市的比赛样题/资料，加以收集整理，因此如果您是参赛带队老师或是参数学生，如果看到本项目希望能给予一个star，如果也想为这个项目加点您收集到的或者是您做过的某些东西亦或遇到了某些难题，可以加QQ：2351147520 资讯讨论，如果想看一些其他东西的话可以关注本人CSDN博客 https://blog.csdn.net/qq_40695642/ ，谢谢大家！</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/31/23, 9:12 AM<br>下一次刷新：2/1/23, 9:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：1/31/23, 5:00 PM<br>下一次刷新：2/1/23, 5:00 PM</p>
