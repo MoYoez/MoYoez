@@ -1,4 +1,4 @@
-# MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme)
+# MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme) [![wakatime](https://wakatime.com/badge/user/057b0405-d0cc-4063-99fb-0072ae8088db.svg)](https://wakatime.com/@057b0405-d0cc-4063-99fb-0072ae8088db)
 
 ![pic](https://cdn.himoyo.cn/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
