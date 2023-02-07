@@ -50,7 +50,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/5/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>1/30/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>1/30/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/6/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -63,7 +63,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lost-MSth/Arcaea-server>Lost-MSth/Arcaea-server</a><p>一个微型的Arcaea本地服务器 A small local server for Arcaea</p></li><li><a href=https://github.com/Hyy2001X/AutoBuild-Actions-Template>Hyy2001X/AutoBuild-Actions-Template</a><p>在线编译 Openwrt | 一键在线更新固件 | Stable</p></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/SonderXiaoming/homo>SonderXiaoming/homo</a></li><li><a href=https://github.com/Zxilly/UA2F>Zxilly/UA2F</a><p>Change User-Agent to F-words on OpenWRT router to prevent being checked.</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/Genymobile/gnirehtet>Genymobile/gnirehtet</a><p>Gnirehtet provides reverse tethering for Android</p></li><li><a href=https://github.com/CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie>CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie</a><p>对于很多计算机网络专业的同学都可能会有幸参加锐捷的计算机网络技能大赛，参加这个比赛很多专科学校很难取得很好的名次，或许是没有对应的官方设备(锐捷的JCOS/路由/交换/EG，企想的综合布线设备)，也或许是学校没有开设某些课程(Linux运维/部署服务，AP/AC/EG)，确实如果想要这种完整的训练体系的话对于一个普通资金不足或者精力不足的学校的话是非常难的，因此有了创建本项目想法，本项目的创建即为了收集全国各个省市的比赛样题/资料，加以收集整理，因此如果您是参赛带队老师或是参数学生，如果看到本项目希望能给予一个star，如果也想为这个项目加点您收集到的或者是您做过的某些东西亦或遇到了某些难题，可以加QQ：2351147520 资讯讨论，如果想看一些其他东西的话可以关注本人CSDN博客 https://blog.csdn.net/qq_40695642/ ，谢谢大家！</p></li><li><a href=https://github.com/CHN-beta/xmurp-ua>CHN-beta/xmurp-ua</a><p>在 OpenWrt 上修改 HTTP 流量的 UA</p></li><li><a href=https://github.com/CHN-beta/rkp-ipid>CHN-beta/rkp-ipid</a><p>Modify ID in IP Header</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/6/23, 9:07 AM<br>下一次刷新：2/7/23, 9:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/7/23, 9:09 AM<br>下一次刷新：2/8/23, 9:09 AM</p>
