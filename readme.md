@@ -63,7 +63,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ShameCom/ShameCom>ShameCom/ShameCom</a><p>收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！</p></li><li><a href=https://github.com/fumiama/jieba>fumiama/jieba</a><p>Jiebago 的性能优化版, 支持从 io.Reader 加载字典</p></li><li><a href=https://github.com/Hyy2001X/AutoBuild-Actions-Template>Hyy2001X/AutoBuild-Actions-Template</a><p>在线编译 Openwrt | 一键在线更新固件 | Stable</p></li><li><a href=https://github.com/Diving-Fish/ArcaeaBot>Diving-Fish/ArcaeaBot</a><p>Using interface of redive.estertion.win to query Arcaea player's info in QQ chating.</p></li><li><a href=https://github.com/Zxilly/UA2F>Zxilly/UA2F</a><p>Change User-Agent to F-words on OpenWRT router to prevent being checked.</p></li></ul>
+<ul><li><a href=https://github.com/shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt>shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt</a><p>在Dr.COM下使用路由器上校园网WIFI(以广东工业大学、极路由1S HC5661A、OpenWrt为例)</p></li><li><a href=https://github.com/Diving-Fish/ArcaeaBot>Diving-Fish/ArcaeaBot</a><p>Using interface of redive.estertion.win to query Arcaea player's info in QQ chating.</p></li><li><a href=https://github.com/CHN-beta/rkp-ipid>CHN-beta/rkp-ipid</a><p>Modify ID in IP Header</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li><li><a href=https://github.com/CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie>CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie</a><p>对于很多计算机网络专业的同学都可能会有幸参加锐捷的计算机网络技能大赛，参加这个比赛很多专科学校很难取得很好的名次，或许是没有对应的官方设备(锐捷的JCOS/路由/交换/EG，企想的综合布线设备)，也或许是学校没有开设某些课程(Linux运维/部署服务，AP/AC/EG)，确实如果想要这种完整的训练体系的话对于一个普通资金不足或者精力不足的学校的话是非常难的，因此有了创建本项目想法，本项目的创建即为了收集全国各个省市的比赛样题/资料，加以收集整理，因此如果您是参赛带队老师或是参数学生，如果看到本项目希望能给予一个star，如果也想为这个项目加点您收集到的或者是您做过的某些东西亦或遇到了某些难题，可以加QQ：2351147520 资讯讨论，如果想看一些其他东西的话可以关注本人CSDN博客 https://blog.csdn.net/qq_40695642/ ，谢谢大家！</p></li></ul>
 
 **你能找到我吗**
 
@@ -74,4 +74,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/8/23, 9:10 AM<br>下一次刷新：2/9/23, 9:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/9/23, 9:09 AM<br>下一次刷新：2/10/23, 9:09 AM</p>
