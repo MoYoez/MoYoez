@@ -65,7 +65,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/ShameCom/ShameCom>ShameCom/ShameCom</a><p>收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！</p></li><li><a href=https://github.com/fumiama/jieba>fumiama/jieba</a><p>Jiebago 的性能优化版, 支持从 io.Reader 加载字典</p></li><li><a href=https://github.com/NyanWhite/NyanWhite>NyanWhite/NyanWhite</a></li><li><a href=https://github.com/MoYoez/UntrustedAirport>MoYoez/UntrustedAirport</a><p>A project to collect untrusted airport.</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/brupst/awesome-bupt-scs>brupst/awesome-bupt-scs</a><p>北京邮电大学计算机学院本科编程作业索引</p></li><li><a href=https://github.com/CHN-beta/xmurp-ua>CHN-beta/xmurp-ua</a><p>在 OpenWrt 上修改 HTTP 流量的 UA</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li><li><a href=https://github.com/weilinfox/haku-qqbot>weilinfox/haku-qqbot</a><p>qq bot</p></li></ul>
 
 **你能找到我吗**
 
@@ -76,4 +76,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/14/23, 5:21 PM<br>下一次刷新：2/15/23, 5:21 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/15/23, 9:12 AM<br>下一次刷新：2/16/23, 9:12 AM</p>
