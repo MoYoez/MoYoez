@@ -52,7 +52,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/17/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>2/18/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>2/18/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/17/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -65,7 +65,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/CHN-beta/rkp-ipid>CHN-beta/rkp-ipid</a><p>Modify ID in IP Header</p></li><li><a href=https://github.com/CHN-beta/xmurp-ua>CHN-beta/xmurp-ua</a><p>在 OpenWrt 上修改 HTTP 流量的 UA</p></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a><p>A client for QQ and more.:electron:</p></li><li><a href=https://github.com/MoYoez/UntrustedAirport>MoYoez/UntrustedAirport</a><p>A project to collect untrusted airport.</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li></ul>
+<ul><li><a href=https://github.com/FloatTech/AnimeAPI>FloatTech/AnimeAPI</a><p>二次元相关API</p></li><li><a href=https://github.com/weilinfox/haku-qqbot>weilinfox/haku-qqbot</a><p>qq bot</p></li><li><a href=https://github.com/SonderXiaoming/homo>SonderXiaoming/homo</a></li><li><a href=https://github.com/Hyy2001X/AutoBuild-Actions-Template>Hyy2001X/AutoBuild-Actions-Template</a><p>在线编译 Openwrt | 一键在线更新固件 | Stable</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li></ul>
 
 **你能找到我吗**
 
@@ -76,4 +76,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/18/23, 9:10 AM<br>下一次刷新：2/19/23, 9:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b><br>刷新于：2/19/23, 9:13 AM<br>下一次刷新：2/20/23, 9:13 AM</p>
