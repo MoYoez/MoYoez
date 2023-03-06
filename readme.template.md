@@ -4,6 +4,8 @@
 
 > <u>*I'm always AFK, not accessible to code for fun or to repair bugs:p*</u>
 
+![snakeContribution](https://raw.githubusercontent.com/MoYoez/MoYoez/master/asstets/github-contribution-grid-snake.svg)
+
 Hi~This is MoYoez,a student studying CS for ~~life~~ fun,currently I do fix bugs and write some plugins for Bot running with Zerobot.
 
 Hopeful and grateful for this code space, coding or writing something amusing or useful may be a nice way to pass the time.
