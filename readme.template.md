@@ -2,17 +2,19 @@
 
 ![pic](https://cdn.himoyo.cn/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
-> <u>*I'm always AFK, not accessible to code for fun or to repair bugs:p*</u>
+> <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
 
-![snakeContribution](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
+![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is MoYoez,a student studying CS for ~~life~~ fun,currently I do fix bugs and write some plugins for Bot running with Zerobot.
+Hi~This is MoYoez,a CS student & developer for ~~life~~ fun,currently I do fix bugs and write some plugins for Bot running with Zerobot.
 
-Hopeful and grateful for this code space, coding or writing something amusing or useful may be a nice way to pass the time.
+Mainly I can use Golang,Python,TypeScript and a little C & PHP,I learned them by studying CS50 and Stack Overflow to do it well.
+
+Grateful for this code space, coding or writing something amusing or useful may be a nice way to spend time.
 
 I hope I can become a Full Stacks Developer in the next few years.
 
-> Always try to be pleasant and not be harsh all the time; perhaps I wanted to meet more people and learn more.:D
+> Always try to be pleasant and not be harsh all the time; perhaps I wanted to meet more people and learn more.(/≧▽≦)/
 
 **A Developer for fun**
 
@@ -43,7 +45,6 @@ I hope I can become a Full Stacks Developer in the next few years.
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img alt="Goland" src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white">
 <img alt="Clion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-<img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
 <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
