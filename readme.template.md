@@ -10,7 +10,7 @@ Hi~This is MoYoez,a CS student & developer for ~~life~~ fun,currently I do fix b
 
 Mainly I can use Golang,Python,TypeScript and a little C & PHP,I learned them by studying CS50 and Stack Overflow to do it well.
 
-Grateful for this code space, coding or writing something amusing or useful may be a nice way to spend time.
+Grateful to this code space, coding or writing something amusing or useful may be a nice way to spend time.
 
 I hope I can become a Full Stacks Developer in the next few years.
 

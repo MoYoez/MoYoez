@@ -4,7 +4,6 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
-import rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
@@ -30,16 +29,6 @@ const md = new MarkdownIt({
 })
 const githubAPIEndPoint = 'https://api.github.com'
 
-rax.attach()
-axios.defaults.raxConfig = {
-  retry: 5,
-  retryDelay: 4000,
-  onRetryAttempt: (err) => {
-    const cfg = rax.getConfig(err)
-    console.log('request: \n', err.request)
-    console.log(`Retry attempt #${cfg.currentRetryAttempt}`)
-  },
-}
 
 const userAgent =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
@@ -278,7 +267,7 @@ ${topStar5}
       gc('FOOTER'),
       m`
     <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
-    <b>设计参考来源为 Wibus 和 MoeCinnamo,Thanks.</b>
+    <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b>
     </br>
     刷新于：${now.toLocaleString(undefined, {
       timeStyle: 'short',
