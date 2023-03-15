@@ -55,7 +55,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/12/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/10/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/14/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/14/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -64,11 +64,11 @@ recent_posts_inject
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li><li><a href=https://github.com/Jiang-Red/ZeroBot-Docs>Jiang-Red/ZeroBot-Docs</a><p>ZeroBot的文档, 但不止ZeroBot</p></li><li><a href=https://github.com/python-pillow/Pillow>python-pillow/Pillow</a><p>Python Imaging Library (Fork)</p></li></ul>
+<ul><li><a href=https://github.com/antonmedv/finder>antonmedv/finder</a><p>CSS Selector Generator 🗺</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li><li><a href=https://github.com/Jiang-Red/ZeroBot-Docs>Jiang-Red/ZeroBot-Docs</a><p>ZeroBot的文档, 但不止ZeroBot</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MoYoez/reactiveneko>MoYoez/reactiveneko</a><p>Reactive atomicneko!</p></li><li><a href=https://github.com/CHN-beta/xmurp-ua>CHN-beta/xmurp-ua</a><p>在 OpenWrt 上修改 HTTP 流量的 UA</p></li><li><a href=https://github.com/Genymobile/gnirehtet>Genymobile/gnirehtet</a><p>Gnirehtet provides reverse tethering for Android</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li><li><a href=https://github.com/MoYoez/Go-ArcaeaUnlimitedAPI>MoYoez/Go-ArcaeaUnlimitedAPI</a><p>Some Useful AUA API Written In go</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/Zxilly/UA2F>Zxilly/UA2F</a><p>Change User-Agent to F-words on OpenWRT router to prevent being checked.</p></li><li><a href=https://github.com/MoYoez/music-radio>MoYoez/music-radio</a><p>一个在线可视化音乐电台🎵🎵🎵</p></li><li><a href=https://github.com/apernet/hysteria>apernet/hysteria</a><p>Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li></ul>
 
 **你能找到我吗**
 
@@ -79,4 +79,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/14/23, 8:29 AM<br>下一次刷新：3/15/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/15/23, 8:32 AM<br>下一次刷新：3/16/23, 8:32 AM</p>
