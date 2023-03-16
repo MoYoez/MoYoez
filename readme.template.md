@@ -6,7 +6,7 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is MoYoez,a CS student & developer for ~~life~~ fun,currently I do fix bugs and write some plugins for Bot running with Zerobot.
+Hi~This is Koi,a CS student & developer for ~~life~~ fun.I always use "MoeMagicMango" or "KoiParadise" with my own accounts ,currently I am learning C & react&TypeScript for my next developing project,I may try to study Vue & OI ^^.
 
 Mainly I can use Golang,Python,TypeScript and a little C & PHP,I learned them by studying CS50 and Stack Overflow to do it well.
 
@@ -51,11 +51,11 @@ I hope I can become a Full Stacks Developer in the next few years.
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-**开源在...**
+**Some Opensource projects**
 
 <!-- opensource_dashboard:active -->
 
-**写过的玩具..**
+**Some toys...**
 
 <!-- opensource_toys -->
 
@@ -64,15 +64,15 @@ I hope I can become a Full Stacks Developer in the next few years.
 recent_posts_inject
 -->
 
-**最近赞了...**
+**Recent Liked...**
 
 <!-- recent_star_inject -->
 
-**曾经看了...**
+**Starred**
 
 <!-- random_github_stars_inject -->
 
-**你能找到我吗**
+**Can you fine me?**
 
 <p><a href="https://github.com/MoYoez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/akirasweetz" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
