@@ -6,15 +6,15 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi,a CS student & developer for ~~life~~ fun.I always use "MoeMagicMango" or "KoiParadise" with my own accounts ,currently I am learning C & react&TypeScript for my next developing project,I may try to study Vue & OI ^^.
+Hi~This is Koi, a CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
 
-Mainly I can use Golang,Python,TypeScript and a little C & PHP,I learned them by studying CS50 and Stack Overflow to do it well.
+Mainly I can use Golang,Python,TypeScript and a little C & PHP, I learned them by studying CSDIY project and Stack Overflow to do it well, I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs, for it has lots of guide to help you ^^.
 
 Grateful to this code space, coding or writing something amusing or useful may be a nice way to spend time.
 
 I hope I can become a Full Stacks Developer in the next few years.
 
-> Always try to be pleasant and not be harsh all the time; perhaps I wanted to meet more people and learn more.(/≧▽≦)/
+> Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more.(/≧▽≦)/
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
