@@ -6,15 +6,15 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi,a CS student & developer for ~~life~~ fun.I always use "MoeMagicMango" or "KoiParadise" with my own accounts ,currently I am learning C & react&TypeScript for my next developing project,I may try to study Vue & OI ^^.
+Hi~This is Koi, a CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
 
-Mainly I can use Golang,Python,TypeScript and a little C & PHP,I learned them by studying CS50 and Stack Overflow to do it well.
+Mainly I can use Golang,Python,TypeScript and a little C & PHP, I learned them by studying CSDIY project and Stack Overflow to do it well, I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs, for it has lots of guide to help you ^^.
 
 Grateful to this code space, coding or writing something amusing or useful may be a nice way to spend time.
 
 I hope I can become a Full Stacks Developer in the next few years.
 
-> Always try to be pleasant and not be harsh all the time; perhaps I wanted to meet more people and learn more.(/≧▽≦)/
+> Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more.(/≧▽≦)/
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie>CoolToneSummer/Open-Source-College-Students-Computer-Network-Application-Competition-for-Ruijie</a><p>对于很多计算机网络专业的同学都可能会有幸参加锐捷的计算机网络技能大赛，参加这个比赛很多专科学校很难取得很好的名次，或许是没有对应的官方设备(锐捷的JCOS/路由/交换/EG，企想的综合布线设备)，也或许是学校没有开设某些课程(Linux运维/部署服务，AP/AC/EG)，确实如果想要这种完整的训练体系的话对于一个普通资金不足或者精力不足的学校的话是非常难的，因此有了创建本项目想法，本项目的创建即为了收集全国各个省市的比赛样题/资料，加以收集整理，因此如果您是参赛带队老师或是参数学生，如果看到本项目希望能给予一个star，如果也想为这个项目加点您收集到的或者是您做过的某些东西亦或遇到了某些难题，可以加QQ：2351147520 资讯讨论，如果想看一些其他东西的话可以关注本人CSDN博客 https://blog.csdn.net/qq_40695642/ ，谢谢大家！</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</p></li><li><a href=https://github.com/CHN-beta/rkp-ipid>CHN-beta/rkp-ipid</a><p>Modify ID in IP Header</p></li><li><a href=https://github.com/AkaraChen/ringo>AkaraChen/ringo</a><p>🍏 The message, Dialog, and Notice components written in Pure TypeScript.</p></li></ul>
+<ul><li><a href=https://github.com/python-pillow/Pillow>python-pillow/Pillow</a><p>Python Imaging Library (Fork)</p></li><li><a href=https://github.com/apernet/hysteria>apernet/hysteria</a><p>Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</p></li><li><a href=https://github.com/Awbugl/AndrealImageGenerator>Awbugl/AndrealImageGenerator</a><p>为Bot开发者提供的Andreal查分图生成器</p></li><li><a href=https://github.com/PKUFlyingPig/cs-self-learning>PKUFlyingPig/cs-self-learning</a><p>计算机自学指南</p></li><li><a href=https://github.com/MoYoez/Go-ArcaeaUnlimitedAPI>MoYoez/Go-ArcaeaUnlimitedAPI</a><p>Some Useful AUA API Written In go</p></li></ul>
 
 **Can you fine me?**
 
@@ -81,4 +81,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/16/23, 11:21 PM<br>下一次刷新：3/17/23, 11:21 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/16/23, 11:26 PM<br>下一次刷新：3/17/23, 11:26 PM</p>
