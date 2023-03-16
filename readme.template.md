@@ -51,7 +51,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-**Some Opensource projects**
+**Some projects**
 
 <!-- opensource_dashboard:active -->
 
