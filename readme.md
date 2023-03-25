@@ -6,7 +6,7 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi, a CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
+Hi~This is Koi, a non-CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
 
 Mainly I can use Golang,Python,TypeScript and a little C & PHP, I learned them by studying CSDIY project and Stack Overflow to do it well, I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs, for it has lots of guide to help you ^^.
 
@@ -57,7 +57,7 @@ I hope I can become a Full Stacks Developer in the next few years.
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/24/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/24/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/25/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/24/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/PKUFlyingPig/cs-self-learning>PKUFlyingPig/cs-self-learning</a><p>计算机自学指南</p></li><li><a href=https://github.com/brupst/awesome-bupt-scs>brupst/awesome-bupt-scs</a><p>北京邮电大学计算机学院本科编程作业索引</p></li><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Lucy_ZeroBot>MoYoez/Lucy_ZeroBot</a><p>Lucy's Ver.1.61 Designed with Zerobot-Plugin Project.</p></li><li><a href=https://github.com/brupst/awesome-bupt-scs>brupst/awesome-bupt-scs</a><p>北京邮电大学计算机学院本科编程作业索引</p></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/fumiama/jieba>fumiama/jieba</a><p>Jiebago 的性能优化版, 支持从 io.Reader 加载字典</p></li><li><a href=https://github.com/MoYoez/MoYoez>MoYoez/MoYoez</a></li></ul>
 
 **Can you fine me?**
 
@@ -81,4 +81,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/25/23, 8:29 AM<br>下一次刷新：3/26/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考来源为 Wibus 和 MoeCinnamo ,Thanks.</b><br>刷新于：3/25/23, 2:09 PM<br>下一次刷新：3/26/23, 2:09 PM</p>
