@@ -6,7 +6,7 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi, a CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
+Hi~This is Koi, a non-CS student & developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn C & react&TypeScript for my next developing project for myself, also I may try to study Vue & OI as well ^^.
 
 Mainly I can use Golang,Python,TypeScript and a little C & PHP, I learned them by studying CSDIY project and Stack Overflow to do it well, I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs, for it has lots of guide to help you ^^.
 
