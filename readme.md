@@ -6,13 +6,15 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi, an undergraduate student & back-end developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project for myself, also I may try to study node as well ^^.
+Hi~This is Koi, an undergraduate student & Full-stack developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project for myself, also I may try to study node as well ^^.
 
-Mainly I can use Golang,Python,TypeScript and a little C , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
+Mainly I can use Golang,Python,TypeScript and C , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
 
-Coding or writing something amusing or useful may be a nice way to spend time ^^, and I hope I can become a Full Stacks Developer in the next few years.
+Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
+
+- this one is my own osu profile card(, I was an offline player before.
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
@@ -34,6 +36,7 @@ Coding or writing something amusing or useful may be a nice way to spend time ^^
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img alt="OpenWRT" src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white">
 </p>
 
@@ -54,7 +57,7 @@ Coding or writing something amusing or useful may be a nice way to spend time ^^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/21/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/24/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/21/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/25/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -67,16 +70,16 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li><li><a href=https://github.com/MoYoez/Arcaea_auaAPI>MoYoez/Arcaea_auaAPI</a><p>tools for aua api(</p></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a><p>潘多拉，一个不只是命令行的ChatGPT。</p></li><li><a href=https://github.com/Jiang-Red/ZeroBot-Docs>Jiang-Red/ZeroBot-Docs</a><p>ZeroBot的文档, 但不止ZeroBot</p></li><li><a href=https://github.com/MoYoez/MoYoez>MoYoez/MoYoez</a></li></ul>
+<ul><li><a href=https://github.com/LavaGang/MelonLoader.Installer>LavaGang/MelonLoader.Installer</a><p>The Official Dedicated Installer for MelonLoader</p></li><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li><li><a href=https://github.com/fumiama/gofastTEA>fumiama/gofastTEA</a><p>TEA 编码算法的 PLAN9 汇编优化实现</p></li><li><a href=https://github.com/PlexPt/awesome-chatgpt-prompts-zh>PlexPt/awesome-chatgpt-prompts-zh</a><p>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</p></li><li><a href=https://github.com/Jiang-Red/ZeroBot-Docs>Jiang-Red/ZeroBot-Docs</a><p>ZeroBot的文档, 但不止ZeroBot</p></li></ul>
 
 **Can you find me?**
 
 <p><a href="https://github.com/MoYoez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/akirasweetz" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-<a href="https://moe.himoyo.cn" target="_blank"><img alt="LemonWithSodda" src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' /></a>
+<a href="https://moe.himoyo.cn" target="_blank"><img alt="LemonWithSodda" height="28" src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' /></a>
 </p>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：4/25/23, 8:29 AM<br>下一次刷新：4/26/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：4/25/23, 11:23 PM<br>下一次刷新：4/26/23, 11:23 PM</p>
