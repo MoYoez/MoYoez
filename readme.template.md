@@ -6,13 +6,15 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi, an undergraduate student & back-end developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project for myself, also I may try to study node as well ^^.
+Hi~This is Koi, an undergraduate student & Full-stack developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project for myself, also I may try to study node as well ^^.
 
-Mainly I can use Golang,Python,TypeScript and a little C , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
+Mainly I can use Golang,Python,TypeScript and C , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
 
-Coding or writing something amusing or useful may be a nice way to spend time ^^, and I hope I can become a Full Stacks Developer in the next few years.
+Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
+
+- this one is my own osu profile card(, I was an offline player before.
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
@@ -34,6 +36,7 @@ Coding or writing something amusing or useful may be a nice way to spend time ^^
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img alt="OpenWRT" src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white">
 </p>
 
@@ -73,7 +76,7 @@ recent_posts_inject
 
 <p><a href="https://github.com/MoYoez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://steamcommunity.com/id/akirasweetz" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-<a href="https://moe.himoyo.cn" target="_blank"><img alt="LemonWithSodda" src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' /></a>
+<a href="https://moe.himoyo.cn" target="_blank"><img alt="LemonWithSodda" height="28" src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' /></a>
 </p>
 
 ------------
