@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/25/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/25/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/25/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/25/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/python-pillow/Pillow>python-pillow/Pillow</a><p>Python Imaging Library (Fork)</p></li><li><a href=https://github.com/MoYoez/Arcaea_auaAPI>MoYoez/Arcaea_auaAPI</a><p>tools for aua api(</p></li><li><a href=https://github.com/Chisw/chenzhilong.chat>Chisw/chenzhilong.chat</a><p>志龙啸天录</p></li><li><a href=https://github.com/Bypass007/Emergency-Response-Notes>Bypass007/Emergency-Response-Notes</a><p>应急响应实战笔记，一个安全工程师的自我修养。</p></li><li><a href=https://github.com/PlexPt/awesome-chatgpt-prompts-zh>PlexPt/awesome-chatgpt-prompts-zh</a><p>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</p></li></ul>
+<ul><li><a href=https://github.com/mymusise/ChatGLM-Tuning>mymusise/ChatGLM-Tuning</a><p>一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA</p></li><li><a href=https://github.com/python-pillow/Pillow>python-pillow/Pillow</a><p>Python Imaging Library (Fork)</p></li><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/PlexPt/awesome-chatgpt-prompts-zh>PlexPt/awesome-chatgpt-prompts-zh</a><p>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</p></li><li><a href=https://github.com/davincifans101/pinduoduo_backdoor_detailed_report>davincifans101/pinduoduo_backdoor_detailed_report</a><p>Maybe the most detailed analysis of pdd backdoors</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：4/26/23, 8:29 AM<br>下一次刷新：4/27/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：4/27/23, 8:31 AM<br>下一次刷新：4/28/23, 8:31 AM</p>
