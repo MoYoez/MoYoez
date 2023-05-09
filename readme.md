@@ -18,6 +18,8 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
+- My Fingerprint : A0DB 23CE E377 AF83 06E6 21D9 8636 C00F 8EAD 0ECD
+
 **Coding For fun ^^**
 
 <p>
@@ -66,11 +68,11 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/7aGiven/PhigrosLibrary>7aGiven/PhigrosLibrary</a><p>Phigros云存档解析库</p></li><li><a href=https://github.com/Arcaea-Infinity/UnofficialArcaeaAPI.Docs>Arcaea-Infinity/UnofficialArcaeaAPI.Docs</a><p>UnofficialArcaeaAPI.Docs</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/SlyMarbo/rss>SlyMarbo/rss</a><p>A Go library for fetching, parsing, and updating RSS feeds.</p></li><li><a href=https://github.com/PaperMC/Folia>PaperMC/Folia</a><p>Fork of Paper which adds regionised multithreading to the dedicated server.</p></li></ul>
+<ul><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/7aGiven/PhigrosLibrary>7aGiven/PhigrosLibrary</a><p>Phigros云存档解析库</p></li><li><a href=https://github.com/Arcaea-Infinity/UnofficialArcaeaAPI.Docs>Arcaea-Infinity/UnofficialArcaeaAPI.Docs</a><p>UnofficialArcaeaAPI.Docs</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/SlyMarbo/rss>SlyMarbo/rss</a><p>A Go library for fetching, parsing, and updating RSS feeds.</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/yui540/Cowardly-Witch>yui540/Cowardly-Witch</a><p>『臆病な魔女は、Webサイトに魔法をかけた。』</p></li><li><a href=https://github.com/davinci1010/pinduoduo_backdoor>davinci1010/pinduoduo_backdoor</a><p>拼多多apk内嵌提权代码，及动态下发dex分析</p></li><li><a href=https://github.com/fumiama/gofastTEA>fumiama/gofastTEA</a><p>TEA 编码算法的 PLAN9 汇编优化实现</p></li><li><a href=https://github.com/antonmedv/finder>antonmedv/finder</a><p>CSS Selector Generator 🗺</p></li><li><a href=https://github.com/PlexPt/awesome-chatgpt-prompts-zh>PlexPt/awesome-chatgpt-prompts-zh</a><p>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</p></li></ul>
+<ul><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/MoYoez/img_toolbox>MoYoez/img_toolbox</a><p>Some img tools written in go.</p></li><li><a href=https://github.com/Bypass007/Emergency-Response-Notes>Bypass007/Emergency-Response-Notes</a><p>应急响应实战笔记，一个安全工程师的自我修养。</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/epicmaxco/vuestic-ui>epicmaxco/vuestic-ui</a><p>Free and Open Source UI Library for Vue 3 🤘</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/9/23, 8:29 AM<br>下一次刷新：5/10/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/9/23, 10:37 AM<br>下一次刷新：5/10/23, 10:37 AM</p>
