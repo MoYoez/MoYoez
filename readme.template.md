@@ -18,6 +18,8 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
+- My Fingerprint : A0DB 23CE E377 AF83 06E6 21D9 8636 C00F 8EAD 0ECD
+
 **Coding For fun ^^**
 
 <p>
