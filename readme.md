@@ -18,8 +18,6 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
-- My Fingerprint : A0DB 23CE E377 AF83 06E6 21D9 8636 C00F 8EAD 0ECD
-
 **Coding For fun ^^**
 
 <p>
@@ -72,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/abcz316/SKRoot-linuxKernelRoot>abcz316/SKRoot-linuxKernelRoot</a><p>新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。</p></li><li><a href=https://github.com/Chisw/chenzhilong.chat>Chisw/chenzhilong.chat</a><p>志龙啸天录</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/microsoft/reverse-proxy>microsoft/reverse-proxy</a><p>A toolkit for developing high-performance HTTP reverse proxy applications.</p></li><li><a href=https://github.com/7aGiven/PhigrosLibrary>7aGiven/PhigrosLibrary</a><p>Phigros云存档解析库</p></li></ul>
+<ul><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/epicmaxco/vuestic-ui>epicmaxco/vuestic-ui</a><p>Free and Open Source UI Library for Vue 3 🤘</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-thriftCilentGo>MoYoez/PhigrosLibrary-thriftCilentGo</a><p>A thrift Cilent Generated For PhigrosLibrary</p></li><li><a href=https://github.com/MoYoez/img_toolbox>MoYoez/img_toolbox</a><p>Some img tools written in go.</p></li></ul>
 
 **Can you find me?**
 
@@ -84,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/25/23, 8:28 AM<br>下一次刷新：5/26/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/25/23, 9:26 PM<br>下一次刷新：5/26/23, 9:26 PM</p>
