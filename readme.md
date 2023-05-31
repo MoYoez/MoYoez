@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Arcaea-Infinity/UnofficialArcaeaAPI.Docs>Arcaea-Infinity/UnofficialArcaeaAPI.Docs</a><p>UnofficialArcaeaAPI.Docs</p></li><li><a href=https://github.com/pengzhile/pandora>pengzhile/pandora</a><p>潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/PlexPt/awesome-chatgpt-prompts-zh>PlexPt/awesome-chatgpt-prompts-zh</a><p>ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-thriftCilentGo>MoYoez/PhigrosLibrary-thriftCilentGo</a><p>A thrift Cilent Generated For PhigrosLibrary</p></li></ul>
+<ul><li><a href=https://github.com/LavaGang/MelonLoader.Installer>LavaGang/MelonLoader.Installer</a><p>The Official Dedicated Installer for MelonLoader</p></li><li><a href=https://github.com/typecho/typecho>typecho/typecho</a><p>A PHP Blogging Platform. Simple and Powerful.</p></li><li><a href=https://github.com/Chisw/chenzhilong.chat>Chisw/chenzhilong.chat</a><p>志龙啸天录</p></li><li><a href=https://github.com/SlyMarbo/rss>SlyMarbo/rss</a><p>A Go library for fetching, parsing, and updating RSS feeds.</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/30/23, 8:31 AM<br>下一次刷新：5/31/23, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：5/31/23, 8:34 AM<br>下一次刷新：6/1/23, 8:34 AM</p>
