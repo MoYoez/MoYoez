@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/epicmaxco/vuestic-ui>epicmaxco/vuestic-ui</a><p>Free and Open Source UI Library for Vue 3 🤘</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/mirai-mamori/Sakurairo>mirai-mamori/Sakurairo</a><p>一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)</p></li><li><a href=https://github.com/asdiver/feel-fish-collection>asdiver/feel-fish-collection</a><p>摸鱼时间随性写的一些特效/工具 集合</p></li></ul>
+<ul><li><a href=https://github.com/fumiama/gofastTEA>fumiama/gofastTEA</a><p>TEA 编码算法的 PLAN9 汇编优化实现</p></li><li><a href=https://github.com/LavaGang/MelonLoader.Installer>LavaGang/MelonLoader.Installer</a><p>The Official Dedicated Installer for MelonLoader</p></li><li><a href=https://github.com/microsoft/PowerToys>microsoft/PowerToys</a><p>Windows system utilities to maximize productivity</p></li><li><a href=https://github.com/yuhao7370/PhigrosUnlimitedAPI-Docs>yuhao7370/PhigrosUnlimitedAPI-Docs</a><p>Phigros云存档API，可供bot使用</p></li><li><a href=https://github.com/abcz316/SKRoot-linuxKernelRoot>abcz316/SKRoot-linuxKernelRoot</a><p>新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/6/23, 8:34 AM<br>下一次刷新：6/7/23, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/7/23, 8:35 AM<br>下一次刷新：6/8/23, 8:35 AM</p>
