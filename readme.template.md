@@ -8,7 +8,7 @@
 
 Hi~This is Koi, an undergraduate student & Full-stack developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project for myself, also I may try to study node as well ^^.
 
-Mainly I can use Golang,Python,TypeScript and C , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
+Mainly I can use Golang, Python, React & Vue3 Framework & C , Rust is learning ( , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
 
 Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
 
