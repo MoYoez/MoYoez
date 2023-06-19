@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/epicmaxco/vuestic-ui>epicmaxco/vuestic-ui</a><p>Free and Open Source UI Library for Vue 3 🤘</p></li><li><a href=https://github.com/CodePanda66/CSPostgraduate-408>CodePanda66/CSPostgraduate-408</a><p>💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源</p></li><li><a href=https://github.com/yuhao7370/PhigrosUnlimitedAPI-Docs>yuhao7370/PhigrosUnlimitedAPI-Docs</a><p>Phigros云存档API，可供bot使用</p></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a><p>Add watermark to your text,writing in go</p></li><li><a href=https://github.com/Chisw/chenzhilong.chat>Chisw/chenzhilong.chat</a><p>志龙啸天录</p></li></ul>
+<ul><li><a href=https://github.com/android-hacker/VirtualXposed>android-hacker/VirtualXposed</a><p>A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.</p></li><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a><p>Add watermark to your text,writing in go</p></li><li><a href=https://github.com/Chisw/chenzhilong.chat>Chisw/chenzhilong.chat</a><p>志龙啸天录</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/18/23, 8:37 AM<br>下一次刷新：6/19/23, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/19/23, 8:33 AM<br>下一次刷新：6/20/23, 8:33 AM</p>
