@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>6/15/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/16/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>6/15/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/24/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -66,11 +66,11 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/maxsupermanhd/go-mc-ms-auth>maxsupermanhd/go-mc-ms-auth</a><p>Microsoft authentication module for go-mc</p></li><li><a href=https://github.com/RemKeeper/GSUID_Utils_ZeroBot>RemKeeper/GSUID_Utils_ZeroBot</a><p>GSUID-Core(早柚核心)的Zerobot适配版本</p></li></ul>
+<ul><li><a href=https://github.com/Dice-Developer-Team/Dice>Dice-Developer-Team/Dice</a><p>QQ Dice Robot For TRPG QQ跑团掷骰机器人</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/CodePanda66/CSPostgraduate-408>CodePanda66/CSPostgraduate-408</a><p>💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源</p></li><li><a href=https://github.com/fumiama/gofastTEA>fumiama/gofastTEA</a><p>TEA 编码算法的 PLAN9 汇编优化实现</p></li><li><a href=https://github.com/epicmaxco/vuestic-ui>epicmaxco/vuestic-ui</a><p>Free and Open Source UI Library for Vue 3 🤘</p></li><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-thriftCilentGo>MoYoez/PhigrosLibrary-thriftCilentGo</a><p>A thrift Cilent Generated For PhigrosLibrary</p></li></ul>
+<ul><li><a href=https://github.com/SlyMarbo/rss>SlyMarbo/rss</a><p>A Go library for fetching, parsing, and updating RSS feeds.</p></li><li><a href=https://github.com/Jiang-Red/go-phigros-b19>Jiang-Red/go-phigros-b19</a><p>go实现的phigros b19成绩图生成</p></li><li><a href=https://github.com/android-hacker/VirtualXposed>android-hacker/VirtualXposed</a><p>A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.</p></li><li><a href=https://github.com/maxsupermanhd/go-mc-ms-auth>maxsupermanhd/go-mc-ms-auth</a><p>Microsoft authentication module for go-mc</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/24/23, 8:38 AM<br>下一次刷新：6/25/23, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/25/23, 8:41 AM<br>下一次刷新：6/26/23, 8:41 AM</p>
