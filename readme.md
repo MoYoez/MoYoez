@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/SlyMarbo/rss>SlyMarbo/rss</a><p>A Go library for fetching, parsing, and updating RSS feeds.</p></li><li><a href=https://github.com/Jiang-Red/go-phigros-b19>Jiang-Red/go-phigros-b19</a><p>go实现的phigros b19成绩图生成</p></li><li><a href=https://github.com/android-hacker/VirtualXposed>android-hacker/VirtualXposed</a><p>A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.</p></li><li><a href=https://github.com/maxsupermanhd/go-mc-ms-auth>maxsupermanhd/go-mc-ms-auth</a><p>Microsoft authentication module for go-mc</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/android-hacker/VirtualXposed>android-hacker/VirtualXposed</a><p>A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/25/23, 8:41 AM<br>下一次刷新：6/26/23, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/26/23, 8:38 AM<br>下一次刷新：6/27/23, 8:38 AM</p>
