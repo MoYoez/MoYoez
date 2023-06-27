@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>6/15/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/24/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/24/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>6/15/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/android-hacker/VirtualXposed>android-hacker/VirtualXposed</a><p>A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.</p></li><li><a href=https://github.com/Arcaea-Infinity/ArcaeaUnlimitedAPI>Arcaea-Infinity/ArcaeaUnlimitedAPI</a><p>A fast and easy Arcaea API for your bot.</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li></ul>
+<ul><li><a href=https://github.com/RemKeeper/GSUID_Utils_ZeroBot>RemKeeper/GSUID_Utils_ZeroBot</a><p>GSUID-Core(早柚核心)的Zerobot适配版本</p></li><li><a href=https://github.com/PaperMC/Folia>PaperMC/Folia</a><p>Fork of Paper which adds regionised multithreading to the dedicated server.</p></li><li><a href=https://github.com/CodePanda66/CSPostgraduate-408>CodePanda66/CSPostgraduate-408</a><p>💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源</p></li><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-thriftCilentGo>MoYoez/PhigrosLibrary-thriftCilentGo</a><p>A thrift Cilent Generated For PhigrosLibrary</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/26/23, 8:38 AM<br>下一次刷新：6/27/23, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/27/23, 8:37 AM<br>下一次刷新：6/28/23, 8:37 AM</p>
