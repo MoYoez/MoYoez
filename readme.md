@@ -66,11 +66,11 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/Dice-Developer-Team/Dice>Dice-Developer-Team/Dice</a><p>QQ Dice Robot For TRPG QQ跑团掷骰机器人</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/pgrbind_Lucy>MoYoez/pgrbind_Lucy</a><p>Lucy's Phigros Bind Site (Use PHP + Vue3)</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li><li><a href=https://github.com/Dice-Developer-Team/Dice>Dice-Developer-Team/Dice</a><p>QQ Dice Robot For TRPG QQ跑团掷骰机器人</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/RemKeeper/GSUID_Utils_ZeroBot>RemKeeper/GSUID_Utils_ZeroBot</a><p>GSUID-Core(早柚核心)的Zerobot适配版本</p></li><li><a href=https://github.com/PaperMC/Folia>PaperMC/Folia</a><p>Fork of Paper which adds regionised multithreading to the dedicated server.</p></li><li><a href=https://github.com/CodePanda66/CSPostgraduate-408>CodePanda66/CSPostgraduate-408</a><p>💯 CSPostgraduate 计算机考研 408 专业课资料及真题资源</p></li><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-thriftCilentGo>MoYoez/PhigrosLibrary-thriftCilentGo</a><p>A thrift Cilent Generated For PhigrosLibrary</p></li></ul>
+<ul><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/maxsupermanhd/go-mc-ms-auth>maxsupermanhd/go-mc-ms-auth</a><p>Microsoft authentication module for go-mc</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li><li><a href=https://github.com/asdiver/feel-fish-collection>asdiver/feel-fish-collection</a><p>摸鱼时间随性写的一些特效/工具 集合</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/27/23, 8:37 AM<br>下一次刷新：6/28/23, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/28/23, 8:37 AM<br>下一次刷新：6/29/23, 8:37 AM</p>
