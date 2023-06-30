@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/7aGiven/PhigrosLibrary>7aGiven/PhigrosLibrary</a><p>Phigros云存档解析库</p></li><li><a href=https://github.com/asdiver/feel-fish-collection>asdiver/feel-fish-collection</a><p>摸鱼时间随性写的一些特效/工具 集合</p></li><li><a href=https://github.com/tusen-ai/naive-ui>tusen-ai/naive-ui</a><p>A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.</p></li><li><a href=https://github.com/RemKeeper/GSUID_Utils_ZeroBot>RemKeeper/GSUID_Utils_ZeroBot</a><p>GSUID-Core(早柚核心)的Zerobot适配版本</p></li><li><a href=https://github.com/PaperMC/Folia>PaperMC/Folia</a><p>Fork of Paper which adds regionised multithreading to the dedicated server.</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/felinae98/nonebot-plugin-send-anything-anywhere>felinae98/nonebot-plugin-send-anything-anywhere</a><p>一个帮助处理不同 adapter 消息的适配和发送的插件</p></li><li><a href=https://github.com/Jiang-Red/go-phigros-b19>Jiang-Red/go-phigros-b19</a><p>go实现的phigros b19成绩图生成</p></li><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/29/23, 8:37 AM<br>下一次刷新：6/30/23, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：6/30/23, 8:36 AM<br>下一次刷新：7/1/23, 8:36 AM</p>
