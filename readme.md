@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/5/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/5/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/5/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/5/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -66,11 +66,11 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/LGBT-CN/LGBTQIA-In-China>LGBT-CN/LGBTQIA-In-China</a><p>🏳️‍🌈 中国的性少数群体一直渴望着自由平等</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li><li><a href=https://github.com/MoYoez/pgrbind_Lucy>MoYoez/pgrbind_Lucy</a><p>Lucy's Phigros Bind Site (Use PHP + Vue3)</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li></ul>
+<ul><li><a href=https://github.com/KotonamiOriyuki/PoolImage>KotonamiOriyuki/PoolImage</a><p>PoolImage 比赛showcase谱面预览生成器 (图片)</p></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/LGBT-CN/LGBTQIA-In-China>LGBT-CN/LGBTQIA-In-China</a><p>🏳️‍🌈 中国的性少数群体一直渴望着自由平等</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li><li><a href=https://github.com/MoYoez/pgrbind_Lucy>MoYoez/pgrbind_Lucy</a><p>Lucy's Phigros Bind Site (Use PHP + Vue3)</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/pacexy/tailwindcss-variable-colors>pacexy/tailwindcss-variable-colors</a><p>Add dark mode support with just one class</p></li><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li></ul>
+<ul><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/Rongronggg9/SlashBot>Rongronggg9/SlashBot</a><p>响应诸如 “/抱”、“/摸摸” 之类消息的 Telegram Bot</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/7/23, 11:34 AM<br>下一次刷新：7/8/23, 11:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/8/23, 8:37 AM<br>下一次刷新：7/9/23, 8:37 AM</p>
