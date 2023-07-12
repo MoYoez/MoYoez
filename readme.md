@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/WankkoRee/eaio>WankkoRee/eaio</a><p>一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。</p></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li></ul>
+<ul><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/RemKeeper/GSUID_Utils_ZeroBot>RemKeeper/GSUID_Utils_ZeroBot</a><p>GSUID-Core(早柚核心)的Zerobot适配版本</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/yuhao7370/PhigrosUnlimitedAPI-Docs>yuhao7370/PhigrosUnlimitedAPI-Docs</a><p>Phigros云存档API，可供bot使用</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/11/23, 8:33 AM<br>下一次刷新：7/12/23, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/12/23, 8:39 AM<br>下一次刷新：7/13/23, 8:39 AM</p>
