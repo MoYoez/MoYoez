@@ -37,7 +37,7 @@ jobs:
           run_install: true
       - name: Build project
         run: |
-          npm run build
+          pnpm run build
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
