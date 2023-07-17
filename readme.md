@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a><p>Add watermark to your text,writing in go</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li><li><a href=https://github.com/felinae98/nonebot-plugin-send-anything-anywhere>felinae98/nonebot-plugin-send-anything-anywhere</a><p>一个帮助处理不同 adapter 消息的适配和发送的插件</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li></ul>
+<ul><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/Jiang-Red/go-phigros-b19>Jiang-Red/go-phigros-b19</a><p>go实现的phigros b19成绩图生成</p></li><li><a href=https://github.com/MoYoez/Text-WaterMark>MoYoez/Text-WaterMark</a><p>Add watermark to your text,writing in go</p></li><li><a href=https://github.com/xiaolei565/aimto408>xiaolei565/aimto408</a><p>🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研 4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/17/23, 8:56 AM<br>下一次刷新：7/18/23, 8:56 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/17/23, 8:59 AM<br>下一次刷新：7/18/23, 8:59 AM</p>
