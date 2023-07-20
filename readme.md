@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/18/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/19/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -66,11 +66,11 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><p>go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</p></li><li><a href=https://github.com/chaitin/safeline>chaitin/safeline</a><p>一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。</p></li><li><a href=https://github.com/Isoheptane/arch-media-box>Isoheptane/arch-media-box</a><p>Arch Linux 盒装安装媒介的小盒子</p></li><li><a href=https://github.com/SK-415/bilireq>SK-415/bilireq</a><p>又一个哔哩哔哩请求库</p></li><li><a href=https://github.com/disintegration/gift>disintegration/gift</a><p>Go Image Filtering Toolkit</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/ArcaeaResource-ActionUpdater>MoYoez/ArcaeaResource-ActionUpdater</a><p>Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.</p></li><li><a href=https://github.com/go-musicfox/go-musicfox>go-musicfox/go-musicfox</a><p>go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...</p></li><li><a href=https://github.com/chaitin/safeline>chaitin/safeline</a><p>一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。</p></li><li><a href=https://github.com/Isoheptane/arch-media-box>Isoheptane/arch-media-box</a><p>Arch Linux 盒装安装媒介的小盒子</p></li><li><a href=https://github.com/SK-415/bilireq>SK-415/bilireq</a><p>又一个哔哩哔哩请求库</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/felinae98/nonebot-plugin-send-anything-anywhere>felinae98/nonebot-plugin-send-anything-anywhere</a><p>一个帮助处理不同 adapter 消息的适配和发送的插件</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/7aGiven/PhigrosLibrary_Resource>7aGiven/PhigrosLibrary_Resource</a></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li></ul>
+<ul><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li><li><a href=https://github.com/7aGiven/PhigrosLibrary_Resource>7aGiven/PhigrosLibrary_Resource</a></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/19/23, 8:58 AM<br>下一次刷新：7/20/23, 8:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/20/23, 8:34 AM<br>下一次刷新：7/21/23, 8:34 AM</p>
