@@ -57,7 +57,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/19/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/20/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/Isoheptane/lemontea-bot>Isoheptane/lemontea-bot</a><p>A bot for maimai and other rhythm games.</p></li><li><a href=https://github.com/microsoft/AI-For-Beginners>microsoft/AI-For-Beginners</a><p>12 Weeks, 24 Lessons, AI for All!</p></li><li><a href=https://github.com/Ruixi-rebirth/flakes>Ruixi-rebirth/flakes</a><p>My presonal NixOS config</p></li><li><a href=https://github.com/7aGiven/PhigrosLibrary_Resource>7aGiven/PhigrosLibrary_Resource</a></li></ul>
+<ul><li><a href=https://github.com/MBRjun/Typecho-Login>MBRjun/Typecho-Login</a><p>Typecho Login Page in PHP</p></li><li><a href=https://github.com/Rongronggg9/SlashBot>Rongronggg9/SlashBot</a><p>响应诸如 “/抱”、“/摸摸” 之类消息的 Telegram Bot</p></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/gin-gonic/gin>gin-gonic/gin</a><p>Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</p></li><li><a href=https://github.com/LGBT-CN/LGBTQIA-In-China>LGBT-CN/LGBTQIA-In-China</a><p>🏳️‍🌈 中国的性少数群体一直渴望着自由平等</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/20/23, 8:34 AM<br>下一次刷新：7/21/23, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：7/21/23, 8:34 AM<br>下一次刷新：7/22/23, 8:34 AM</p>
