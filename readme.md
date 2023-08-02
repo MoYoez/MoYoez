@@ -70,7 +70,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/lunixbochs/struc>lunixbochs/struc</a><p>Better binary packing for Go</p></li><li><a href=https://github.com/Dice-Developer-Team/Dice>Dice-Developer-Team/Dice</a><p>QQ Dice Robot For TRPG QQ跑团掷骰机器人</p></li><li><a href=https://github.com/PrismarineJS/mineflayer>PrismarineJS/mineflayer</a><p>Create Minecraft bots with a powerful, stable, and high level JavaScript API.</p></li><li><a href=https://github.com/maxsupermanhd/go-mc-ms-auth>maxsupermanhd/go-mc-ms-auth</a><p>Microsoft authentication module for go-mc</p></li><li><a href=https://github.com/chaitin/safeline>chaitin/safeline</a><p>一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。</p></li></ul>
+<ul><li><a href=https://github.com/PrismarineJS/prismarine-chat>PrismarineJS/prismarine-chat</a><p>A parser for a minecraft chat message</p></li><li><a href=https://github.com/lunixbochs/struc>lunixbochs/struc</a><p>Better binary packing for Go</p></li><li><a href=https://github.com/dibingfa/flash-linux0.11-talk>dibingfa/flash-linux0.11-talk</a><p>你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码</p></li><li><a href=https://github.com/Walkersifolia/PhigrosLibrary-plugin>Walkersifolia/PhigrosLibrary-plugin</a><p>基于Yunzai-Bot v3的PhigrosLibrary-Plugin，可以查询Phigros B19并生成成绩图，以及一些其他的娱乐功能</p></li><li><a href=https://github.com/Rongronggg9/SlashBot>Rongronggg9/SlashBot</a><p>响应诸如 “/抱”、“/摸摸” 之类消息的 Telegram Bot</p></li></ul>
 
 **Can you find me?**
 
@@ -82,4 +82,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：8/1/23, 8:36 AM<br>下一次刷新：8/2/23, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：8/2/23, 8:31 AM<br>下一次刷新：8/3/23, 8:31 AM</p>
