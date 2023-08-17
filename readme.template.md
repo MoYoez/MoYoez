@@ -21,9 +21,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 ---
 
 <br />
-
-<a align="right" width="450" href="https://github.com/moyoez#gh-light-mode-only"><img height="150" src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
 
 <br />
 
