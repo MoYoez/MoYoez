@@ -2,7 +2,7 @@ export const opensource = {
   active: [
     //'',
     'MoYoez/Lucy_ZeroBot',
-    'MoYoez/Lucy_SideBook',
+    'MoYoez/text-watermark',
     'MoYoez/reactiveneko',
     'MoYoez/music-radio',
   ],

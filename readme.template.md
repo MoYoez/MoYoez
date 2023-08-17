@@ -6,29 +6,44 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~This is Koi, an undergraduate student & Full-stack developer for ~~life~~ fun. I always use "MoeMagicMango" or "KoiParadise" as my own account names, currently I learn vue&TypeScript for my next developing project, also I may try to study node as well ^^.
-
-Mainly I can use Golang, Python, React & Vue3 Framework & C , Rust is learning ( , I recommend this site -> [CSDIY](https://csdiy.wiki/) to study cs(Computer science), for it has lots of guide to help you ^^.
+Hi~ This is Koi, an undergraduate student & Backend  developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
 Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
 
+Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
+
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
 
-- this one is my own osu profile card(, I was an offline player before.
+- this one is my own osu profile card (, I was an offline player before.
 
 ![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
 
-**Coding For fun ^^**
+---
+
+<br />
+
+<a align="right" width="450" href="https://github.com/moyoez#gh-light-mode-only"><img height="150" src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+
+
+<br />
+
+**Program Language**
 
 <p>
+  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="TypeScirpt" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="JavaScirpt" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img alt="TypeScirpt" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Vue3" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white">
+  
 </p>
+
 
 **DevOps**
 
@@ -37,7 +52,7 @@ Coding and writing something amusing or useful may be a nice way to spend time ^
   <img alt="github actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img alt="OpenWRT" src="https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white">
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </p>
 
 **Environment**
@@ -71,13 +86,6 @@ recent_posts_inject
 **Starred**
 
 <!-- random_github_stars_inject -->
-
-**Can you find me?**
-
-<p><a href="https://github.com/MoYoez" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://steamcommunity.com/id/akirasweetz" tagget="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-<a href="https://moe.himoyo.cn" target="_blank"><img alt="LemonWithSodda" height="28" src='https://forthebadge.com/images/badges/contains-cat-gifs.svg' /></a>
-</p>
 
 ------------
 

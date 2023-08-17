@@ -110,12 +110,10 @@ function generateToysHTML(list: GRepo[]) {
       str +
       ` <tr>
   <td><a href="${cur.html_url}" target="_blank"><b>
-  ${cur.full_name}</b></a> ${
-        cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
+  ${cur.full_name}</b></a> ${cur.homepage ? `<a href="${cur.homepage}" target="_blank">🔗</a>` : ''
       }</td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/${
-    cur.full_name
-  }?style=flat-square&labelColor=343b41"/></td>
+  <td><img alt="Stars" src="https://img.shields.io/github/stars/${cur.full_name
+      }?style=flat-square&labelColor=343b41"/></td>
   <td>${new Date(cur.created_at).toLocaleDateString()}</td>
   <td>${new Date(cur.pushed_at).toLocaleDateString()}</td>
 </tr>`,
@@ -140,29 +138,25 @@ ${tbody}
  */
 
 function generateRepoHTML<T extends GHItem>(item: T) {
-  return `<li><a href="${item.html_url}">${item.full_name}</a>${
-    item.description ? `<p>${item.description}</p>` : ''
-  }</li>`
+  return `<li><a href="${item.html_url}">${item.full_name}</a>${item.description ? `<p>${item.description}</p>` : ''
+    }</li>`
 }
 
 function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
   return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
-  })} -  <a href="${
-    mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-  }">${item.title}</a></span>${
-    item.summary ? `<p>${item.summary}</p>` : ''
-  }</li>`
+  })} -  <a href="${mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
+    }">${item.title}</a></span>${item.summary ? `<p>${item.summary}</p>` : ''
+    }</li>`
 }
 
 function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
   return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
-  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${
-    item.title
-  }</a></span></li>`
+  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${item.title
+    }</a></span></li>`
 }
 
 async function main() {
@@ -267,19 +261,19 @@ ${topStar5}
       gc('FOOTER'),
       m`
     <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
-    <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b>
+    <b>设计参考为 <a href="https://github.com/wibus-wee">Wibus</a> 和 <a href="https://github.com/MoeCinnamo">MoeCinnamo</a> , Thanks.</b>
     </br>
     刷新于：${now.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}
+        timeStyle: 'short',
+        dateStyle: 'short',
+        timeZone,
+      })}
     <br/>
     下一次刷新：${next.toLocaleString(undefined, {
-      timeStyle: 'short',
-      dateStyle: 'short',
-      timeZone,
-    })}</p>
+        timeStyle: 'short',
+        dateStyle: 'short',
+        timeZone,
+      })}</p>
     `,
     )
   }
