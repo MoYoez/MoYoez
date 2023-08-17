@@ -21,9 +21,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 ---
 
 <br />
-
-<a align="right" width="450" href="https://github.com/moyoez#gh-light-mode-only"><img height="150" src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
 
 <br />
 
@@ -85,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/IOStreamReader/StreamRBot>IOStreamReader/StreamRBot</a><p>使用C#.net实现的go-cqhttp机器人（因为太菜了并没有使用异步）</p></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/TheOriginalAyaka/sekai-stickers>TheOriginalAyaka/sekai-stickers</a><p>Project Sekai sticker maker</p></li><li><a href=https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat>CMHopeSunshine/nonebot-plugin-learning-chat</a><p>Nonebot2插件，让Bot学习群友的发言和表情包。/ Nonebot2 plugin to learn what your group members say.</p></li><li><a href=https://github.com/gonum/plot>gonum/plot</a><p>A repository for plotting and visualizing data</p></li></ul>
+<ul><li><a href=https://github.com/chaitin/safeline>chaitin/safeline</a><p>一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。</p></li><li><a href=https://github.com/SK-415/bilireq>SK-415/bilireq</a><p>又一个哔哩哔哩请求库</p></li><li><a href=https://github.com/MistEO/Pallas-Bot>MistEO/Pallas-Bot</a><p>《明日方舟》帕拉斯 Bot</p></li><li><a href=https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat>CMHopeSunshine/nonebot-plugin-learning-chat</a><p>Nonebot2插件，让Bot学习群友的发言和表情包。/ Nonebot2 plugin to learn what your group members say.</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 An open-source creative community written on the blockchain.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/18/23, 12:32 AM<br>下一次刷新：8/19/23, 12:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/18/23, 12:37 AM<br>下一次刷新：8/19/23, 12:37 AM</p>
