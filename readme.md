@@ -72,7 +72,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>29/4/2022</td><td>8/7/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>11/8/2020</td><td>16/8/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/16/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/be5invis/Sarasa-Gothic>be5invis/Sarasa-Gothic</a><p>Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕</p></li><li><a href=https://github.com/MoYoez/PhigrosFlaskAPIReference>MoYoez/PhigrosFlaskAPIReference</a><p>Phigros Bests API, forks of PhigrosRPC</p></li><li><a href=https://github.com/lunixbochs/struc>lunixbochs/struc</a><p>Better binary packing for Go</p></li><li><a href=https://github.com/LGBT-CN/LGBTQIA-In-China>LGBT-CN/LGBTQIA-In-China</a><p>🏳️‍🌈 中国的性少数群体一直渴望着自由平等</p></li><li><a href=https://github.com/TheOriginalAyaka/sekai-stickers>TheOriginalAyaka/sekai-stickers</a><p>Project Sekai sticker maker</p></li></ul>
+<ul><li><a href=https://github.com/IOStreamReader/StreamRBot>IOStreamReader/StreamRBot</a><p>使用C#.net实现的go-cqhttp机器人（因为太菜了并没有使用异步）</p></li><li><a href=https://github.com/bakapiano/maimaidx-prober-proxy-updater>bakapiano/maimaidx-prober-proxy-updater</a><p>舞萌 DX 查分器数据更新器</p></li><li><a href=https://github.com/TheOriginalAyaka/sekai-stickers>TheOriginalAyaka/sekai-stickers</a><p>Project Sekai sticker maker</p></li><li><a href=https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat>CMHopeSunshine/nonebot-plugin-learning-chat</a><p>Nonebot2插件，让Bot学习群友的发言和表情包。/ Nonebot2 plugin to learn what your group members say.</p></li><li><a href=https://github.com/gonum/plot>gonum/plot</a><p>A repository for plotting and visualizing data</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：18/8/2023, 12:30 am<br>下一次刷新：19/8/2023, 12:30 am</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/18/23, 12:32 AM<br>下一次刷新：8/19/23, 12:32 AM</p>
