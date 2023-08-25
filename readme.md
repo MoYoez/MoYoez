@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MistEO/Pallas-Bot>MistEO/Pallas-Bot</a><p>《明日方舟》帕拉斯 Bot</p></li><li><a href=https://github.com/moesoha/debian-media-box>moesoha/debian-media-box</a><p>“Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。</p></li><li><a href=https://github.com/riccardogiorato/template-go-vercel>riccardogiorato/template-go-vercel</a><p>Template to get started with Go / Golang on Vercel for free!</p></li><li><a href=https://github.com/KotonamiOriyuki/PoolImage>KotonamiOriyuki/PoolImage</a><p>PoolImage 比赛showcase谱面预览生成器 (图片)</p></li><li><a href=https://github.com/gonum/plot>gonum/plot</a><p>A repository for plotting and visualizing data</p></li></ul>
+<ul><li><a href=https://github.com/Isoheptane/arch-media-box>Isoheptane/arch-media-box</a><p>Arch Linux 盒装安装媒介的小盒子</p></li><li><a href=https://github.com/lunixbochs/struc>lunixbochs/struc</a><p>Better binary packing for Go</p></li><li><a href=https://github.com/SK-415/bilireq>SK-415/bilireq</a><p>又一个哔哩哔哩请求库</p></li><li><a href=https://github.com/IOStreamReader/StreamRBot>IOStreamReader/StreamRBot</a><p>使用C#.net实现的go-cqhttp机器人（因为太菜了并没有使用异步）</p></li><li><a href=https://github.com/a16z-infra/llama2-chatbot>a16z-infra/llama2-chatbot</a><p>LLaMA v2 Chatbot</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/24/23, 8:25 AM<br>下一次刷新：8/25/23, 8:25 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/25/23, 8:26 AM<br>下一次刷新：8/26/23, 8:26 AM</p>
