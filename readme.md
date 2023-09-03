@@ -70,7 +70,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/1/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/31/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/31/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/2/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/gonum/plot>gonum/plot</a><p>A repository for plotting and visualizing data</p></li><li><a href=https://github.com/shiyunjin/lan-expose>shiyunjin/lan-expose</a><p>在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-FlaskAPI>MoYoez/PhigrosLibrary-FlaskAPI</a><p>Some Phigros API, forks of PhigrosRPC</p></li><li><a href=https://github.com/MoYoez/ArcaeaResource-ActionUpdater>MoYoez/ArcaeaResource-ActionUpdater</a><p>Use Github Action To Update Arcaea Resource, url from Lowiro WebAPI.</p></li></ul>
+<ul><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/MoYoez/PhigrosLibrary-FlaskAPI>MoYoez/PhigrosLibrary-FlaskAPI</a><p>Some Phigros API, forks of PhigrosRPC</p></li><li><a href=https://github.com/LS-KR/ZipMagicU>LS-KR/ZipMagicU</a><p>The solution of @SakuraKoi 's Telegram Group challenge~w</p></li><li><a href=https://github.com/dibingfa/flash-linux0.11-talk>dibingfa/flash-linux0.11-talk</a><p>你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码</p></li><li><a href=https://github.com/Young-Lord/qq-win-db-key>Young-Lord/qq-win-db-key</a><p>Windows QQ 聊天数据库解密</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/2/23, 8:25 AM<br>下一次刷新：9/3/23, 8:25 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/3/23, 8:28 AM<br>下一次刷新：9/4/23, 8:28 AM</p>
