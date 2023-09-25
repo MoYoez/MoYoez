@@ -70,7 +70,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/23/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/24/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,13 +79,13 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/MoYoez/ReiBot-Plugin>MoYoez/ReiBot-Plugin</a><p>基于 ReiBot 的 Telegram 插件, forks of Lucy</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/IgarashiAkatuki/DontSpeakAbsWords>IgarashiAkatuki/DontSpeakAbsWords</a><p>一个包括但不限于拼音缩写，中文黑话，emoji的翻译网站</p></li></ul>
+<ul><li><a href=https://github.com/SkyDynamic/SimpleMCServerCreater>SkyDynamic/SimpleMCServerCreater</a><p>A simple MC server download and config tool</p></li><li><a href=https://github.com/MoYoez/ReiBot-Plugin>MoYoez/ReiBot-Plugin</a><p>基于 ReiBot 的 Telegram 插件, forks of Lucy</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/PhigrosLibrary-FlaskAPI>MoYoez/PhigrosLibrary-FlaskAPI</a><p>Some Phigros API, forks of PhigrosRPC</p></li><li><a href=https://github.com/MistEO/Pallas-Bot>MistEO/Pallas-Bot</a><p>《明日方舟》帕拉斯 Bot</p></li><li><a href=https://github.com/ggerganov/kbd-audio>ggerganov/kbd-audio</a><p>🎤⌨️ Acoustic keyboard eavesdropping</p></li><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/getpelican/pelican>getpelican/pelican</a><p>Static site generator that supports Markdown and reST syntax. Powered by Python.</p></li></ul>
+<ul><li><a href=https://github.com/Young-Lord/qq-win-db-key>Young-Lord/qq-win-db-key</a><p>Windows QQ / QQNT 聊天数据库解密 (Frida)</p></li><li><a href=https://github.com/MoYoez/Moe-routerSecretChallenge>MoYoez/Moe-routerSecretChallenge</a><p>A SImple Telegram Channel Challenge By @MoYoez</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 An open-source creative community written on the blockchain.</p></li><li><a href=https://github.com/ctf-wiki/ctf-wiki>ctf-wiki/ctf-wiki</a><p>Come and join us, we need you!</p></li><li><a href=https://github.com/a16z-infra/llama2-chatbot>a16z-infra/llama2-chatbot</a><p>LLaMA v2 Chatbot</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/24/23, 8:29 AM<br>下一次刷新：9/25/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/25/23, 8:27 AM<br>下一次刷新：9/26/23, 8:27 AM</p>
