@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/LS-KR/ZipMagicU>LS-KR/ZipMagicU</a><p>The solution of @SakuraKoi 's Telegram Group challenge~w</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 An open-source creative community written on the blockchain.</p></li><li><a href=https://github.com/MoYoez/Moe-routerSecretChallenge>MoYoez/Moe-routerSecretChallenge</a><p>A SImple Telegram Channel Challenge By @MoYoez</p></li><li><a href=https://github.com/aimerneige/yukichan-bot>aimerneige/yukichan-bot</a><p>ゆき酱是使用 ZeroBot 构建的国际象棋聊天机器人。</p></li><li><a href=https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat>CMHopeSunshine/nonebot-plugin-learning-chat</a><p>Nonebot2插件，让Bot学习群友的发言和表情包。/ Nonebot2 plugin to learn what your group members say.</p></li></ul>
+<ul><li><a href=https://github.com/CMHopeSunshine/nonebot-plugin-learning-chat>CMHopeSunshine/nonebot-plugin-learning-chat</a><p>Nonebot2插件，让Bot学习群友的发言和表情包。/ Nonebot2 plugin to learn what your group members say.</p></li><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/TheOriginalAyaka/sekai-stickers>TheOriginalAyaka/sekai-stickers</a><p>Project Sekai sticker maker</p></li><li><a href=https://github.com/MistEO/Pallas-Bot>MistEO/Pallas-Bot</a><p>《明日方舟》帕拉斯 Bot</p></li><li><a href=https://github.com/YidaozhanYa/hexo-theme-stellaris>YidaozhanYa/hexo-theme-stellaris</a><p>📑 Powerful, elegant and modern Hexo theme, forked from hexo-theme-stellar.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/18/23, 8:27 AM<br>下一次刷新：10/19/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/19/23, 8:27 AM<br>下一次刷新：10/20/23, 8:27 AM</p>
