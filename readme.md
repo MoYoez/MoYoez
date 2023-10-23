@@ -70,7 +70,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>10/21/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>10/22/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/shiyunjin/lan-expose>shiyunjin/lan-expose</a><p>在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口</p></li><li><a href=https://github.com/moesoha/debian-media-box>moesoha/debian-media-box</a><p>“Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。</p></li><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/IgarashiAkatuki/DontSpeakAbsWords>IgarashiAkatuki/DontSpeakAbsWords</a><p>一个包括但不限于拼音缩写，中文黑话，emoji的翻译网站</p></li></ul>
+<ul><li><a href=https://github.com/LS-KR/ZipMagicU>LS-KR/ZipMagicU</a><p>The solution of @SakuraKoi 's Telegram Group challenge~w</p></li><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/JackeyLea/NJUCS>JackeyLea/NJUCS</a><p>2023南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等</p></li><li><a href=https://github.com/shmilylty/OneForAll>shmilylty/OneForAll</a><p>OneForAll是一款功能强大的子域收集工具</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/22/23, 8:29 AM<br>下一次刷新：10/23/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/23/23, 8:28 AM<br>下一次刷新：10/24/23, 8:28 AM</p>
