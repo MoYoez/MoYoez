@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/YidaozhanYa/hexo-theme-stellaris>YidaozhanYa/hexo-theme-stellaris</a><p>📑 Powerful, elegant and modern Hexo theme, forked from hexo-theme-stellar.</p></li><li><a href=https://github.com/go-telegram-bot-api/telegram-bot-api>go-telegram-bot-api/telegram-bot-api</a><p>Golang bindings for the Telegram Bot API</p></li><li><a href=https://github.com/shmilylty/OneForAll>shmilylty/OneForAll</a><p>OneForAll是一款功能强大的子域收集工具</p></li><li><a href=https://github.com/Crossbell-Box/xLog>Crossbell-Box/xLog</a><p>🪽 An open-source creative community written on the blockchain.</p></li><li><a href=https://github.com/MoYoez/ReiBot-Plugin>MoYoez/ReiBot-Plugin</a><p>基于 ReiBot 的 Telegram 插件, forks of Lucy</p></li></ul>
+<ul><li><a href=https://github.com/IOStreamReader/StreamRBot>IOStreamReader/StreamRBot</a><p>使用C#.net实现的go-cqhttp机器人（因为太菜了并没有使用异步）</p></li><li><a href=https://github.com/shmilylty/OneForAll>shmilylty/OneForAll</a><p>OneForAll是一款功能强大的子域收集工具</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/TheOriginalAyaka/sekai-stickers>TheOriginalAyaka/sekai-stickers</a><p>Project Sekai sticker maker</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/27/23, 8:26 AM<br>下一次刷新：10/28/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/28/23, 8:26 AM<br>下一次刷新：10/29/23, 8:26 AM</p>
