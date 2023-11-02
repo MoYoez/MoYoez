@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/YidaozhanYa/hexo-theme-stellaris>YidaozhanYa/hexo-theme-stellaris</a><p>📑 Powerful, elegant and modern Hexo theme, forked from hexo-theme-stellar.</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/getpelican/pelican>getpelican/pelican</a><p>Static site generator that supports Markdown and reST syntax. Powered by Python.</p></li><li><a href=https://github.com/moesoha/debian-media-box>moesoha/debian-media-box</a><p>“Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。</p></li></ul>
+<ul><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/LS-KR/ZipMagicU>LS-KR/ZipMagicU</a><p>The solution of @SakuraKoi 's Telegram Group challenge~w</p></li><li><a href=https://github.com/MoYoez/Moe-routerSecretChallenge>MoYoez/Moe-routerSecretChallenge</a><p>A SImple Telegram Channel Challenge By @MoYoez</p></li><li><a href=https://github.com/MistEO/Pallas-Bot>MistEO/Pallas-Bot</a><p>《明日方舟》帕拉斯 Bot</p></li><li><a href=https://github.com/SkyDynamic/SimpleCreateMCServerTool>SkyDynamic/SimpleCreateMCServerTool</a><p>A simple MC server download and config tool</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/1/23, 8:29 AM<br>下一次刷新：11/2/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/2/23, 8:27 AM<br>下一次刷新：11/3/23, 8:27 AM</p>
