@@ -70,7 +70,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/10/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/10/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>9/3/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/IgarashiAkatuki/DontSpeakAbsWords>IgarashiAkatuki/DontSpeakAbsWords</a><p>一个包括但不限于拼音缩写，中文黑话，emoji的翻译网站</p></li><li><a href=https://github.com/riccardogiorato/template-go-vercel>riccardogiorato/template-go-vercel</a><p>Template to get started with Go / Golang on Vercel for free!</p></li><li><a href=https://github.com/ggerganov/kbd-audio>ggerganov/kbd-audio</a><p>🎤⌨️ Acoustic keyboard eavesdropping</p></li><li><a href=https://github.com/ctf-wiki/ctf-wiki>ctf-wiki/ctf-wiki</a><p>Come and join us, we need you!</p></li></ul>
+<ul><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/aimerneige/yukichan-bot>aimerneige/yukichan-bot</a><p>ゆき酱是使用 ZeroBot 构建的国际象棋聊天机器人。</p></li><li><a href=https://github.com/riccardogiorato/template-go-vercel>riccardogiorato/template-go-vercel</a><p>Template to get started with Go / Golang on Vercel for free!</p></li><li><a href=https://github.com/shmilylty/OneForAll>shmilylty/OneForAll</a><p>OneForAll是一款功能强大的子域收集工具</p></li><li><a href=https://github.com/YidaozhanYa/hexo-theme-stellaris>YidaozhanYa/hexo-theme-stellaris</a><p>📑 Powerful, elegant and modern Hexo theme, forked from hexo-theme-stellar.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/11/23, 8:27 AM<br>下一次刷新：11/12/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/12/23, 8:30 AM<br>下一次刷新：11/13/23, 8:30 AM</p>
