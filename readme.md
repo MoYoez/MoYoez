@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/getpelican/pelican>getpelican/pelican</a><p>Static site generator that supports Markdown and reST syntax. Powered by Python.</p></li><li><a href=https://github.com/LS-KR/ZipMagicU>LS-KR/ZipMagicU</a><p>The solution of @SakuraKoi 's Telegram Group challenge~w</p></li><li><a href=https://github.com/aimerneige/yukichan-bot>aimerneige/yukichan-bot</a><p>ゆき酱是使用 ZeroBot 构建的国际象棋聊天机器人。</p></li><li><a href=https://github.com/MoYoez/ReiBot-Plugin>MoYoez/ReiBot-Plugin</a><p>基于 ReiBot 的 Telegram 插件, forks of Lucy</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li></ul>
+<ul><li><a href=https://github.com/shmilylty/OneForAll>shmilylty/OneForAll</a><p>OneForAll是一款功能强大的子域收集工具</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/YidaozhanYa/hexo-theme-stellaris>YidaozhanYa/hexo-theme-stellaris</a><p>📑 Powerful, elegant and modern Hexo theme, forked from hexo-theme-stellar.</p></li><li><a href=https://github.com/ggerganov/kbd-audio>ggerganov/kbd-audio</a><p>🎤⌨️ Acoustic keyboard eavesdropping</p></li><li><a href=https://github.com/ctf-wiki/ctf-wiki>ctf-wiki/ctf-wiki</a><p>Come and join us, we need you!</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/14/23, 8:28 AM<br>下一次刷新：11/15/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/15/23, 8:28 AM<br>下一次刷新：11/16/23, 8:28 AM</p>
