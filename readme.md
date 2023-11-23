@@ -83,9 +83,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/wll8/lodash-utils>wll8/lodash-utils</a><p>基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。</p></li><li><a href=https://github.com/cjh0613/tencent-sensitive-words>cjh0613/tencent-sensitive-words</a><p>腾讯的离线敏感词库</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li></ul>
+<ul><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/aimerneige/yukichan-bot>aimerneige/yukichan-bot</a><p>ゆき酱是使用 ZeroBot 构建的国际象棋聊天机器人。</p></li><li><a href=https://github.com/niltok/magic-in-ten-mins>niltok/magic-in-ten-mins</a><p>十分钟魔法练习</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/22/23, 8:30 AM<br>下一次刷新：11/23/23, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/23/23, 8:29 AM<br>下一次刷新：11/24/23, 8:29 AM</p>
