@@ -14,9 +14,13 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
 
-- this one is my own osu profile card (, I was an offline player before.
+## ^^
 
-![osu](https://osusig.lolico.moe/sig.php?colour=hex66ccff&uname=KoiParadise&mode=3&pp=1&countryrank&flagstroke&rankedscore)
+> Could you buy me a coffee? ^^ Thanks You~
+
+
+
+<p><a href="https://ko-fi.com/moyoez"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lolirest" /></a></p><br><br>
 
 ---
 
