@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/ckcr4lyf/EvilAppleJuice-ESP32>ckcr4lyf/EvilAppleJuice-ESP32</a><p>Spam Apple Proximity Messages via an ESP32</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/CofbroTeam/Doraemon>CofbroTeam/Doraemon</a><p>⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！</p></li><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li></ul>
+<ul><li><a href=https://github.com/getpelican/pelican>getpelican/pelican</a><p>Static site generator that supports Markdown and reST syntax. Powered by Python.</p></li><li><a href=https://github.com/cjh0613/tencent-sensitive-words>cjh0613/tencent-sensitive-words</a><p>腾讯的离线敏感词库</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/IgarashiAkatuki/DontSpeakAbsWords>IgarashiAkatuki/DontSpeakAbsWords</a><p>一个包括但不限于拼音缩写，中文黑话，emoji的翻译网站</p></li><li><a href=https://github.com/wll8/lodash-utils>wll8/lodash-utils</a><p>基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/28/23, 8:29 AM<br>下一次刷新：11/29/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/29/23, 8:29 AM<br>下一次刷新：11/30/23, 8:29 AM</p>
