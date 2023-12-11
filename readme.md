@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li><li><a href=https://github.com/MoYoez/lucy_reibot>MoYoez/lucy_reibot</a><p>An Unoffical Forks of Reibot-Plugin, basic on Lucy_zerobot.</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo>Hoshinonyaruko/Gensokyo</a><p>基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/CofbroTeam/Doraemon>CofbroTeam/Doraemon</a><p>⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！</p></li></ul>
+<ul><li><a href=https://github.com/Hoshinonyaruko/Gensokyo>Hoshinonyaruko/Gensokyo</a><p>基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/CofbroTeam/Doraemon>CofbroTeam/Doraemon</a><p>⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！</p></li><li><a href=https://github.com/MoYoez/mai-bind_LucyBot>MoYoez/mai-bind_LucyBot</a><p>A bind site For Lucy.</p></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/9/23, 8:29 AM<br>下一次刷新：12/10/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/11/23, 8:30 AM<br>下一次刷新：12/12/23, 8:30 AM</p>
