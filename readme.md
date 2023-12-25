@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/lucy_reibot>MoYoez/lucy_reibot</a><p>An Unoffical Forks of Reibot-Plugin, based on Lucy_zerobot.</p></li><li><a href=https://github.com/hiddify/hiddify-next>hiddify/hiddify-next</a><p>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</p></li><li><a href=https://github.com/SkyDynamic/SimpleCreateMCServerTool>SkyDynamic/SimpleCreateMCServerTool</a><p>A simple MC server download and config tool</p></li><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo>Hoshinonyaruko/Gensokyo</a><p>基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.</p></li></ul>
+<ul><li><a href=https://github.com/xi-yue-233/nonebot-plugin-p5generator>xi-yue-233/nonebot-plugin-p5generator</a></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo>Hoshinonyaruko/Gensokyo</a><p>基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/DarrenDanielDay/arcaea-toolbelt>DarrenDanielDay/arcaea-toolbelt</a></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/24/23, 8:31 AM<br>下一次刷新：12/25/23, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/25/23, 8:29 AM<br>下一次刷新：12/26/23, 8:29 AM</p>
