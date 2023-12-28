@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Mikotwa/FuckLocation>Mikotwa/FuckLocation</a><p>A simple xposed module that helps you fully control your location.</p></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/hiddify/hiddify-next>hiddify/hiddify-next</a><p>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo>Hoshinonyaruko/Gensokyo</a><p>基于qq官方api开发的符合onebot标准的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li></ul>
+<ul><li><a href=https://github.com/firmianay/CTF-All-In-One>firmianay/CTF-All-In-One</a><p>CTF竞赛权威指南</p></li><li><a href=https://github.com/MoYoez/mai-bind_LucyBot>MoYoez/mai-bind_LucyBot</a><p>A bind site For Lucy.</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li><li><a href=https://github.com/SkyDynamic/SimpleCreateMCServerTool>SkyDynamic/SimpleCreateMCServerTool</a><p>A simple MC server download and config tool</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/27/23, 8:28 AM<br>下一次刷新：12/28/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/28/23, 8:28 AM<br>下一次刷新：12/29/23, 8:28 AM</p>
