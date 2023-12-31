@@ -74,7 +74,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>12/29/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>12/29/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/Rohail33/Realking_kernel_sm8250>Rohail33/Realking_kernel_sm8250</a><p>RealKing-kernel for Kona (SM8250): Currently supports ~~ Alioth/in , Apollo/Pro , Munch/in. {For Both MiUi and Aosp Roms} and Oneplus 8 series: opkona ( for both oos and aosp )</p></li><li><a href=https://github.com/SkyDynamic/Nonebot_Plugin_Jrrp_Next>SkyDynamic/Nonebot_Plugin_Jrrp_Next</a><p>A jrrp plugin for Nonebot</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/MrXiaoM/qsign>MrXiaoM/qsign</a><p>Quick-signal Fetch Project</p></li></ul>
+<ul><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/SAI-24-me/neverWriteByHand>SAI-24-me/neverWriteByHand</a><p>模拟手写稿</p></li><li><a href=https://github.com/MoYoez/lucy_reibot>MoYoez/lucy_reibot</a><p>An Unoffical Forks of Reibot-Plugin, based on Lucy_zerobot.</p></li><li><a href=https://github.com/hiddify/hiddify-next>hiddify/hiddify-next</a><p>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/30/23, 8:27 AM<br>下一次刷新：12/31/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/31/23, 8:31 AM<br>下一次刷新：1/1/24, 8:31 AM</p>
