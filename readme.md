@@ -87,9 +87,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/SAI-24-me/neverWriteByHand>SAI-24-me/neverWriteByHand</a><p>模拟手写稿</p></li><li><a href=https://github.com/MoYoez/lucy_reibot>MoYoez/lucy_reibot</a><p>An Unoffical Forks of Reibot-Plugin, based on Lucy_zerobot.</p></li><li><a href=https://github.com/hiddify/hiddify-next>hiddify/hiddify-next</a><p>Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.</p></li></ul>
+<ul><li><a href=https://github.com/Mikotwa/FuckLocation>Mikotwa/FuckLocation</a><p>A simple xposed module that helps you fully control your location.</p></li><li><a href=https://github.com/yoav-lavi/melody>yoav-lavi/melody</a><p>Melody is a language that compiles to regular expressions and aims to be more readable and maintainable</p></li><li><a href=https://github.com/MoYoez/mai-bind_LucyBot>MoYoez/mai-bind_LucyBot</a><p>A bind site For Lucy.</p></li><li><a href=https://github.com/ckcr4lyf/EvilAppleJuice-ESP32>ckcr4lyf/EvilAppleJuice-ESP32</a><p>Spam Apple Proximity Messages via an ESP32</p></li><li><a href=https://github.com/SAI-24-me/neverWriteByHand>SAI-24-me/neverWriteByHand</a><p>模拟手写稿</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/31/23, 8:31 AM<br>下一次刷新：1/1/24, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/1/24, 8:33 AM<br>下一次刷新：1/2/24, 8:33 AM</p>
