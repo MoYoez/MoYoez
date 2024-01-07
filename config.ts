@@ -3,8 +3,8 @@ export const opensource = {
     //'',
     'MoYoez/Lucy_ZeroBot',
     'MoYoez/text-watermark',
-    'MoYoez/reactiveneko',
-    'MoYoez/music-radio',
+    'MoYoez/lucy_reibot',
+    'MoYoez/PhigrosLibrary-FlaskAPI',
   ],
   toys: {
     limit: 3,
