@@ -72,7 +72,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/13/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/13/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/hosxy/Fcitx5-Material-Color>hosxy/Fcitx5-Material-Color</a><p>一款使用Material Design 配色的 fcitx5 皮肤，喜欢的话给个 star 吧 ヾ(≧へ≦)〃 😉</p></li><li><a href=https://github.com/Neskol/Maichart-Converts>Neskol/Maichart-Converts</a><p>Maichart Converts with only Simai files.</p></li><li><a href=https://github.com/Tatsu-syo/noMeiryoUI>Tatsu-syo/noMeiryoUI</a><p>No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.</p></li><li><a href=https://github.com/corot-scrapyard/android_device_xiaomi_corot-TWRP>corot-scrapyard/android_device_xiaomi_corot-TWRP</a><p>TWRP device tree for Redmi K60 Ultra (corot)</p></li><li><a href=https://github.com/wll8/lodash-utils>wll8/lodash-utils</a><p>基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/xi-yue-233/nonebot-plugin-p5generator>xi-yue-233/nonebot-plugin-p5generator</a></li><li><a href=https://github.com/yoav-lavi/melody>yoav-lavi/melody</a><p>Melody is a language that compiles to regular expressions and aims to be more readable and maintainable</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/14/24, 8:33 AM<br>下一次刷新：1/15/24, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/15/24, 8:31 AM<br>下一次刷新：1/16/24, 8:31 AM</p>
