@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/gloxec/CrossC2>gloxec/CrossC2</a><p>generate CobaltStrike's cross-platform payload</p></li><li><a href=https://github.com/Mikotwa/FuckLocation>Mikotwa/FuckLocation</a><p>A simple xposed module that helps you fully control your location.</p></li><li><a href=https://github.com/SkyDynamic/PearlTickets-Next>SkyDynamic/PearlTickets-Next</a><p>A mod what can make the Ender Pearl load the chunk</p></li><li><a href=https://github.com/MoYoez/moyoez.github.io>MoYoez/moyoez.github.io</a></li><li><a href=https://github.com/MoYoez/ReiBot>MoYoez/ReiBot</a><p>Lightweight Telegram bot framework</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/MoYoez/lucy_reibot>MoYoez/lucy_reibot</a><p>An Unoffical Fork of Reibot-Plugin, based on Lucy_zerobot.</p></li><li><a href=https://github.com/MoYoez/mai-bind_LucyBot>MoYoez/mai-bind_LucyBot</a><p>A bind site For Lucy.</p></li><li><a href=https://github.com/Tatsu-syo/noMeiryoUI>Tatsu-syo/noMeiryoUI</a><p>No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.</p></li><li><a href=https://github.com/SkyDynamic/Player-Extend-Carpet-Addition-Mod>SkyDynamic/Player-Extend-Carpet-Addition-Mod</a><p>carpet 多假人操作扩展</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/28/24, 8:30 AM<br>下一次刷新：1/29/24, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/29/24, 8:28 AM<br>下一次刷新：1/30/24, 8:28 AM</p>
