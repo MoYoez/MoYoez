@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Neskol/Maichart-Converts>Neskol/Maichart-Converts</a><p>Maichart Converts with only Simai files.</p></li><li><a href=https://github.com/xi-yue-233/nonebot-plugin-p5generator>xi-yue-233/nonebot-plugin-p5generator</a></li><li><a href=https://github.com/MoYoez/siderLucy-book>MoYoez/siderLucy-book</a><p>A side Manual Book For Lucy (Telegram)</p></li><li><a href=https://github.com/fumiama/NanoBot>fumiama/NanoBot</a><p>类ZeroBot的官方QQ频道/群聊全域机器人框架, 简单易用</p></li><li><a href=https://github.com/Rohail33/Realking_kernel_sm8250>Rohail33/Realking_kernel_sm8250</a><p>RealKing-kernel for Kona (SM8250): Currently supports ~~ Alioth/in , Apollo/Pro , Munch/in. {For Both MiUi and Aosp Roms} and Oneplus 8 series: opkona ( for both oos and aosp )</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/LocalStorage_lxns_maimai>MoYoez/LocalStorage_lxns_maimai</a><p>A place where to save plate | jacket , use manually upload here.</p></li><li><a href=https://github.com/fumiama/NanoBot>fumiama/NanoBot</a><p>类ZeroBot的官方QQ频道/群聊全域机器人框架, 简单易用</p></li><li><a href=https://github.com/Poolitzer/usernameToChatAPI>Poolitzer/usernameToChatAPI</a></li><li><a href=https://github.com/Rohail33/Realking_kernel_sm8250>Rohail33/Realking_kernel_sm8250</a><p>RealKing-kernel for Kona (SM8250): Currently supports ~~ Alioth/in , Apollo/Pro , Munch/in. {For Both MiUi and Aosp Roms} and Oneplus 8 series: opkona ( for both oos and aosp )</p></li><li><a href=https://github.com/SkyDynamic/PearlTickets-Next>SkyDynamic/PearlTickets-Next</a><p>A mod what can make the Ender Pearl load the chunk</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/11/24, 8:31 AM<br>下一次刷新：2/12/24, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/12/24, 8:28 AM<br>下一次刷新：2/13/24, 8:28 AM</p>
