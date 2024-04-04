@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk>lgc-NB2Dev/nonebot-plugin-pjsk</a><p>Project Sekai 表情包制作</p></li><li><a href=https://github.com/oetiker/SmokePing>oetiker/SmokePing</a><p>The Active Monitoring System</p></li><li><a href=https://github.com/Kgym-Hina/ArcadeLinkage>Kgym-Hina/ArcadeLinkage</a><p>一个帮助音游直播机台实现自助录像、直播等功能的开源项目</p></li><li><a href=https://github.com/Neskol/Maichart-Converts>Neskol/Maichart-Converts</a><p>Maichart Converts with only Simai files.</p></li><li><a href=https://github.com/bangumi/server>bangumi/server</a><p>The next-generation api backend server for bgm.tv</p></li></ul>
+<ul><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li><li><a href=https://github.com/Neskol/Maichart-Converts>Neskol/Maichart-Converts</a><p>Maichart Converts with only Simai files.</p></li><li><a href=https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk>lgc-NB2Dev/nonebot-plugin-pjsk</a><p>Project Sekai 表情包制作</p></li><li><a href=https://github.com/yuzu-mirror/yuzu>yuzu-mirror/yuzu</a><p>Nintendo Switch emulator (unofficial mirror fork)</p></li><li><a href=https://github.com/Kgym-Hina/ArcadeLinkage>Kgym-Hina/ArcadeLinkage</a><p>一个帮助音游直播机台实现自助录像、直播等功能的开源项目</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/3/24, 8:28 AM<br>下一次刷新：4/4/24, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/4/24, 8:29 AM<br>下一次刷新：4/5/24, 8:29 AM</p>
