@@ -72,7 +72,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/1/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>11/16/2023</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/4/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -85,9 +85,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li><li><a href=https://github.com/Neskol/Maichart-Converts>Neskol/Maichart-Converts</a><p>Maichart Converts with only Simai files.</p></li><li><a href=https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk>lgc-NB2Dev/nonebot-plugin-pjsk</a><p>Project Sekai 表情包制作</p></li><li><a href=https://github.com/yuzu-mirror/yuzu>yuzu-mirror/yuzu</a><p>Nintendo Switch emulator (unofficial mirror fork)</p></li><li><a href=https://github.com/Kgym-Hina/ArcadeLinkage>Kgym-Hina/ArcadeLinkage</a><p>一个帮助音游直播机台实现自助录像、直播等功能的开源项目</p></li></ul>
+<ul><li><a href=https://github.com/Kgym-Hina/ArcadeLinkage>Kgym-Hina/ArcadeLinkage</a><p>一个帮助音游直播机台实现自助录像、直播等功能的开源项目</p></li><li><a href=https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire>MlgmXyysd/Xiaomi-BootLoader-Questionnaire</a><p>小米 BootLoader《解锁资格答题测试》更新记录</p></li><li><a href=https://github.com/AIsouler/GKD_subscription>AIsouler/GKD_subscription</a><p>GKD 第三方订阅规则</p></li><li><a href=https://github.com/kukuruzka165/materialgram>kukuruzka165/materialgram</a><p>Telegram Desktop fork with material icons and some improvements</p></li><li><a href=https://github.com/MoYoez/MonoChatBot>MoYoez/MonoChatBot</a><p>Use ChatGPT API, talk fluently in a conversation with ChatGPT.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/4/24, 8:29 AM<br>下一次刷新：4/5/24, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/5/24, 8:29 AM<br>下一次刷新：4/6/24, 8:29 AM</p>
