@@ -1,6 +1,6 @@
 # MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme) [![wakatime](https://wakatime.com/badge/user/057b0405-d0cc-4063-99fb-0072ae8088db.svg)](https://wakatime.com/@057b0405-d0cc-4063-99fb-0072ae8088db)
 
-![pic](https://cdn.himoyo.cn/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
+![pic](https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
 > <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
 
@@ -8,18 +8,12 @@
 
 Hi~ This is Koi, an undergraduate student & Backend  developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
-Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
+Modify Everything>? So confused That maybe I should make my own bot here^^.
 
-Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
+Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
-
-## ^^
-
-> Could you buy me a coffee? ^^ Thanks You~
-
-<p><a href="https://ko-fi.com/moyoez"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lolirest" /></a></p><br><br>
-
+> 
 ---
 
 <br />
@@ -72,7 +66,7 @@ Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache a
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/14/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/21/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/14/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/22/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -81,13 +75,13 @@ recent_posts_inject
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/x2es/bt-dualboot>x2es/bt-dualboot</a><p>Sync Bluetooth for dualboot Linux and Windows</p></li><li><a href=https://github.com/zeromicro/go-zero>zeromicro/go-zero</a><p>A cloud-native Go microservices framework with cli tool for productivity.</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/w2sft/Ty2yAntiVirus>w2sft/Ty2yAntiVirus</a><p>一款真正的杀毒软件，扫描查杀、实时防护具备，VB+VC源码。</p></li><li><a href=https://github.com/mxssl/sre-interview-prep-guide>mxssl/sre-interview-prep-guide</a><p>Site Reliability Engineer Interview Preparation Guide</p></li></ul>
+<ul><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/x2es/bt-dualboot>x2es/bt-dualboot</a><p>Sync Bluetooth for dualboot Linux and Windows</p></li><li><a href=https://github.com/zeromicro/go-zero>zeromicro/go-zero</a><p>A cloud-native Go microservices framework with cli tool for productivity.</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/w2sft/Ty2yAntiVirus>w2sft/Ty2yAntiVirus</a><p>一款真正的杀毒软件，扫描查杀、实时防护具备，VB+VC源码。</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/watagashi-uni/Unibot>watagashi-uni/Unibot</a><p>多功能 QQ 群 PJSK 机器人</p></li><li><a href=https://github.com/uditkarode/Minegram>uditkarode/Minegram</a><p>🌉 A Minecraft-Telegram bridge written in GoLang.</p></li><li><a href=https://github.com/aristocratos/btop>aristocratos/btop</a><p>A monitor of resources</p></li><li><a href=https://github.com/krau/kmua-bot>krau/kmua-bot</a><p>🍥✨ A 💕 Telegram❄️ Bot🍰</p></li><li><a href=https://github.com/qax-os/excelize>qax-os/excelize</a><p>Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</p></li></ul>
+<ul><li><a href=https://github.com/krau/kmua-bot>krau/kmua-bot</a><p>🍥✨ A 💕 Telegram❄️ Bot🍰</p></li><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li><li><a href=https://github.com/Katana-Official/XYNXposed>Katana-Official/XYNXposed</a><p>XYN Xposed - The future from now on</p></li><li><a href=https://github.com/apernet/OpenGFW>apernet/OpenGFW</a><p>OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux</p></li><li><a href=https://github.com/ricky8955555/yakusoku>ricky8955555/yakusoku</a><p>一个多功能 Telegram 机器人</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/22/24, 8:30 AM<br>下一次刷新：4/23/24, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/22/24, 11:35 PM<br>下一次刷新：4/23/24, 11:35 PM</p>
