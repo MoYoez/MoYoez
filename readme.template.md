@@ -1,6 +1,6 @@
 # MoeMagicMango.🍀 ![](https://visitor-badge.laobi.icu/badge?page_id=MoYoez.readme) [![wakatime](https://wakatime.com/badge/user/057b0405-d0cc-4063-99fb-0072ae8088db.svg)](https://wakatime.com/@057b0405-d0cc-4063-99fb-0072ae8088db)
 
-![pic](https://cdn.himoyo.cn/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
+![pic](https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
 > <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
 
@@ -8,18 +8,12 @@
 
 Hi~ This is Koi, an undergraduate student & Backend  developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
-Coding and writing something amusing or useful may be a nice way to spend time ^^, and I hope I can do more in the next few years.
+Modify Everything>? So confused That maybe I should make my own bot here^^.
 
-Currently I am learning Rust || Java (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
+Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
-
-## ^^
-
-> Could you buy me a coffee? ^^ Thanks You~
-
-<p><a href="https://ko-fi.com/moyoez"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lolirest" /></a></p><br><br>
-
+> 
 ---
 
 <br />
