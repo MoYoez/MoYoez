@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>5/3/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/14/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>4/14/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>5/4/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li><li><a href=https://github.com/iview/iview-admin>iview/iview-admin</a><p>Vue 2.0 admin management system template based on iView</p></li><li><a href=https://github.com/watagashi-uni/Unibot>watagashi-uni/Unibot</a><p>多功能 QQ 群 PJSK 机器人</p></li><li><a href=https://github.com/zhouwei1994/uni-app-template>zhouwei1994/uni-app-template</a><p>uni-app的项目模板</p></li><li><a href=https://github.com/uditkarode/Minegram>uditkarode/Minegram</a><p>🌉 A Minecraft-Telegram bridge written in GoLang.</p></li></ul>
+<ul><li><a href=https://github.com/mxssl/sre-interview-prep-guide>mxssl/sre-interview-prep-guide</a><p>Site Reliability Engineer Interview Preparation Guide</p></li><li><a href=https://github.com/Kgym-Hina/ArcadeLinkage>Kgym-Hina/ArcadeLinkage</a><p>一个帮助音游直播机台实现自助录像、直播等功能的开源项目</p></li><li><a href=https://github.com/OvyFlash/telegram-bot-api>OvyFlash/telegram-bot-api</a><p>Golang bindings for the Telegram Bot API</p></li><li><a href=https://github.com/lgc-NB2Dev/nonebot-plugin-pjsk>lgc-NB2Dev/nonebot-plugin-pjsk</a><p>Project Sekai 表情包制作</p></li><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/4/24, 8:29 AM<br>下一次刷新：5/5/24, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/5/24, 8:32 AM<br>下一次刷新：5/6/24, 8:32 AM</p>
