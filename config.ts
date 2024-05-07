@@ -1,7 +1,7 @@
 export const opensource = {
   active: [
     //'',
-    'MoYoez/Lucy_ZeroBot',
+    'MoYoez/Lucy-QOnebot',
     'MoYoez/text-watermark',
     'MoYoez/lucy_reibot',
     'MoYoez/PhigrosLibrary-FlaskAPI',
