@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/goplus/gop>goplus/gop</a><p>The Go+ programming language is designed for engineering, STEM education, and data science</p></li><li><a href=https://github.com/iview/iview-admin>iview/iview-admin</a><p>Vue 2.0 admin management system template based on iView</p></li><li><a href=https://github.com/x2es/bt-dualboot>x2es/bt-dualboot</a><p>Sync Bluetooth for dualboot Linux and Windows</p></li><li><a href=https://github.com/ValveSoftware/Proton>ValveSoftware/Proton</a><p>Compatibility tool for Steam Play based on Wine and additional components</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li></ul>
+<ul><li><a href=https://github.com/myjian/mai-tools>myjian/mai-tools</a><p>mai-tools is a collection of useful tools for maimai and maimai DX.</p></li><li><a href=https://github.com/x2es/bt-dualboot>x2es/bt-dualboot</a><p>Sync Bluetooth for dualboot Linux and Windows</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li><li><a href=https://github.com/mxssl/sre-interview-prep-guide>mxssl/sre-interview-prep-guide</a><p>Site Reliability Engineer Interview Preparation Guide</p></li><li><a href=https://github.com/OvyFlash/telegram-bot-api>OvyFlash/telegram-bot-api</a><p>Golang bindings for the Telegram Bot API</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/7/24, 9:20 PM<br>下一次刷新：5/8/24, 9:20 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/8/24, 8:24 AM<br>下一次刷新：5/9/24, 8:24 AM</p>
