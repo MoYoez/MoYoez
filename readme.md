@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/uditkarode/Minegram>uditkarode/Minegram</a><p>🌉 A Minecraft-Telegram bridge written in GoLang.</p></li><li><a href=https://github.com/Bryce792/ApotheoticAdditions>Bryce792/ApotheoticAdditions</a><p>Apotheosis Addon</p></li><li><a href=https://github.com/NanmiCoder/MediaCrawler>NanmiCoder/MediaCrawler</a><p>小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫</p></li><li><a href=https://github.com/myjian/mai-tools>myjian/mai-tools</a><p>mai-tools is a collection of useful tools for maimai and maimai DX.</p></li><li><a href=https://github.com/MoYoez/HafuuNano>MoYoez/HafuuNano</a><p>HafuuNano Is a Bot Powered By Tencent Official Framework</p></li></ul>
+<ul><li><a href=https://github.com/go-echarts/snapshot-chromedp>go-echarts/snapshot-chromedp</a><p>⚔️ The extension for render image in go-echarts.</p></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><p>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</p></li><li><a href=https://github.com/w2sft/Ty2yAntiVirus>w2sft/Ty2yAntiVirus</a><p>一款真正的杀毒软件，扫描查杀、实时防护具备，VB+VC源码。</p></li><li><a href=https://github.com/OvyFlash/telegram-bot-api>OvyFlash/telegram-bot-api</a><p>Golang bindings for the Telegram Bot API</p></li><li><a href=https://github.com/MoYoez/HafuuNano>MoYoez/HafuuNano</a><p>HafuuNano Is a Bot Powered By Tencent Official Framework</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/14/24, 8:29 AM<br>下一次刷新：5/15/24, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/15/24, 8:30 AM<br>下一次刷新：5/16/24, 8:30 AM</p>
