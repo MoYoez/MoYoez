@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/HafuuNano>MoYoez/HafuuNano</a><p>HafuuNano Is a Bot Powered By Tencent Official Framework</p></li><li><a href=https://github.com/bytedance/sonic>bytedance/sonic</a><p>A blazingly fast JSON serializing & deserializing library</p></li><li><a href=https://github.com/Catrong/phi-plugin>Catrong/phi-plugin</a><p>适用于 Yunzai-Bot V3 的 phigros 辅助插件，支持查询分数信息等功能，以及猜曲目等小游戏</p></li><li><a href=https://github.com/zhouwei1994/uni-app-template>zhouwei1994/uni-app-template</a><p>uni-app的项目模板</p></li><li><a href=https://github.com/myjian/mai-tools>myjian/mai-tools</a><p>mai-tools is a collection of useful tools for maimai and maimai DX.</p></li></ul>
+<ul><li><a href=https://github.com/zhouwei1994/uni-app-template>zhouwei1994/uni-app-template</a><p>uni-app的项目模板</p></li><li><a href=https://github.com/moyuc1966/netherworld-console>moyuc1966/netherworld-console</a><p>地府管理系统完整版，功能完整，多用户多权限，有前台功能</p></li><li><a href=https://github.com/bytedance/sonic>bytedance/sonic</a><p>A blazingly fast JSON serializing & deserializing library</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/20/24, 8:31 AM<br>下一次刷新：5/21/24, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/21/24, 8:30 AM<br>下一次刷新：5/22/24, 8:30 AM</p>
