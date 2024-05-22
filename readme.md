@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/5/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>5/19/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/5/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>5/22/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/zhouwei1994/uni-app-template>zhouwei1994/uni-app-template</a><p>uni-app的项目模板</p></li><li><a href=https://github.com/moyuc1966/netherworld-console>moyuc1966/netherworld-console</a><p>地府管理系统完整版，功能完整，多用户多权限，有前台功能</p></li><li><a href=https://github.com/bytedance/sonic>bytedance/sonic</a><p>A blazingly fast JSON serializing & deserializing library</p></li><li><a href=https://github.com/chokcoco/iCSS>chokcoco/iCSS</a><p>不止于 CSS</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li></ul>
+<ul><li><a href=https://github.com/mxssl/sre-interview-prep-guide>mxssl/sre-interview-prep-guide</a><p>Site Reliability Engineer Interview Preparation Guide</p></li><li><a href=https://github.com/tangruize/NJU-EasyConnect-Script>tangruize/NJU-EasyConnect-Script</a><p>Scripts to optimize NJU EasyConnect client routing rules.</p></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><p>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</p></li><li><a href=https://github.com/w2sft/Ty2yAntiVirus>w2sft/Ty2yAntiVirus</a><p>一款真正的杀毒软件，扫描查杀、实时防护具备，VB+VC源码。</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/21/24, 8:30 AM<br>下一次刷新：5/22/24, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/22/24, 8:30 AM<br>下一次刷新：5/23/24, 8:30 AM</p>
