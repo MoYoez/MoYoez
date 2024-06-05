@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/SkyDynamic/QuickBackupM-Fabric>SkyDynamic/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><p>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</p></li><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/JadyXuan/NTTS>JadyXuan/NTTS</a><p>NO TIME TO SLEEP</p></li><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li></ul>
+<ul><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><p>OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</p></li><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li><li><a href=https://github.com/goplus/gop>goplus/gop</a><p>The Go+ programming language is designed for engineering, STEM education, and data science</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持6种大模型接口(持续增加中) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/4/24, 8:30 AM<br>下一次刷新：6/5/24, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/5/24, 8:30 AM<br>下一次刷新：6/6/24, 8:30 AM</p>
