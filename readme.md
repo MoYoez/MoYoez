@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/5/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/30/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/6/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/30/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/borgo-lang/borgo>borgo-lang/borgo</a><p>Borgo is a statically typed language that compiles to Go.</p></li><li><a href=https://github.com/chenjiandongx/pinger>chenjiandongx/pinger</a><p>📌 A portable ping library written in Go</p></li><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/bytedance/sonic>bytedance/sonic</a><p>A blazingly fast JSON serializing & deserializing library</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li></ul>
+<ul><li><a href=https://github.com/dop251/goja>dop251/goja</a><p>ECMAScript/JavaScript engine in pure Go</p></li><li><a href=https://github.com/wibus-wee/raycast-unblock>wibus-wee/raycast-unblock</a><p>Unblock all features in Raycast Pro Plan with implementing similar functions in other ways</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/SkyDynamic/QuickBackupM-Fabric>SkyDynamic/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/6/24, 8:30 AM<br>下一次刷新：6/7/24, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/7/24, 8:32 AM<br>下一次刷新：6/8/24, 8:32 AM</p>
