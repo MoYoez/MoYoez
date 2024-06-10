@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/dop251/goja>dop251/goja</a><p>ECMAScript/JavaScript engine in pure Go</p></li><li><a href=https://github.com/VedalAI/neuro-amongus>VedalAI/neuro-amongus</a><p>Among Us Plugin for Neuro-sama</p></li><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持6种大模型接口(持续增加中) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li><li><a href=https://github.com/JadyXuan/NTTS>JadyXuan/NTTS</a><p>NO TIME TO SLEEP</p></li></ul>
+<ul><li><a href=https://github.com/SkyDynamic/QuickBackupM-Fabric>SkyDynamic/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li><li><a href=https://github.com/dop251/goja>dop251/goja</a><p>ECMAScript/JavaScript engine in pure Go</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/9/24, 8:35 AM<br>下一次刷新：6/10/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/10/24, 8:32 AM<br>下一次刷新：6/11/24, 8:32 AM</p>
