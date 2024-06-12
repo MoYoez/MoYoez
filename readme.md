@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/30/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/7/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/30/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/11/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/go-echarts/snapshot-chromedp>go-echarts/snapshot-chromedp</a><p>⚔️ The extension for render image in go-echarts.</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/chenjiandongx/pinger>chenjiandongx/pinger</a><p>📌 A portable ping library written in Go</p></li><li><a href=https://github.com/borgo-lang/borgo>borgo-lang/borgo</a><p>Borgo is a statically typed language that compiles to Go.</p></li></ul>
+<ul><li><a href=https://github.com/VedalAI/neuro-amongus>VedalAI/neuro-amongus</a><p>Among Us Plugin for Neuro-sama</p></li><li><a href=https://github.com/myjian/mai-tools>myjian/mai-tools</a><p>mai-tools is a collection of useful tools for maimai and maimai DX.</p></li><li><a href=https://github.com/es3n1n/no-defender>es3n1n/no-defender</a><p>A slightly more fun way to disable windows defender + firewall. (through the WSC api)</p></li><li><a href=https://github.com/Catrong/phi-plugin>Catrong/phi-plugin</a><p>适用于 Yunzai-Bot V3 的 phigros 辅助插件，支持查询分数信息等功能，以及猜曲目等小游戏</p></li><li><a href=https://github.com/HastuneMiku0321/dkmaiproj>HastuneMiku0321/dkmaiproj</a><p>cheap maimai dx touch screen controller</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/11/24, 8:31 AM<br>下一次刷新：6/12/24, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/12/24, 8:31 AM<br>下一次刷新：6/13/24, 8:31 AM</p>
