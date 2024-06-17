@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li><li><a href=https://github.com/JadyXuan/NTTS>JadyXuan/NTTS</a><p>NO TIME TO SLEEP</p></li><li><a href=https://github.com/2noise/ChatTTS>2noise/ChatTTS</a><p>ChatTTS is a generative speech model for daily dialogue.</p></li><li><a href=https://github.com/docker-easyconnect/docker-easyconnect>docker-easyconnect/docker-easyconnect</a><p>使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</p></li><li><a href=https://github.com/saasfly/saasfly>saasfly/saasfly</a><p>Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises</p></li></ul>
+<ul><li><a href=https://github.com/bytedance/sonic>bytedance/sonic</a><p>A blazingly fast JSON serializing & deserializing library</p></li><li><a href=https://github.com/moyuc1966/netherworld-console>moyuc1966/netherworld-console</a><p>地府管理系统完整版，功能完整，多用户多权限，有前台功能</p></li><li><a href=https://github.com/go-echarts/snapshot-chromedp>go-echarts/snapshot-chromedp</a><p>⚔️ The extension for render image in go-echarts.</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持6种大模型接口(持续增加中) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li><li><a href=https://github.com/SkyDynamic/QuickBackupM-Fabric>SkyDynamic/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/16/24, 10:15 PM<br>下一次刷新：6/17/24, 10:15 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/17/24, 8:33 AM<br>下一次刷新：6/18/24, 8:33 AM</p>
