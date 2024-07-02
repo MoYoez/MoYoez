@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li></ul>
+<ul><li><a href=https://github.com/KieronQuinn/Smartspacer>KieronQuinn/Smartspacer</a><p>Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!</p></li><li><a href=https://github.com/borgo-lang/borgo>borgo-lang/borgo</a><p>Borgo is a statically typed language that compiles to Go.</p></li><li><a href=https://github.com/sashabaranov/go-openai>sashabaranov/go-openai</a><p>OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</p></li><li><a href=https://github.com/ciiiii/cloudflare-docker-proxy>ciiiii/cloudflare-docker-proxy</a><p>A docker registry proxy run on cloudflare worker.</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/1/24, 8:37 AM<br>下一次刷新：7/2/24, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/2/24, 8:32 AM<br>下一次刷新：7/3/24, 8:32 AM</p>
