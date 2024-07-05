@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持6种大模型接口(持续增加中) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/JadyXuan/NTTS>JadyXuan/NTTS</a><p>NO TIME TO SLEEP</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li><li><a href=https://github.com/es3n1n/no-defender>es3n1n/no-defender</a><p>A slightly more fun way to disable windows defender + firewall. (through the WSC api)</p></li></ul>
+<ul><li><a href=https://github.com/borgo-lang/borgo>borgo-lang/borgo</a><p>Borgo is a statically typed language that compiles to Go.</p></li><li><a href=https://github.com/deatil/go-cryptobin>deatil/go-cryptobin</a><p>go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/EIGamal/Gost/AES/DES/TripleDes/SM4/Tea/Twofish）</p></li><li><a href=https://github.com/VedalAI/neuro-amongus>VedalAI/neuro-amongus</a><p>Among Us Plugin for Neuro-sama</p></li><li><a href=https://github.com/Catrong/phi-plugin>Catrong/phi-plugin</a><p>适用于 Yunzai-Bot V3 的 phigros 辅助插件，支持查询分数信息等功能，以及猜曲目等小游戏</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/4/24, 8:31 AM<br>下一次刷新：7/5/24, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/5/24, 8:32 AM<br>下一次刷新：7/6/24, 8:32 AM</p>
