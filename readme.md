@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/2noise/ChatTTS>2noise/ChatTTS</a><p>A generative speech model for daily dialogue.</p></li><li><a href=https://github.com/ciiiii/cloudflare-docker-proxy>ciiiii/cloudflare-docker-proxy</a><p>A docker registry proxy run on cloudflare worker.</p></li><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/Catrong/phi-plugin>Catrong/phi-plugin</a><p>适用于 Yunzai-Bot V3 的 phigros 辅助插件，支持查询分数信息等功能，以及猜曲目等小游戏</p></li><li><a href=https://github.com/VedalAI/neuro-amongus>VedalAI/neuro-amongus</a><p>Among Us Plugin for Neuro-sama</p></li></ul>
+<ul><li><a href=https://github.com/VedalAI/neuro-amongus>VedalAI/neuro-amongus</a><p>Among Us Plugin for Neuro-sama</p></li><li><a href=https://github.com/2noise/ChatTTS>2noise/ChatTTS</a><p>A generative speech model for daily dialogue.</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li><li><a href=https://github.com/Catrong/phi-plugin>Catrong/phi-plugin</a><p>适用于 Yunzai-Bot V3 的 phigros 辅助插件，支持查询分数信息等功能，以及猜曲目等小游戏</p></li><li><a href=https://github.com/datawhalechina/llm-cookbook>datawhalechina/llm-cookbook</a><p>面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/23/24, 4:26 PM<br>下一次刷新：7/24/24, 4:26 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/24/24, 8:33 AM<br>下一次刷新：7/25/24, 8:33 AM</p>
