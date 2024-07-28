@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li><li><a href=https://github.com/zhangsean/registry-mirror>zhangsean/registry-mirror</a><p>基于官方registry的docker仓库镜像代理。</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li><li><a href=https://github.com/JadyXuan/NTTS>JadyXuan/NTTS</a><p>NO TIME TO SLEEP</p></li></ul>
+<ul><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li><li><a href=https://github.com/tangruize/NJU-EasyConnect-Script>tangruize/NJU-EasyConnect-Script</a><p>Scripts to optimize NJU EasyConnect client routing rules.</p></li><li><a href=https://github.com/docker-easyconnect/docker-easyconnect>docker-easyconnect/docker-easyconnect</a><p>使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</p></li><li><a href=https://github.com/beego/beego>beego/beego</a><p>beego is an open-source, high-performance web framework for the Go programming language.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/27/24, 8:32 AM<br>下一次刷新：7/28/24, 8:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/28/24, 8:36 AM<br>下一次刷新：7/29/24, 8:36 AM</p>
