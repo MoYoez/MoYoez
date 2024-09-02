@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/30/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/30/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/devsapp/start-zip-oss>devsapp/start-zip-oss</a><p>使用函数计算zip打包下载OSS文件</p></li><li><a href=https://github.com/RimoChan/Night-Beam>RimoChan/Night-Beam</a><p>【Night Beam】去除文本马赛克的随机算法！</p></li><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li><li><a href=https://github.com/MlgmXyysd/Il2CppMemoryDumper>MlgmXyysd/Il2CppMemoryDumper</a><p>Dump Il2Cpp unprotected executable ELF and metadata from process memory</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li></ul>
+<ul><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/2noise/ChatTTS>2noise/ChatTTS</a><p>A generative speech model for daily dialogue.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/1/24, 8:42 AM<br>下一次刷新：9/2/24, 8:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/2/24, 8:36 AM<br>下一次刷新：9/3/24, 8:36 AM</p>
