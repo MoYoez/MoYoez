@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/2noise/ChatTTS>2noise/ChatTTS</a><p>A generative speech model for daily dialogue.</p></li></ul>
+<ul><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li><li><a href=https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes>SiriusAhu/Persona_5_Royal_Grub_Themes</a></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/es3n1n/no-defender>es3n1n/no-defender</a><p>A slightly more fun way to disable windows defender + firewall. (through the WSC api)</p></li><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/2/24, 8:36 AM<br>下一次刷新：9/3/24, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/3/24, 8:34 AM<br>下一次刷新：9/4/24, 8:34 AM</p>
