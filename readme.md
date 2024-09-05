@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/3/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/4/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/zguolee/ColorTimetable>zguolee/ColorTimetable</a><p>uni-app 课程表组件，微信小程序、QQ 小程序</p></li><li><a href=https://github.com/QHPaeek/Arduino-Aime-QReader>QHPaeek/Arduino-Aime-QReader</a><p>适用于Sega游戏的扫码刷卡两用Aime读卡器</p></li><li><a href=https://github.com/Hoshinonyaruko/Gensokyo-llm>Hoshinonyaruko/Gensokyo-llm</a><p>开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新) 具有将多种大模型接口转化为带有上下文的通用格式的能力.</p></li><li><a href=https://github.com/MlgmXyysd/Il2CppMemoryDumper>MlgmXyysd/Il2CppMemoryDumper</a><p>Dump Il2Cpp unprotected executable ELF and metadata from process memory</p></li><li><a href=https://github.com/beego/beego>beego/beego</a><p>beego is an open-source, high-performance web framework for the Go programming language.</p></li></ul>
+<ul><li><a href=https://github.com/ciiiii/cloudflare-docker-proxy>ciiiii/cloudflare-docker-proxy</a><p>A docker registry proxy run on cloudflare worker.</p></li><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li><li><a href=https://github.com/RimoChan/Night-Beam>RimoChan/Night-Beam</a><p>【Night Beam】去除文本马赛克的随机算法！</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/4/24, 8:35 AM<br>下一次刷新：9/5/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/5/24, 8:35 AM<br>下一次刷新：9/6/24, 8:35 AM</p>
