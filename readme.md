@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/6/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/6/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/es3n1n/no-defender>es3n1n/no-defender</a><p>A slightly more fun way to disable windows defender + firewall. (through the WSC api)</p></li><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li></ul>
+<ul><li><a href=https://github.com/AIOPrivacy/AIOPrivacyBot>AIOPrivacy/AIOPrivacyBot</a><p>一个尝试在保护用户隐私的前提下，提供各类功能的类命令行Telegram机器人。</p></li><li><a href=https://github.com/ciiiii/cloudflare-docker-proxy>ciiiii/cloudflare-docker-proxy</a><p>A docker registry proxy run on cloudflare worker.</p></li><li><a href=https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes>SiriusAhu/Persona_5_Royal_Grub_Themes</a></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/Vincy1230/WP-Comment-Reviewer>Vincy1230/WP-Comment-Reviewer</a><p>A remote comment reviewer for WordPress based on Qt | 一款基于 Qt 开发的 WordPress 待审评论远程管理器</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/14/24, 8:35 AM<br>下一次刷新：9/15/24, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/15/24, 8:40 AM<br>下一次刷新：9/16/24, 8:40 AM</p>
