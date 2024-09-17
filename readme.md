@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li><li><a href=https://github.com/Vincy1230/WP-Comment-Reviewer>Vincy1230/WP-Comment-Reviewer</a><p>A remote comment reviewer for WordPress based on Qt | 一款基于 Qt 开发的 WordPress 待审评论远程管理器</p></li><li><a href=https://github.com/ChinaIceF/PyQt-SiliconUI>ChinaIceF/PyQt-SiliconUI</a><p>A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便</p></li></ul>
+<ul><li><a href=https://github.com/kubernetes/minikube>kubernetes/minikube</a><p>Run Kubernetes locally</p></li><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li><li><a href=https://github.com/es3n1n/no-defender>es3n1n/no-defender</a><p>A slightly more fun way to disable windows defender + firewall. (through the WSC api)</p></li><li><a href=https://github.com/Bzaigege/PackageApkTool>Bzaigege/PackageApkTool</a><p>PackageApkTool 为手游SDK联运系统打包系统核心模块，用于快速便捷的帮助游戏包打入渠道SDK资源生成游戏-渠道包，快速上架渠道上线</p></li><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/16/24, 8:38 AM<br>下一次刷新：9/17/24, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/17/24, 8:30 AM<br>下一次刷新：9/18/24, 8:30 AM</p>
