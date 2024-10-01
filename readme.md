@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li><li><a href=https://github.com/ChinaIceF/PyQt-SiliconUI>ChinaIceF/PyQt-SiliconUI</a><p>A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li><li><a href=https://github.com/Vincy1230/WP-Comment-Reviewer>Vincy1230/WP-Comment-Reviewer</a><p>A remote comment reviewer for WordPress based on Qt | 一款基于 Qt 开发的 WordPress 待审评论远程管理器</p></li><li><a href=https://github.com/zhangsean/registry-mirror>zhangsean/registry-mirror</a><p>基于官方registry的docker仓库镜像代理。</p></li></ul>
+<ul><li><a href=https://github.com/beego/beego>beego/beego</a><p>beego is an open-source, high-performance web framework for the Go programming language.</p></li><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li><li><a href=https://github.com/AIOPrivacy/AIOPrivacyBot>AIOPrivacy/AIOPrivacyBot</a><p>一个尝试在保护用户隐私的前提下，提供各类功能的类命令行Telegram机器人。</p></li><li><a href=https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes>SiriusAhu/Persona_5_Royal_Grub_Themes</a></li><li><a href=https://github.com/KieronQuinn/Smartspacer>KieronQuinn/Smartspacer</a><p>Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/30/24, 8:39 AM<br>下一次刷新：10/1/24, 8:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/1/24, 8:42 AM<br>下一次刷新：10/2/24, 8:42 AM</p>
