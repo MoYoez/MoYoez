@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/LonamiWebs/Telethon>LonamiWebs/Telethon</a><p>Pure Python 3 MTProto API Telegram client library, for bots too!</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li><li><a href=https://github.com/MlgmXyysd/Il2CppMemoryDumper>MlgmXyysd/Il2CppMemoryDumper</a><p>Dump Il2Cpp unprotected executable ELF and metadata from process memory</p></li><li><a href=https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes>SiriusAhu/Persona_5_Royal_Grub_Themes</a></li><li><a href=https://github.com/zhangsean/registry-mirror>zhangsean/registry-mirror</a><p>基于官方registry的docker仓库镜像代理。</p></li></ul>
+<ul><li><a href=https://github.com/AIOPrivacy/AIOPrivacyBot>AIOPrivacy/AIOPrivacyBot</a><p>一个尝试在保护用户隐私的前提下，提供各类功能的类命令行Telegram机器人。</p></li><li><a href=https://github.com/MoYoez/SimpleResourceManger>MoYoez/SimpleResourceManger</a><p>之前写过的管理系统，给别人当毕设用的，或许可以拿来凑合一下/</p></li><li><a href=https://github.com/devsapp/start-zip-oss>devsapp/start-zip-oss</a><p>使用函数计算zip打包下载OSS文件</p></li><li><a href=https://github.com/Tencent/VasDolly>Tencent/VasDolly</a><p>Android V1 and V2 Signature Channel Package Plugin</p></li><li><a href=https://github.com/primefaces/primevue>primefaces/primevue</a><p>Next Generation Vue UI Component Library</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/3/24, 8:37 AM<br>下一次刷新：10/4/24, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/4/24, 8:37 AM<br>下一次刷新：10/5/24, 8:37 AM</p>
