@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>10/5/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>10/9/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/go-telegram/bot>go-telegram/bot</a><p>Telegram Bot API Go framework</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li><li><a href=https://github.com/QHPaeek/Arduino-Aime-QReader>QHPaeek/Arduino-Aime-QReader</a><p>适用于Sega游戏的扫码刷卡两用Aime读卡器</p></li><li><a href=https://github.com/bitburner-official/bitburner-src>bitburner-official/bitburner-src</a><p>Bitburner source code.</p></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a><p>Stream data through multiple QRCodes</p></li></ul>
+<ul><li><a href=https://github.com/bytenode/bytenode>bytenode/bytenode</a><p>A minimalist bytecode compiler for Node.js</p></li><li><a href=https://github.com/AIOPrivacy/AIOPrivacyBot>AIOPrivacy/AIOPrivacyBot</a><p>一个尝试在保护用户隐私的前提下，提供各类功能的类命令行Telegram机器人。</p></li><li><a href=https://github.com/SkyDynamic/MaiProber-Multiplatform>SkyDynamic/MaiProber-Multiplatform</a></li><li><a href=https://github.com/ChinaIceF/PyQt-SiliconUI>ChinaIceF/PyQt-SiliconUI</a><p>A powerful and artistic UI library based on PyQt5，基于 PyQt5 的UI框架，灵动、优雅而轻便</p></li><li><a href=https://github.com/javascript-obfuscator/javascript-obfuscator>javascript-obfuscator/javascript-obfuscator</a><p>A powerful obfuscator for JavaScript and Node.js</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/9/24, 8:37 AM<br>下一次刷新：10/10/24, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/10/24, 8:37 AM<br>下一次刷新：10/11/24, 8:37 AM</p>
