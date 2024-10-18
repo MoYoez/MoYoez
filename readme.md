@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/smartwalle/alipay>smartwalle/alipay</a><p>支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签，支持文件上传和接口内容加密。</p></li><li><a href=https://github.com/sml2h3/ddddocr>sml2h3/ddddocr</a><p>带带弟弟 通用验证码识别OCR pypi版</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/qifi-dev/qrs>qifi-dev/qrs</a><p>Stream data through multiple series of QR codes</p></li><li><a href=https://github.com/RimoChan/Night-Beam>RimoChan/Night-Beam</a><p>【Night Beam】去除文本马赛克的随机算法！</p></li></ul>
+<ul><li><a href=https://github.com/Vincy1230/WP-Comment-Reviewer>Vincy1230/WP-Comment-Reviewer</a><p>A remote comment reviewer for WordPress based on Qt | 一款基于 Qt 开发的 WordPress 待审评论远程管理器</p></li><li><a href=https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes>SiriusAhu/Persona_5_Royal_Grub_Themes</a></li><li><a href=https://github.com/RimoChan/Night-Beam>RimoChan/Night-Beam</a><p>【Night Beam】去除文本马赛克的随机算法！</p></li><li><a href=https://github.com/go-telegram/bot>go-telegram/bot</a><p>Telegram Bot API Go framework</p></li><li><a href=https://github.com/tryigit/PlayIntegrityFix>tryigit/PlayIntegrityFix</a><p>Google H*ck is a module designed to bypass Play Integrity checks, particularly for China Roms, offering advanced configuration and development capabilities.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/17/24, 8:38 AM<br>下一次刷新：10/18/24, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/18/24, 8:38 AM<br>下一次刷新：10/19/24, 8:38 AM</p>
