@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/1/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/1/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/derekparker/delve>derekparker/delve</a><p>Delve is a debugger for the Go programming language.</p></li><li><a href=https://github.com/electron-vite/vite-plugin-electron>electron-vite/vite-plugin-electron</a><p>:electron: Electron⚡️Vite core repo</p></li><li><a href=https://github.com/nikoksr/notify>nikoksr/notify</a><p>A dead simple Go library for sending notifications to various messaging services.</p></li><li><a href=https://github.com/jerrylizilong/autotest_platform>jerrylizilong/autotest_platform</a><p>Python+flask+selenium 搭建UI自动化测试平台</p></li><li><a href=https://github.com/FantasticLBP/Anti-WebSpider>FantasticLBP/Anti-WebSpider</a><p>Web 端反爬技术方案</p></li></ul>
+<ul><li><a href=https://github.com/bitburner-official/bitburner-src>bitburner-official/bitburner-src</a><p>Bitburner source code.</p></li><li><a href=https://github.com/rany2/edge-tts>rany2/edge-tts</a><p>Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key</p></li><li><a href=https://github.com/wenyan-lang/wenyan>wenyan-lang/wenyan</a><p>文言文編程語言 A programming language for the ancient Chinese.</p></li><li><a href=https://github.com/FantasticLBP/Anti-WebSpider>FantasticLBP/Anti-WebSpider</a><p>Web 端反爬技术方案</p></li><li><a href=https://github.com/name5566/leaf>name5566/leaf</a><p>A game server framework in Go (golang)</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/3/24, 8:41 AM<br>下一次刷新：11/4/24, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/5/24, 8:37 AM<br>下一次刷新：11/6/24, 8:37 AM</p>
