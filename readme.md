@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/9/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/9/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a><p>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</p></li><li><a href=https://github.com/spf13/viper>spf13/viper</a><p>Go configuration with fangs</p></li><li><a href=https://github.com/go-pay/gopay>go-pay/gopay</a><p>微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】</p></li><li><a href=https://github.com/imroc/req>imroc/req</a><p>Simple Go HTTP client with Black Magic</p></li><li><a href=https://github.com/air-verse/air>air-verse/air</a><p>☁️ Live reload for Go apps</p></li></ul>
+<ul><li><a href=https://github.com/jerrylizilong/autotest_platform>jerrylizilong/autotest_platform</a><p>Python+flask+selenium 搭建UI自动化测试平台</p></li><li><a href=https://github.com/fyne-io/fyne>fyne-io/fyne</a><p>Cross platform GUI toolkit in Go inspired by Material Design</p></li><li><a href=https://github.com/lqzhgood/wechat-need-web>lqzhgood/wechat-need-web</a><p>让微信网页版可用 / Allow the use of WeChat via webpage access</p></li><li><a href=https://github.com/emmansun/gmsm>emmansun/gmsm</a><p>ShangMi (SM) cipher suites for golang (Go语言商用密码软件)</p></li><li><a href=https://github.com/imroc/req>imroc/req</a><p>Simple Go HTTP client with Black Magic</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/13/24, 8:37 AM<br>下一次刷新：11/14/24, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/14/24, 8:38 AM<br>下一次刷新：11/15/24, 8:38 AM</p>
