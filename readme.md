@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/18/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/18/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/mundane799699/AI-TODO>mundane799699/AI-TODO</a></li><li><a href=https://github.com/akazwz/openchat-go>akazwz/openchat-go</a><p>为开发者提供一个简单易用的后端学习示例，能够快速使用Golang开发并集成 AI 功能</p></li><li><a href=https://github.com/go-pay/gopay>go-pay/gopay</a><p>微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】</p></li><li><a href=https://github.com/herotheo/micetoolbox>herotheo/micetoolbox</a></li><li><a href=https://github.com/imroc/req>imroc/req</a><p>Simple Go HTTP client with Black Magic</p></li></ul>
+<ul><li><a href=https://github.com/swisskyrepo/PayloadsAllTheThings>swisskyrepo/PayloadsAllTheThings</a><p>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</p></li><li><a href=https://github.com/fastjs-team/core>fastjs-team/core</a><p>Fastjs is a useful, lightweight JavaScript library for any types of project.</p></li><li><a href=https://github.com/name5566/leaf>name5566/leaf</a><p>A game server framework in Go (golang)</p></li><li><a href=https://github.com/Golangltd/LollipopGo>Golangltd/LollipopGo</a><p>稳定分支2.9.X 版本已更新，由【Golang语言游戏服务器】维护，全球服游戏服务器及区域服框架,目前协议支持websocket、http及RPC，采用状态同步、帧同步，愿景：打造MMO多人竞技游戏框架！ 功能持续更新中... ...</p></li><li><a href=https://github.com/KoriIku/luxirty-search>KoriIku/luxirty-search</a><p>一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/22/24, 8:40 AM<br>下一次刷新：11/23/24, 8:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/23/24, 8:39 AM<br>下一次刷新：11/24/24, 8:39 AM</p>
