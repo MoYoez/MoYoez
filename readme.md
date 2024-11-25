@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/18/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/18/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/KoriIku/luxirty-search>KoriIku/luxirty-search</a><p>一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。</p></li><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a><p>The most advanced browser fingerprinting library.</p></li><li><a href=https://github.com/emmansun/gmsm>emmansun/gmsm</a><p>ShangMi (SM) cipher suites for golang (Go语言商用密码软件)</p></li><li><a href=https://github.com/swisskyrepo/PayloadsAllTheThings>swisskyrepo/PayloadsAllTheThings</a><p>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</p></li><li><a href=https://github.com/DeEpinGh0st/Erebus>DeEpinGh0st/Erebus</a><p>CobaltStrike后渗透测试插件</p></li></ul>
+<ul><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a><p>The most advanced browser fingerprinting library.</p></li><li><a href=https://github.com/fastjs-team/core>fastjs-team/core</a><p>Fastjs is a useful, lightweight JavaScript library for any types of project.</p></li><li><a href=https://github.com/mattn/go-shellwords>mattn/go-shellwords</a><p>Parse line as shell words</p></li><li><a href=https://github.com/mundane799699/AI-TODO>mundane799699/AI-TODO</a></li><li><a href=https://github.com/MoYoez/HafuKoiToolBase>MoYoez/HafuKoiToolBase</a><p>HafuKoiToolBase is a tool box for me (Golang REPO).</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/24/24, 8:44 AM<br>下一次刷新：11/25/24, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/25/24, 8:41 AM<br>下一次刷新：11/26/24, 8:41 AM</p>
