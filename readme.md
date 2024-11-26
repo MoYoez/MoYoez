@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/fingerprintjs/fingerprintjs>fingerprintjs/fingerprintjs</a><p>The most advanced browser fingerprinting library.</p></li><li><a href=https://github.com/fastjs-team/core>fastjs-team/core</a><p>Fastjs is a useful, lightweight JavaScript library for any types of project.</p></li><li><a href=https://github.com/mattn/go-shellwords>mattn/go-shellwords</a><p>Parse line as shell words</p></li><li><a href=https://github.com/mundane799699/AI-TODO>mundane799699/AI-TODO</a></li><li><a href=https://github.com/MoYoez/HafuKoiToolBase>MoYoez/HafuKoiToolBase</a><p>HafuKoiToolBase is a tool box for me (Golang REPO).</p></li></ul>
+<ul><li><a href=https://github.com/go-pay/gopay>go-pay/gopay</a><p>微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】</p></li><li><a href=https://github.com/LagrangeDev/LagrangeGo>LagrangeDev/LagrangeGo</a><p>An Go Implementation of NTQQ PC Protocol</p></li><li><a href=https://github.com/RimoChan/ConfusionXL>RimoChan/ConfusionXL</a><p>ConfusionXL V2.0 - 世界上最好的2次元模型</p></li><li><a href=https://github.com/taisei-project/taisei>taisei-project/taisei</a><p>A free and open-source Touhou Project fangame</p></li><li><a href=https://github.com/spf13/viper>spf13/viper</a><p>Go configuration with fangs</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/25/24, 8:41 AM<br>下一次刷新：11/26/24, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/26/24, 8:40 AM<br>下一次刷新：11/27/24, 8:40 AM</p>
