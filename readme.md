@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/HafuKoiToolBase>MoYoez/HafuKoiToolBase</a><p>HafuKoiToolBase is a tool box for me (Golang REPO).</p></li><li><a href=https://github.com/imroc/req>imroc/req</a><p>Simple Go HTTP client with Black Magic</p></li><li><a href=https://github.com/SpaceTimee/Sheas-Cealer>SpaceTimee/Sheas-Cealer</a><p>Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)</p></li><li><a href=https://github.com/fastjs-team/core>fastjs-team/core</a><p>Fastjs is a useful, lightweight JavaScript library for any types of project.</p></li><li><a href=https://github.com/makipom/MomoTalk-Telegram>makipom/MomoTalk-Telegram</a><p>A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.</p></li></ul>
+<ul><li><a href=https://github.com/spf13/viper>spf13/viper</a><p>Go configuration with fangs</p></li><li><a href=https://github.com/MoYoez/HafuKoiToolBase>MoYoez/HafuKoiToolBase</a><p>HafuKoiToolBase is a tool box for me (Golang REPO).</p></li><li><a href=https://github.com/name5566/leaf>name5566/leaf</a><p>A game server framework in Go (golang)</p></li><li><a href=https://github.com/RimoChan/ConfusionXL>RimoChan/ConfusionXL</a><p>ConfusionXL V2.0 - 世界上最好的2次元模型</p></li><li><a href=https://github.com/herotheo/micetoolbox>herotheo/micetoolbox</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/29/24, 8:41 AM<br>下一次刷新：11/30/24, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/30/24, 8:39 AM<br>下一次刷新：12/1/24, 8:39 AM</p>
