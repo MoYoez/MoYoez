@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>12/5/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>12/5/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/emmansun/gmsm>emmansun/gmsm</a><p>ShangMi (SM) cipher suites for golang (Go语言商用密码软件)</p></li><li><a href=https://github.com/SpaceTimee/Sheas-Cealer>SpaceTimee/Sheas-Cealer</a><p>Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)</p></li><li><a href=https://github.com/RVC-Boss/GPT-SoVITS>RVC-Boss/GPT-SoVITS</a><p>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</p></li><li><a href=https://github.com/leitbogioro/Tools>leitbogioro/Tools</a><p>Something about tools</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li></ul>
+<ul><li><a href=https://github.com/makipom/MomoTalk-Telegram>makipom/MomoTalk-Telegram</a><p>A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.</p></li><li><a href=https://github.com/evild3ad/MemProcFS-Analyzer>evild3ad/MemProcFS-Analyzer</a><p>MemProcFS-Analyzer - Automated Forensic Analysis of Windows Memory Dumps for DFIR</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/mundane799699/AI-TODO>mundane799699/AI-TODO</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/13/24, 8:42 AM<br>下一次刷新：12/14/24, 8:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/14/24, 8:40 AM<br>下一次刷新：12/15/24, 8:40 AM</p>
