@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/BlueGlassBlock/better-json5>BlueGlassBlock/better-json5</a><p>JSON5 support for Visual Studio Code, done right</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li><li><a href=https://github.com/leitbogioro/Tools>leitbogioro/Tools</a><p>Something about tools</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li></ul>
+<ul><li><a href=https://github.com/KoriIku/luxirty-search>KoriIku/luxirty-search</a><p>一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。</p></li><li><a href=https://github.com/swisskyrepo/PayloadsAllTheThings>swisskyrepo/PayloadsAllTheThings</a><p>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</p></li><li><a href=https://github.com/gotd/td>gotd/td</a><p>Telegram client, in Go. (MTProto API)</p></li><li><a href=https://github.com/dobyte/due>dobyte/due</a><p>基于Go语言的高性能分布式游戏服务器框架</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/18/24, 8:40 AM<br>下一次刷新：12/19/24, 8:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：12/19/24, 8:40 AM<br>下一次刷新：12/20/24, 8:40 AM</p>
