@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/BlueGlassBlock/better-json5>BlueGlassBlock/better-json5</a><p>JSON5 support for Visual Studio Code, done right</p></li><li><a href=https://github.com/swisskyrepo/PayloadsAllTheThings>swisskyrepo/PayloadsAllTheThings</a><p>A list of useful payloads and bypass for Web Application Security and Pentest/CTF</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/apache/answer>apache/answer</a><p>A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</p></li></ul>
+<ul><li><a href=https://github.com/fastjs-team/core>fastjs-team/core</a><p>Fastjs is a useful, lightweight JavaScript library for any types of project.</p></li><li><a href=https://github.com/BlueGlassBlock/better-json5>BlueGlassBlock/better-json5</a><p>JSON5 support for Visual Studio Code, done right</p></li><li><a href=https://github.com/sonofmagic/weapp-tailwindcss>sonofmagic/weapp-tailwindcss</a><p>weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !</p></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</p></li><li><a href=https://github.com/akazwz/openchat-go>akazwz/openchat-go</a><p>为开发者提供一个简单易用的后端学习示例，能够快速使用Golang开发并集成 AI 功能</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/19/25, 8:41 AM<br>下一次刷新：1/20/25, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/20/25, 8:38 AM<br>下一次刷新：1/21/25, 8:38 AM</p>
