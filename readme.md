@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li><li><a href=https://github.com/Spaso1/FindMaimaiDX_Phone>Spaso1/FindMaimaiDX_Phone</a><p>FindMaimaiDX_Phone</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</p></li></ul>
+<ul><li><a href=https://github.com/sonofmagic/weapp-tailwindcss>sonofmagic/weapp-tailwindcss</a><p>weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/gotd/td>gotd/td</a><p>Telegram client, in Go. (MTProto API)</p></li><li><a href=https://github.com/akazwz/openchat-go>akazwz/openchat-go</a><p>为开发者提供一个简单易用的后端学习示例，能够快速使用Golang开发并集成 AI 功能</p></li><li><a href=https://github.com/dobyte/due>dobyte/due</a><p>基于Go语言开发的高性能分布式游戏服务器框架</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/28/25, 8:38 AM<br>下一次刷新：1/29/25, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/29/25, 8:37 AM<br>下一次刷新：1/30/25, 8:37 AM</p>
