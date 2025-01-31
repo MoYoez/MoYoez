@@ -66,7 +66,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/20/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/20/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/dobyte/due>dobyte/due</a><p>基于Go语言开发的高性能分布式游戏服务器框架</p></li><li><a href=https://github.com/leitbogioro/Tools>leitbogioro/Tools</a><p>Something about tools</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</p></li><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li></ul>
+<ul><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，安全高效的文本脱敏和加密工具</p></li><li><a href=https://github.com/dobyte/due>dobyte/due</a><p>基于Go语言开发的高性能分布式游戏服务器框架</p></li><li><a href=https://github.com/apache/answer>apache/answer</a><p>A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/30/25, 8:37 AM<br>下一次刷新：1/31/25, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/31/25, 8:37 AM<br>下一次刷新：2/1/25, 8:37 AM</p>
