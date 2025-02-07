@@ -79,9 +79,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/emersion/go-webdav>emersion/go-webdav</a><p>A Go library for WebDAV, CalDAV and CardDAV</p></li><li><a href=https://github.com/sonofmagic/weapp-tailwindcss>sonofmagic/weapp-tailwindcss</a><p>weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !</p></li><li><a href=https://github.com/apache/answer>apache/answer</a><p>A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</p></li><li><a href=https://github.com/Spaso1/FindMaimaiDX_Phone>Spaso1/FindMaimaiDX_Phone</a><p>FindMaimaiDX_Phone</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li></ul>
+<ul><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li><li><a href=https://github.com/SpaceTimee/Sheas-Cealer>SpaceTimee/Sheas-Cealer</a><p>Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)</p></li><li><a href=https://github.com/leitbogioro/Tools>leitbogioro/Tools</a><p>Something about tools</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/6/25, 8:38 AM<br>下一次刷新：2/7/25, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/7/25, 8:38 AM<br>下一次刷新：2/8/25, 8:38 AM</p>
