@@ -2,18 +2,23 @@
 
 ![pic](https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
-> <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
+> <u>*I always AFK, Focus on Business Order already, only few time to do something I'm interested in. :( </u>
 
-![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
+![snake-shaking](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~ This is Koi, an undergraduate student & Backend  developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
+Hi~ This is Koi, an ~~undergraduate student~~ & Full-stack developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
-Modify Everything>? So confused That maybe I should make my own bot here^^.
+Here you can see my old projects here, many of them moved to my own Organizations, to make them clearly to see what was for : qwq.
 
-Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
+Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I do when I have time.
 
-> Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
-> 
+
+> Trying to Seek for what's real, the truth will be in your eyes. ʕ ᵔᴥᵔ ʔ
+
+> Although this world doesn't have real magic, you can use your own magic there.💫
+
+> Really Hope you can find yourself, in your real life.
+
 ---
 
 <br />
@@ -64,7 +69,7 @@ Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again q
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/5/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/5/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -77,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/dobyte/due>dobyte/due</a><p>基于Go语言开发的高性能分布式游戏服务器框架</p></li><li><a href=https://github.com/GTNewHorizons/GT-New-Horizons-Modpack>GTNewHorizons/GT-New-Horizons-Modpack</a><p>A big progressive questing modpack for Minecraft 1.7.10 balanced around the mod GregTech.</p></li><li><a href=https://github.com/feige996/unibest>feige996/unibest</a><p>unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。</p></li><li><a href=https://github.com/DeEpinGh0st/Erebus>DeEpinGh0st/Erebus</a><p>CobaltStrike后渗透测试插件</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li></ul>
+<ul><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li><li><a href=https://github.com/apache/answer>apache/answer</a><p>A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</p></li><li><a href=https://github.com/makipom/MomoTalk-Telegram>makipom/MomoTalk-Telegram</a><p>A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.</p></li><li><a href=https://github.com/feige996/unibest>feige996/unibest</a><p>unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/13/25, 9:30 PM<br>下一次刷新：2/14/25, 9:30 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/13/25, 9:43 PM<br>下一次刷新：2/14/25, 9:43 PM</p>
