@@ -2,18 +2,23 @@
 
 ![pic](https://base.lemonkoi.one/img_service/ec43126fgy1go7lc9ta0bj22bc1awkjr.jpg)
 
-> <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
+> <u>*I always AFK, Focus on Business Order already, only few time to do something I'm interested in. :( </u>
 
-![meowmeowmeow](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
+![snake-shaking](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
-Hi~ This is Koi, an undergraduate student & Backend  developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
+Hi~ This is Koi, an ~~undergraduate student~~ & Full-stack developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
-Modify Everything>? So confused That maybe I should make my own bot here^^.
+Here you can see my old projects here, many of them moved to my own Organizations, to make them clearly to see what was for : qwq.
 
-Currently I am learning Kotlin (~~maybe I should learn C++ , my headache again qaq~~) for my next developing project.
+Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I do when I have time.
 
-> Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/
-> 
+
+> Trying to Seek for what's real, the truth will be in your eyes. ʕ ᵔᴥᵔ ʔ
+
+> Although this world doesn't have real magic, you can use your own magic there.💫
+
+> Really Hope you can find yourself, in your real life.
+
 ---
 
 <br />
