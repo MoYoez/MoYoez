@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/24/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/24/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li><li><a href=https://github.com/gotd/td>gotd/td</a><p>Telegram client, in Go. (MTProto API)</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/makipom/MomoTalk-Telegram>makipom/MomoTalk-Telegram</a><p>A custom MomoTalk-style theme for the Desktop version of the Telegram messaging application.</p></li></ul>
+<ul><li><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a><p>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/binwiederhier/ntfy>binwiederhier/ntfy</a><p>Send push notifications to your phone or desktop using PUT/POST</p></li><li><a href=https://github.com/gotd/td>gotd/td</a><p>Telegram client, in Go. (MTProto API)</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/28/25, 8:02 AM<br>下一次刷新：3/1/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/1/25, 8:02 AM<br>下一次刷新：3/2/25, 8:02 AM</p>
