@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/8/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/8/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>7/8/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/kleampa/not-paid>kleampa/not-paid</a><p>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/iancoleman/orderedmap>iancoleman/orderedmap</a><p>orderedmap is a golang map where the keys keep the order that they're added. It can be de/serialized from/to JSON. It's based closely on the python collections.OrderedDict.</p></li><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li></ul>
+<ul><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/binwiederhier/ntfy>binwiederhier/ntfy</a><p>Send push notifications to your phone or desktop using PUT/POST</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/21/25, 8:02 AM<br>下一次刷新：3/22/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/22/25, 8:02 AM<br>下一次刷新：3/23/25, 8:02 AM</p>
