@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/feige996/unibest>feige996/unibest</a><p>unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite5 + UnoCss + WotUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。</p></li><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li><li><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a><p>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.</p></li><li><a href=https://github.com/kleampa/not-paid>kleampa/not-paid</a><p>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</p></li><li><a href=https://github.com/emersion/go-webdav>emersion/go-webdav</a><p>A Go library for WebDAV, CalDAV and CardDAV</p></li></ul>
+<ul><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/emersion/go-webdav>emersion/go-webdav</a><p>A Go library for WebDAV, CalDAV and CardDAV</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/27/25, 8:02 AM<br>下一次刷新：3/28/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/28/25, 8:02 AM<br>下一次刷新：3/29/25, 8:02 AM</p>
