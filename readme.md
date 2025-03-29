@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/zegl/extremely-linear>zegl/extremely-linear</a><p>Extremely Linear Git History // git-linearize</p></li><li><a href=https://github.com/kirtan-shah/nowplaying-cli>kirtan-shah/nowplaying-cli</a><p>macOS command-line utility for retrieving currently playing media</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/emersion/go-webdav>emersion/go-webdav</a><p>A Go library for WebDAV, CalDAV and CardDAV</p></li></ul>
+<ul><li><a href=https://github.com/GTNewHorizons/GT-New-Horizons-Modpack>GTNewHorizons/GT-New-Horizons-Modpack</a><p>A big progressive questing modpack for Minecraft 1.7.10 balanced around the mod GregTech.</p></li><li><a href=https://github.com/Spaso1/FindMaimaiDX_Phone>Spaso1/FindMaimaiDX_Phone</a><p>FindMaimaiDX_Phone</p></li><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，下一代文本加密工具</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/28/25, 8:02 AM<br>下一次刷新：3/29/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/29/25, 8:02 AM<br>下一次刷新：3/30/25, 8:02 AM</p>
