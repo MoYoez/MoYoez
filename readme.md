@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li><li><a href=https://github.com/Spaso1/FindMaimaiDX_Phone>Spaso1/FindMaimaiDX_Phone</a><p>FindMaimaiDX_Phone</p></li><li><a href=https://github.com/sonofmagic/weapp-tailwindcss>sonofmagic/weapp-tailwindcss</a><p>weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !</p></li><li><a href=https://github.com/weijunext/indie-hacker-tools>weijunext/indie-hacker-tools</a><p>收录独立开发者出海技术栈和工具</p></li></ul>
+<ul><li><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a><p>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.</p></li><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li><li><a href=https://github.com/GTNewHorizons/GT-New-Horizons-Modpack>GTNewHorizons/GT-New-Horizons-Modpack</a><p>A big progressive questing modpack for Minecraft 1.7.10 balanced around the mod GregTech.</p></li><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/kleampa/not-paid>kleampa/not-paid</a><p>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/14/25, 8:02 AM<br>下一次刷新：4/15/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/15/25, 8:02 AM<br>下一次刷新：4/16/25, 8:02 AM</p>
