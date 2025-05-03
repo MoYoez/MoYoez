@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/apache/answer>apache/answer</a><p>A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</p></li><li><a href=https://github.com/Spaso1/FindMaimaiDX_Phone>Spaso1/FindMaimaiDX_Phone</a><p>FindMaimaiDX_Phone</p></li><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/XiaoMi/ha_xiaomi_home>XiaoMi/ha_xiaomi_home</a><p>Xiaomi Home Integration for Home Assistant</p></li><li><a href=https://github.com/ondrajz/go-callvis>ondrajz/go-callvis</a><p>Visualize call graph of a Go program using Graphviz</p></li></ul>
+<ul><li><a href=https://github.com/sonofmagic/weapp-tailwindcss>sonofmagic/weapp-tailwindcss</a><p>weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !</p></li><li><a href=https://github.com/iawia002/lux>iawia002/lux</a><p>👾 Fast and simple video download library and CLI tool written in Go</p></li><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/greatghoul/remote-working>greatghoul/remote-working</a><p>收集整理远程工作相关的资料</p></li><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/2/25, 8:02 AM<br>下一次刷新：5/3/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/3/25, 8:02 AM<br>下一次刷新：5/4/25, 8:02 AM</p>
