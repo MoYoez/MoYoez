@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/emersion/go-webdav>emersion/go-webdav</a><p>A Go library for WebDAV, CalDAV and CardDAV</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li><li><a href=https://github.com/SheepChef/Abracadabra>SheepChef/Abracadabra</a><p>Abracadabra 魔曰，下一代文本加密工具</p></li><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li><li><a href=https://github.com/zjw-swun/AppMethodOrder>zjw-swun/AppMethodOrder</a><p>一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）</p></li></ul>
+<ul><li><a href=https://github.com/gotd/td>gotd/td</a><p>Telegram client, in Go. (MTProto API)</p></li><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li><li><a href=https://github.com/casdoor/casdoor>casdoor/casdoor</a><p>An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos</p></li><li><a href=https://github.com/Nick-bit233/mai-gen-videob50>Nick-bit233/mai-gen-videob50</a><p>Auto search and generate your best 50 videoes of MaimaiDX / 自动从流媒体上搜索并构建你的舞萌DX B50视频</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/5/25, 8:02 AM<br>下一次刷新：5/6/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/6/25, 8:02 AM<br>下一次刷新：5/7/25, 8:02 AM</p>
