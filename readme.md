@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li><li><a href=https://github.com/chen3feng/stl4go>chen3feng/stl4go</a><p>Generic Container and Algorithm Library for Go</p></li><li><a href=https://github.com/ling-drag0n/CloudPaste>ling-drag0n/CloudPaste</a><p>基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/MoYoez/ProcessReporterGo>MoYoez/ProcessReporterGo</a><p>A Go Implementation of ProcessReporter.</p></li></ul>
+<ul><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li><li><a href=https://github.com/kleampa/not-paid>kleampa/not-paid</a><p>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</p></li><li><a href=https://github.com/saveweb/review-2024>saveweb/review-2024</a><p>WTF happened in 2024</p></li><li><a href=https://github.com/KonghaYao/cn-font-split>KonghaYao/cn-font-split</a><p>划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/20/25, 8:02 AM<br>下一次刷新：5/21/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/21/25, 8:02 AM<br>下一次刷新：5/22/25, 8:02 AM</p>
