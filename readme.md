@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/15/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/15/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/latexstudio-org/mcmthesis>latexstudio-org/mcmthesis</a><p>LaTeX2e Template designed for MCM/ICM</p></li><li><a href=https://github.com/dataarts/dat.gui>dataarts/dat.gui</a><p>Lightweight controller library for JavaScript.</p></li><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li></ul>
+<ul><li><a href=https://github.com/chen3feng/stl4go>chen3feng/stl4go</a><p>Generic Container and Algorithm Library for Go</p></li><li><a href=https://github.com/latexstudio-org/mcmthesis>latexstudio-org/mcmthesis</a><p>LaTeX2e Template designed for MCM/ICM</p></li><li><a href=https://github.com/kleampa/not-paid>kleampa/not-paid</a><p>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</p></li><li><a href=https://github.com/dataarts/dat.gui>dataarts/dat.gui</a><p>Lightweight controller library for JavaScript.</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/18/25, 8:02 AM<br>下一次刷新：6/19/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/19/25, 8:02 AM<br>下一次刷新：6/20/25, 8:02 AM</p>
