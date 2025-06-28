@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/15/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/27/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/PatrickJS/awesome-cursorrules>PatrickJS/awesome-cursorrules</a><p>📄 A curated list of awesome .cursorrules files</p></li><li><a href=https://github.com/MewoLab/AquaMai>MewoLab/AquaMai</a><p>Mod for Sinmai</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/LemonNekoGH/flow-chat>LemonNekoGH/flow-chat</a><p>Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches.</p></li><li><a href=https://github.com/dataarts/dat.gui>dataarts/dat.gui</a><p>Lightweight controller library for JavaScript.</p></li></ul>
+<ul><li><a href=https://github.com/evrone/go-clean-template>evrone/go-clean-template</a><p>Clean Architecture template for Golang services</p></li><li><a href=https://github.com/iverycd/gomysql2pg>iverycd/gomysql2pg</a><p>mysql to pg mysql2pg - A tool using GoLang migrating database from MySQL to PostgreSQL,MySQL sync to pgsql,MySQL mig pgsql</p></li><li><a href=https://github.com/groupultra/telegram-search>groupultra/telegram-search</a><p>🔍 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.</p></li><li><a href=https://github.com/iawia002/lux>iawia002/lux</a><p>👾 Fast and simple video download library and CLI tool written in Go</p></li><li><a href=https://github.com/PatrickJS/awesome-cursorrules>PatrickJS/awesome-cursorrules</a><p>📄 A curated list of awesome .cursorrules files</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/27/25, 8:02 AM<br>下一次刷新：6/28/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/28/25, 8:02 AM<br>下一次刷新：6/29/25, 8:02 AM</p>
