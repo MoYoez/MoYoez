@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/2/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/5/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/TapXWorld/ChinaTextbook>TapXWorld/ChinaTextbook</a><p>所有小初高、大学PDF教材。</p></li><li><a href=https://github.com/proj-airi/awesome-ai-vtubers>proj-airi/awesome-ai-vtubers</a><p>🧾🧸 A curated list of AI VTubers and their related projects</p></li><li><a href=https://github.com/iawia002/lux>iawia002/lux</a><p>👾 Fast and simple video download library and CLI tool written in Go</p></li><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li><li><a href=https://github.com/nekomeowww/talks>nekomeowww/talks</a><p>💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs</p></li></ul>
+<ul><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/nekomeowww/talks>nekomeowww/talks</a><p>💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs</p></li><li><a href=https://github.com/1024house/1024house>1024house/1024house</a><p>让每个程序员都能享受别墅跑车的乐趣</p></li><li><a href=https://github.com/iawia002/lux>iawia002/lux</a><p>👾 Fast and simple video download library and CLI tool written in Go</p></li><li><a href=https://github.com/latexstudio-org/mcmthesis>latexstudio-org/mcmthesis</a><p>LaTeX2e Template designed for MCM/ICM</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/5/25, 8:02 AM<br>下一次刷新：7/6/25, 8:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/6/25, 8:03 AM<br>下一次刷新：7/7/25, 8:03 AM</p>
