@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/5/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/20/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/ondrajz/go-callvis>ondrajz/go-callvis</a><p>Visualize call graph of a Go program using Graphviz</p></li><li><a href=https://github.com/evrone/go-clean-template>evrone/go-clean-template</a><p>Clean Architecture template for Golang services</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li><li><a href=https://github.com/zjw-swun/AppMethodOrder>zjw-swun/AppMethodOrder</a><p>一个能让你了解所有函数调用顺序以及函数耗时的Android库（无需侵入式代码）</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li></ul>
+<ul><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li><li><a href=https://github.com/LemonNekoGH/flow-chat>LemonNekoGH/flow-chat</a><p>Chat UI in graph 🌲. Unlike traditional chat UIs, users don’t need to delete messages to explore different responses—they can simply create new branches.</p></li><li><a href=https://github.com/chen3feng/stl4go>chen3feng/stl4go</a><p>Generic Container and Algorithm Library for Go</p></li><li><a href=https://github.com/nekomeowww/talks>nekomeowww/talks</a><p>💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs</p></li><li><a href=https://github.com/proj-airi/awesome-ai-vtubers>proj-airi/awesome-ai-vtubers</a><p>🧾🧸 A curated list of AI VTubers and their related projects</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/20/25, 8:03 AM<br>下一次刷新：7/21/25, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/21/25, 8:03 AM<br>下一次刷新：7/22/25, 8:03 AM</p>
