@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/25/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>7/25/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>5/14/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Sjj1024/PakePlus>Sjj1024/PakePlus</a><p>Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app</p></li><li><a href=https://github.com/evrone/go-clean-template>evrone/go-clean-template</a><p>Clean Architecture template for Golang services</p></li><li><a href=https://github.com/lit/lit>lit/lit</a><p>Lit is a simple library for building fast, lightweight web components.</p></li><li><a href=https://github.com/nekomeowww/talks>nekomeowww/talks</a><p>💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs</p></li><li><a href=https://github.com/aemkei/jsfuck>aemkei/jsfuck</a><p>Write any JavaScript with 6 Characters: []()!+</p></li></ul>
+<ul><li><a href=https://github.com/TapXWorld/ChinaTextbook>TapXWorld/ChinaTextbook</a><p>所有小初高、大学PDF教材。</p></li><li><a href=https://github.com/Deepractice/PromptX>Deepractice/PromptX</a><p>PromptX · 领先的AI上下文工程平台 ｜ PromptX · The Leading AI Context Engineering Platform</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/evrone/go-clean-template>evrone/go-clean-template</a><p>Clean Architecture template for Golang services</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/30/25, 8:03 AM<br>下一次刷新：7/31/25, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/31/25, 8:03 AM<br>下一次刷新：8/1/25, 8:03 AM</p>
