@@ -82,9 +82,9 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/TapXWorld/ChinaTextbook>TapXWorld/ChinaTextbook</a><p>所有小初高、大学PDF教材。</p></li><li><a href=https://github.com/Deepractice/PromptX>Deepractice/PromptX</a><p>PromptX · 领先的AI上下文工程平台 ｜ PromptX · The Leading AI Context Engineering Platform</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/evrone/go-clean-template>evrone/go-clean-template</a><p>Clean Architecture template for Golang services</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li></ul>
+<ul><li><a href=https://github.com/nekomeowww/talks>nekomeowww/talks</a><p>💬🗣️ Public talks I presented historically in Demo Day, Demo Inn, KubeCon, @DaoCloud, all built with @slidevjs</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a modern, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/iverycd/gomysql2pg>iverycd/gomysql2pg</a><p>mysql to pg mysql2pg - A tool using GoLang migrating database from MySQL to PostgreSQL,MySQL sync to pgsql,MySQL mig pgsql</p></li><li><a href=https://github.com/perkfly/reverse-interview-zh>perkfly/reverse-interview-zh</a><p>技术面试最后反问面试官的话</p></li><li><a href=https://github.com/markedjs/marked>markedjs/marked</a><p>A markdown parser and compiler. Built for speed.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/31/25, 8:03 AM<br>下一次刷新：8/1/25, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/1/25, 8:03 AM<br>下一次刷新：8/2/25, 8:03 AM</p>
