@@ -1,7 +1,7 @@
 {
-  "name": "MoeMagicMango",
+  "name": "innel-generated-readme",
   "private": true,
-  "description": "MoeMagicMango's profile",
+  "description": "innel-generated-readme's profile",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
@@ -12,14 +12,13 @@
     "url": "git+https://github.com/MoYoez/moyoez.git"
   },
   "keywords": [],
-  "author": "Cinnamoroll-Rabbit",
+  "author": "innel",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MoYoez/moyoez/issues"
   },
   "homepage": "https://github.com/MoYoez/moyoez#readme",
   "dependencies": {
-    "@mx-space/api-client": "0.10.6",
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",
     "axios": "0.22.0",

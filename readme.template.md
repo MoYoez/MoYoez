@@ -71,11 +71,6 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 <!-- opensource_toys -->
 
-<!--
-**最近写了...**
-recent_posts_inject
--->
-
 **Recent Liked...**
 
 <!-- recent_star_inject -->
