@@ -22,7 +22,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 ---
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
 
 <br />
 
@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>2022/4/29</td><td>2025/8/11</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>2020/8/11</td><td>2026/1/9</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/13/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/jordanbaird/Ice>jordanbaird/Ice</a><p>Powerful menu bar manager for macOS</p></li><li><a href=https://github.com/gradio-app/gradio>gradio-app/gradio</a><p>Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!</p></li><li><a href=https://github.com/cromaguy/Rhythm>cromaguy/Rhythm</a><p>Rhythm is a modern, feature-rich Android music player built with Jetpack Compose and Material 3 design principles. It offers a beautiful user interface combined with powerful audio playback capabilities using Media3.</p></li><li><a href=https://github.com/alibaba/tengine>alibaba/tengine</a><p>A distribution of Nginx with some advanced features</p></li><li><a href=https://github.com/666ghj/BettaFish>666ghj/BettaFish</a><p>微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。</p></li></ul>
+<ul><li><a href=https://github.com/Gar-b-age/CookLikeHOC>Gar-b-age/CookLikeHOC</a><p>🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</p></li><li><a href=https://github.com/mark3labs/mcp-go>mark3labs/mcp-go</a><p>A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</p></li><li><a href=https://github.com/666ghj/BettaFish>666ghj/BettaFish</a><p>微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。</p></li><li><a href=https://github.com/proj-airi/chromatic>proj-airi/chromatic</a><p>🎨 Readability enhanced, clean, nice looking colors palette we used across our Project AIRI projects!</p></li><li><a href=https://github.com/vitejs/devtools>vitejs/devtools</a><p>DevTools for Vite (Rolldown). Working in Progress</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2026/1/10 14:32<br>下一次刷新：2026/1/11 14:32</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/14/26, 6:01 PM<br>下一次刷新：1/15/26, 6:01 PM</p>
