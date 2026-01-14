@@ -22,7 +22,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 ---
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
 
 <br />
 
