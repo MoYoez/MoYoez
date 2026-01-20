@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/17/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>1/17/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/uni-helper/create-uni>uni-helper/create-uni</a><p>🛠️快速创建uni-app项目</p></li><li><a href=https://github.com/astral-sh/uv>astral-sh/uv</a><p>An extremely fast Python package and project manager, written in Rust.</p></li><li><a href=https://github.com/openai/whisper>openai/whisper</a><p>Robust Speech Recognition via Large-Scale Weak Supervision</p></li><li><a href=https://github.com/cromaguy/Rhythm>cromaguy/Rhythm</a><p>Rhythm is a modern, feature-rich Android music player built with Jetpack Compose and Material 3 design principles. It offers a beautiful user interface combined with powerful audio playback capabilities using Media3.</p></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li></ul>
+<ul><li><a href=https://github.com/666ghj/BettaFish>666ghj/BettaFish</a><p>微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。</p></li><li><a href=https://github.com/YukiCoco/ToMoon>YukiCoco/ToMoon</a><p>基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。</p></li><li><a href=https://github.com/tianchangNorth/create-vue-ssr>tianchangNorth/create-vue-ssr</a></li><li><a href=https://github.com/Abdess/retroarch_system>Abdess/retroarch_system</a><p>Compilation of BIOSes for various emulation platforms</p></li><li><a href=https://github.com/LizardByte/Sunshine>LizardByte/Sunshine</a><p>Self-hosted game stream host for Moonlight.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/19/26, 8:09 AM<br>下一次刷新：1/20/26, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：1/20/26, 8:08 AM<br>下一次刷新：1/21/26, 8:08 AM</p>
