@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><p>Master programming by recreating your favorite technologies from scratch.</p></li><li><a href=https://github.com/tauri-apps/cef-rs>tauri-apps/cef-rs</a></li><li><a href=https://github.com/darktohka/clean-flash-builds>darktohka/clean-flash-builds</a><p>Repository of clean Flash Player builds.</p></li><li><a href=https://github.com/rhodesepass/hardware>rhodesepass/hardware</a><p>明日方舟电子通行证硬件设计文件</p></li><li><a href=https://github.com/MaaAssistantArknights/MaaAssistantArknights>MaaAssistantArknights/MaaAssistantArknights</a><p>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</p></li></ul>
+<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/hanydd/BilibiliSponsorBlock>hanydd/BilibiliSponsorBlock</a><p>一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock</p></li><li><a href=https://github.com/usestrix/strix>usestrix/strix</a><p>Open-source AI hackers to find and fix your app’s vulnerabilities.</p></li><li><a href=https://github.com/MaaEnd/MaaEnd>MaaEnd/MaaEnd</a><p>《明日方舟：终末地》游戏小助手</p></li><li><a href=https://github.com/panyiwei-home/Decky-send>panyiwei-home/Decky-send</a><p>A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/9/26, 8:12 AM<br>下一次刷新：2/10/26, 8:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/10/26, 8:16 AM<br>下一次刷新：2/11/26, 8:16 AM</p>
