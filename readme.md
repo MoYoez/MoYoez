@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/MaaEnd/MaaEnd>MaaEnd/MaaEnd</a><p>《明日方舟：终末地》游戏小助手</p></li><li><a href=https://github.com/MoYoez/Decky-Localsend>MoYoez/Decky-Localsend</a><p>Use Localsend on SteamDeck in Gaming Mode</p></li><li><a href=https://github.com/Abdess/retroarch_system>Abdess/retroarch_system</a><p>Compilation of BIOSes for various emulation platforms</p></li><li><a href=https://github.com/usestrix/strix>usestrix/strix</a><p>Open-source AI hackers to find and fix your app’s vulnerabilities.</p></li><li><a href=https://github.com/KouriChat/KouriChat>KouriChat/KouriChat</a><p>【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream.</p></li></ul>
+<ul><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/MaaAssistantArknights/MaaAssistantArknights>MaaAssistantArknights/MaaAssistantArknights</a><p>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</p></li><li><a href=https://github.com/tianchangNorth/create-vue-ssr>tianchangNorth/create-vue-ssr</a></li><li><a href=https://github.com/jinzhongjia/decky-music>jinzhongjia/decky-music</a><p>Steam decky plugin with music</p></li><li><a href=https://github.com/darktohka/clean-flash-builds>darktohka/clean-flash-builds</a><p>Repository of clean Flash Player builds.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/13/26, 8:13 AM<br>下一次刷新：2/14/26, 8:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/14/26, 8:11 AM<br>下一次刷新：2/15/26, 8:11 AM</p>
