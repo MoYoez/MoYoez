@@ -1,6 +1,5 @@
 export const opensource = {
   active: [
-    //'',
     'HafuuNano/Lucy-QOnebot',
     'MoYoez/Decky-LocalSend',
     'MoYoez/gravity-progressbar',
