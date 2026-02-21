@@ -1,10 +1,10 @@
 export const opensource = {
   active: [
     //'',
-    'MoYoez/Lucy-QOnebot',
-    'MoYoez/text-watermark',
-    'MoYoez/lucy_reibot',
-    'MoYoez/PhigrosLibrary-FlaskAPI',
+    'HafuuNano/Lucy-QOnebot',
+    'MoYoez/Decky-LocalSend',
+    'MoYoez/gravity-progressbar',
+    'MoYoez/Paradise-Imagination'
   ],
   toys: {
     limit: 3,
