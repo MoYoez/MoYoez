@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar>AriHaruikoi-Playground/gravity-progressbar</a><p>A simple demo shown a progressBar which has Gravity!</p></li><li><a href=https://github.com/SteamDeckHomebrew/decky-plugin-database>SteamDeckHomebrew/decky-plugin-database</a><p>Decky Plugin Database. PR your plugins to this repository to have them added to the store!</p></li><li><a href=https://github.com/MaaEnd/MaaEnd>MaaEnd/MaaEnd</a><p>《明日方舟：终末地》游戏小助手</p></li><li><a href=https://github.com/MoYoez/Decky-LocalSend>MoYoez/Decky-LocalSend</a><p>Use LocalSend on SteamDeck in Gaming Mode. | 在 Steam Deck 游戏模式下使用 LocalSend.</p></li><li><a href=https://github.com/Wurielle/decky-launch-options>Wurielle/decky-launch-options</a><p>Manage launch options for your games with ease 🍃</p></li></ul>
+<ul><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li><li><a href=https://github.com/hiDaDeng/cntext>hiDaDeng/cntext</a><p>cntext 是一个专为社会科学实证研究设计的中文文本分析 Python 库。它不仅提供传统的词频统计和情感分析，还支持词嵌入训练、语义投影计算等高级功能，帮助研究者从大规模非结构化文本中测量抽象构念——如态度、认知、文化观念与心理状态。</p></li><li><a href=https://github.com/deamos/decky-streamer>deamos/decky-streamer</a><p>Decky Loader Plugin for Streaming from Steam OS to a RTMP server</p></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：2/28/26, 8:09 AM<br>下一次刷新：3/1/26, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/1/26, 8:11 AM<br>下一次刷新：3/2/26, 8:11 AM</p>
