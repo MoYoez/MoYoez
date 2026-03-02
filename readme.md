@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li><li><a href=https://github.com/hiDaDeng/cntext>hiDaDeng/cntext</a><p>cntext 是一个专为社会科学实证研究设计的中文文本分析 Python 库。它不仅提供传统的词频统计和情感分析，还支持词嵌入训练、语义投影计算等高级功能，帮助研究者从大规模非结构化文本中测量抽象构念——如态度、认知、文化观念与心理状态。</p></li><li><a href=https://github.com/deamos/decky-streamer>deamos/decky-streamer</a><p>Decky Loader Plugin for Streaming from Steam OS to a RTMP server</p></li><li><a href=https://github.com/localsend/localsend>localsend/localsend</a><p>An open-source cross-platform alternative to AirDrop</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Decky-LocalSend>MoYoez/Decky-LocalSend</a><p>Use LocalSend on SteamDeck in Gaming Mode. | 在 Steam Deck 游戏模式下使用 LocalSend.</p></li><li><a href=https://github.com/deamos/decky-streamer>deamos/decky-streamer</a><p>Decky Loader Plugin for Streaming from Steam OS to a RTMP server</p></li><li><a href=https://github.com/SteamDeckHomebrew/decky-plugin-database>SteamDeckHomebrew/decky-plugin-database</a><p>Decky Plugin Database. PR your plugins to this repository to have them added to the store!</p></li><li><a href=https://github.com/Mzying2001/CefFlashBrowser>Mzying2001/CefFlashBrowser</a><p>Flash浏览器 / Flash Browser</p></li><li><a href=https://github.com/darktohka/clean-flash-builds>darktohka/clean-flash-builds</a><p>Repository of clean Flash Player builds.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/1/26, 8:11 AM<br>下一次刷新：3/2/26, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/2/26, 8:10 AM<br>下一次刷新：3/3/26, 8:10 AM</p>
