@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>8/11/2025</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/2/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/Decky-LocalSend>MoYoez/Decky-LocalSend</a><p>Use LocalSend on SteamDeck in Gaming Mode. | 在 Steam Deck 游戏模式下使用 LocalSend.</p></li><li><a href=https://github.com/deamos/decky-streamer>deamos/decky-streamer</a><p>Decky Loader Plugin for Streaming from Steam OS to a RTMP server</p></li><li><a href=https://github.com/SteamDeckHomebrew/decky-plugin-database>SteamDeckHomebrew/decky-plugin-database</a><p>Decky Plugin Database. PR your plugins to this repository to have them added to the store!</p></li><li><a href=https://github.com/Mzying2001/CefFlashBrowser>Mzying2001/CefFlashBrowser</a><p>Flash浏览器 / Flash Browser</p></li><li><a href=https://github.com/darktohka/clean-flash-builds>darktohka/clean-flash-builds</a><p>Repository of clean Flash Player builds.</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/LocalSend-Go>MoYoez/LocalSend-Go</a><p>minimal LocalSend-like implementation in Go</p></li><li><a href=https://github.com/localsend/protocol>localsend/protocol</a><p>The LocalSend REST API</p></li><li><a href=https://github.com/golang-design/clipboard>golang-design/clipboard</a><p>📋 cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS)</p></li><li><a href=https://github.com/BACNext/BACNext>BACNext/BACNext</a><p>BACNext | bilibili API Collect Next | 本项目与 BAC 没有从属关系</p></li><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/2/26, 8:10 AM<br>下一次刷新：3/3/26, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/3/26, 8:12 AM<br>下一次刷新：3/4/26, 8:12 AM</p>
