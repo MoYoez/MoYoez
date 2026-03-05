@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/2/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/2/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>2/19/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/memohai/Memoh>memohai/Memoh</a><p>Multi-Member, Structured Long-Memory, Containerized AI Agent System ✨</p></li><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li><li><a href=https://github.com/vercel-labs/portless>vercel-labs/portless</a><p>Replace port numbers with stable, named .localhost URLs. For humans and agents.</p></li><li><a href=https://github.com/darktohka/clean-flash-builds>darktohka/clean-flash-builds</a><p>Repository of clean Flash Player builds.</p></li><li><a href=https://github.com/Mai-with-u/MaiBot>Mai-with-u/MaiBot</a><p>麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体</p></li></ul>
+<ul><li><a href=https://github.com/MoYoez/Decky-LocalSend>MoYoez/Decky-LocalSend</a><p>Use LocalSend on SteamDeck in Gaming Mode. | 在 Steam Deck 游戏模式下使用 LocalSend.</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li><li><a href=https://github.com/SteamDeckHomebrew/decky-plugin-database>SteamDeckHomebrew/decky-plugin-database</a><p>Decky Plugin Database. PR your plugins to this repository to have them added to the store!</p></li><li><a href=https://github.com/hiDaDeng/cntext>hiDaDeng/cntext</a><p>cntext 是一个专为社会科学实证研究设计的中文文本分析 Python 库。它不仅提供传统的词频统计和情感分析，还支持词嵌入训练、语义投影计算等高级功能，帮助研究者从大规模非结构化文本中测量抽象构念——如态度、认知、文化观念与心理状态。</p></li><li><a href=https://github.com/panyiwei-home/Friendeck>panyiwei-home/Friendeck</a><p>A powerful Decky Loader plugin designed to solve the file transfer and management challenges between Steam Deck and other devices. Manage files and sync text easily via browser without data cables.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/4/26, 8:11 AM<br>下一次刷新：3/5/26, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/5/26, 8:12 AM<br>下一次刷新：3/6/26, 8:12 AM</p>
