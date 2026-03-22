@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/KunMinX/Jetpack-MVVM-Best-Practice>KunMinX/Jetpack-MVVM-Best-Practice</a><p>难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。</p></li><li><a href=https://github.com/tauri-apps/cef-rs>tauri-apps/cef-rs</a></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li><li><a href=https://github.com/james-bowman/nlp>james-bowman/nlp</a><p>Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang</p></li><li><a href=https://github.com/adv-inn/Deckify>adv-inn/Deckify</a><p>A Spotify music manager for Steam Deck, built as a Decky Loader plugin.</p></li></ul>
+<ul><li><a href=https://github.com/adv-inn/Deckify>adv-inn/Deckify</a><p>A Spotify music manager for Steam Deck, built as a Decky Loader plugin.</p></li><li><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar>AriHaruikoi-Playground/gravity-progressbar</a><p>A simple demo shown a progressBar which has Gravity!</p></li><li><a href=https://github.com/uber-go/fx>uber-go/fx</a><p>A dependency injection based application framework for Go.</p></li><li><a href=https://github.com/KunMinX/Jetpack-MVVM-Best-Practice>KunMinX/Jetpack-MVVM-Best-Practice</a><p>难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。</p></li><li><a href=https://github.com/Wurielle/decky-launch-options>Wurielle/decky-launch-options</a><p>Manage launch options for your games with ease 🍃</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/21/26, 8:11 AM<br>下一次刷新：3/22/26, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/22/26, 8:11 AM<br>下一次刷新：3/23/26, 8:11 AM</p>
