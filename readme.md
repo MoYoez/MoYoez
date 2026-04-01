@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/14/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/25/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>3/25/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin-Playground target=_blank><b>FloatTech/ZeroBot-Plugin-Playground</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin-Playground?style=flat-square&labelColor=343b41"></td><td>4/29/2022</td><td>3/14/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/zincsearch/zincsearch>zincsearch/zincsearch</a><p>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</p></li><li><a href=https://github.com/uber-go/fx>uber-go/fx</a><p>A dependency injection based application framework for Go.</p></li><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li><li><a href=https://github.com/KunMinX/Jetpack-MVVM-Best-Practice>KunMinX/Jetpack-MVVM-Best-Practice</a><p>难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。</p></li><li><a href=https://github.com/MoYoez/Paradise-Imagination>MoYoez/Paradise-Imagination</a><p>A Simple Rainbow-Inspired Personal Introduction Theme. | Maple, Sunset, Sand, Forest, Stream, Bluebell, Wisteria.</p></li></ul>
+<ul><li><a href=https://github.com/james-bowman/nlp>james-bowman/nlp</a><p>Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang</p></li><li><a href=https://github.com/KunMinX/Jetpack-MVVM-Best-Practice>KunMinX/Jetpack-MVVM-Best-Practice</a><p>难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。</p></li><li><a href=https://github.com/deamos/decky-streamer>deamos/decky-streamer</a><p>Decky Loader Plugin for Streaming from Steam OS to a RTMP server</p></li><li><a href=https://github.com/Coldin04/CyimeWrite>Coldin04/CyimeWrite</a><p>🍋‍🟩 Cyime Write —— 青柠写 轻量简洁的云端同步文档编辑器 为随心流动的创意而生</p></li><li><a href=https://github.com/BloopAI/vibe-kanban>BloopAI/vibe-kanban</a><p>Get 10X more out of Claude Code, Codex or any coding agent</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：3/31/26, 8:15 AM<br>下一次刷新：4/1/26, 8:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/1/26, 8:16 AM<br>下一次刷新：4/2/26, 8:16 AM</p>
