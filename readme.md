@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/LagrangeDev/go-cqhttp>LagrangeDev/go-cqhttp</a><p>cqhttp的golang实现，轻量、原生跨平台.</p></li><li><a href=https://github.com/Torther/DeckyClipboard>Torther/DeckyClipboard</a></li><li><a href=https://github.com/adv-inn/Deckify>adv-inn/Deckify</a><p>A Spotify music manager for Steam Deck, built as a Decky Loader plugin.</p></li><li><a href=https://github.com/Coldin04/CyimeWrite>Coldin04/CyimeWrite</a><p>🍋‍🟩 Cyime Write —— 青柠写 轻量简洁的云端同步文档编辑器 为随心流动的创意而生</p></li><li><a href=https://github.com/steipete/Peekaboo>steipete/Peekaboo</a><p>Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.</p></li></ul>
+<ul><li><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar>AriHaruikoi-Playground/gravity-progressbar</a><p>A simple demo shown a progressBar which has Gravity!</p></li><li><a href=https://github.com/vercel-labs/portless>vercel-labs/portless</a><p>Replace port numbers with stable, named local URLs. For humans and agents.</p></li><li><a href=https://github.com/Torther/DeckyClipboard>Torther/DeckyClipboard</a></li><li><a href=https://github.com/yikart/AiToEarn>yikart/AiToEarn</a><p>Let's use AI to Earn!</p></li><li><a href=https://github.com/zincsearch/zincsearch>zincsearch/zincsearch</a><p>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/2/26, 8:13 AM<br>下一次刷新：4/3/26, 8:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/3/26, 8:20 AM<br>下一次刷新：4/4/26, 8:20 AM</p>
