@@ -2,7 +2,7 @@ export const opensource = {
   active: [
     'HafuuNano/Lucy-QOnebot',
     'MoYoez/Decky-LocalSend',
-    'MoYoez/gravity-progressbar',
+    'MoYoez/ActivityPing',
     'MoYoez/Paradise-Imagination'
   ],
   toys: {
@@ -11,7 +11,7 @@ export const opensource = {
     repos: [
       //'',
       'FloatTech/ZeroBot-Plugin',
-      'FloatTech/ZeroBot-Plugin-PlayGround',
+      'AriHaruikoi-Playground/gravity-progressbar',
     ],
   },
 }
