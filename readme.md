@@ -69,7 +69,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/25/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/25/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/Monika-Dream/live-dashboard>Monika-Dream/live-dashboard</a><p>视监面板</p></li><li><a href=https://github.com/SuperMonster003/AutoJs6>SuperMonster003/AutoJs6</a><p>安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)</p></li><li><a href=https://github.com/MoYoez/waken-wa>MoYoez/waken-wa</a><p>Here! You finally awake. | 强定制化，简洁美学，AI结合化的个人生活实时面板~</p></li><li><a href=https://github.com/BloopAI/vibe-kanban>BloopAI/vibe-kanban</a><p>Get 10X more out of Claude Code, Codex or any coding agent</p></li><li><a href=https://github.com/uber-go/fx>uber-go/fx</a><p>A dependency injection based application framework for Go.</p></li></ul>
+<ul><li><a href=https://github.com/SuperMonster003/AutoJs6>SuperMonster003/AutoJs6</a><p>安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)</p></li><li><a href=https://github.com/chenglou/pretext>chenglou/pretext</a><p>Fast, accurate & comprehensive text measurement & layout</p></li><li><a href=https://github.com/Monika-Dream/live-dashboard>Monika-Dream/live-dashboard</a><p>视监面板</p></li><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><p>Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.</p></li><li><a href=https://github.com/BloopAI/vibe-kanban>BloopAI/vibe-kanban</a><p>Get 10X more out of Claude Code, Codex or any coding agent</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/26/26, 8:19 AM<br>下一次刷新：4/27/26, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/27/26, 8:19 AM<br>下一次刷新：4/28/26, 8:19 AM</p>
