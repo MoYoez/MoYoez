@@ -77,9 +77,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/lgarron/folderify>lgarron/folderify</a><p>:file_folder: Generate pixel-perfect macOS folder icons in the native style. (Now with support for macOS 26 Tahoe!)</p></li><li><a href=https://github.com/zincsearch/zincsearch>zincsearch/zincsearch</a><p>ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.</p></li><li><a href=https://github.com/Coldin04/Cyime>Coldin04/Cyime</a><p>🍋‍🟩 Cyime(青柠写) ——轻快写作，随云流动，支持多方案图片上传的云文档</p></li><li><a href=https://github.com/syncthing/syncthing>syncthing/syncthing</a><p>Open Source Continuous File Synchronization</p></li><li><a href=https://github.com/Innei/shuffle-article>Innei/shuffle-article</a><p>Shuffle text in the DOM while preserving visual rendering for lightweight copy protection.</p></li></ul>
+<ul><li><a href=https://github.com/bocai-bca/StratagemHero_Effect>bocai-bca/StratagemHero_Effect</a><p>A fan-made minigame with gameplay based on the Stratagem Hero minigame of Helldivers2</p></li><li><a href=https://github.com/darkroomengineering/lenis>darkroomengineering/lenis</a><p>Smooth scroll at it should be</p></li><li><a href=https://github.com/MoYoez/waken-wa>MoYoez/waken-wa</a><p>Here! You finally awake. | 强定制化，简洁美学，AI结合化的个人生活实时面板~</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs</p></li><li><a href=https://github.com/uber-go/fx>uber-go/fx</a><p>A dependency injection based application framework for Go.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：4/30/26, 8:23 AM<br>下一次刷新：5/1/26, 8:23 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/1/26, 8:25 AM<br>下一次刷新：5/2/26, 8:25 AM</p>
