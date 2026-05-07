@@ -2,7 +2,7 @@ export const opensource = {
   active: [
     'HafuuNano/Lucy-QOnebot',
     'MoYoez/Decky-LocalSend',
-    'MoYoez/ActivityPing',
+    'MoYoez/waken-wa',
     'MoYoez/Paradise-Imagination'
   ],
   toys: {
