@@ -6,6 +6,8 @@
 
 ![snake-shaking](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
+<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+
 Hi~ This is Koi, an ~~undergraduate student~~ & Full-stack developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
 Here you can see my old projects here, many of them moved to my own Organizations, to make them clearly to see what was for : qwq.
@@ -22,9 +24,10 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 ---
 
 <br />
-<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+<div class="self" style="display:flex">
+<img src="https://status-me.lemonkoi.one/api/status-card?variant=cover&cover=513f6faa-25db-407c-a23b-c45553524535&coverRev=6fe63d7c874f9c62&showHeader=1&showAvatar=1&showName=1&showBio=1&showNote=1&preferGame=1&showInClassStatus=1&width=520&height=310&radius=20&bg=%23FFFFFF&fg=%23111827&muted=%236B7280&accent=%2322C55E&border=%23E5E7EB">
 
-<br />
+</div>
 
 **Program Language**
 
@@ -69,17 +72,17 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/27/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/27/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
-<ul><li><a href=https://github.com/nexu-io/open-design>nexu-io/open-design</a><p>🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.</p></li><li><a href=https://github.com/mem0ai/mem0>mem0ai/mem0</a><p>Universal memory layer for AI Agents</p></li><li><a href=https://github.com/TecharoHQ/anubis>TecharoHQ/anubis</a><p>Weighs the soul of incoming HTTP requests to stop AI crawlers</p></li><li><a href=https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced>NeteaseCloudMusicApiEnhanced/api-enhanced</a><p>🔍 全网最全的网易云音乐API接口 || A revival project for NeteaseCloudMusicApi Node.js Services (Half Refactor & Enhanced) || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版本后开始自行维护</p></li><li><a href=https://github.com/lm-sys/RouteLLM>lm-sys/RouteLLM</a><p>A framework for serving and evaluating LLM routers - save LLM costs without compromising quality</p></li></ul>
+<ul><li><a href=https://github.com/t8y2/dbx>t8y2/dbx</a><p>15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.</p></li><li><a href=https://github.com/nexu-io/open-design>nexu-io/open-design</a><p>🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.</p></li><li><a href=https://github.com/mem0ai/mem0>mem0ai/mem0</a><p>Universal memory layer for AI Agents</p></li><li><a href=https://github.com/TecharoHQ/anubis>TecharoHQ/anubis</a><p>Weighs the soul of incoming HTTP requests to stop AI crawlers</p></li><li><a href=https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced>NeteaseCloudMusicApiEnhanced/api-enhanced</a><p>🔍 全网最全的网易云音乐API接口 || A revival project for NeteaseCloudMusicApi Node.js Services (Half Refactor & Enhanced) || 网易云音乐 API 备份 + 增强 || 本项目自原版v4.28.0版本后开始自行维护</p></li></ul>
 
 **Starred**
 
-<ul><li><a href=https://github.com/guokaigdg/animal-island-ui>guokaigdg/animal-island-ui</a><p>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面</p></li><li><a href=https://github.com/Innei/Kagura>Innei/Kagura</a><p>A divine dance of AI in Slack — Kagura runs Claude Agent SDK and OpenAI Codex CLI natively in your workspace with thread-aware context, streaming UX, and persistent memory.</p></li><li><a href=https://github.com/ungive/mediaremote-adapter>ungive/mediaremote-adapter</a><p>Fully functional MediaRemote access for all versions of macOS</p></li><li><a href=https://github.com/warpdotdev/warp>warpdotdev/warp</a><p>Warp is an agentic development environment, born out of the terminal.</p></li><li><a href=https://github.com/CherryHQ/cherry-studio>CherryHQ/cherry-studio</a><p>AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs</p></li></ul>
+<ul><li><a href=https://github.com/Innei/Kagura>Innei/Kagura</a><p>A divine dance of AI in Slack — Kagura runs Claude Agent SDK and OpenAI Codex CLI natively in your workspace with thread-aware context, streaming UX, and persistent memory.</p></li><li><a href=https://github.com/Monika-Dream/live-dashboard>Monika-Dream/live-dashboard</a><p>视监面板</p></li><li><a href=https://github.com/memohai/Autofish>memohai/Autofish</a><p>An AI Agent tool to automate Android devices reliably</p></li><li><a href=https://github.com/lm-sys/RouteLLM>lm-sys/RouteLLM</a><p>A framework for serving and evaluating LLM routers - save LLM costs without compromising quality</p></li><li><a href=https://github.com/MoYoez/waken-wa>MoYoez/waken-wa</a><p>Here! You finally awake. | 强定制化，简洁美学，AI结合化的个人生活(视奸)实时面板~</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/7/26, 8:23 AM<br>下一次刷新：5/8/26, 8:23 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/8/26, 3:25 AM<br>下一次刷新：5/9/26, 3:25 AM</p>
