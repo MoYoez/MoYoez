@@ -6,6 +6,8 @@
 
 ![snake-shaking](https://raw.githubusercontent.com/MoYoez/MoYoez/master/assets/github-contribution-grid-snake.svg)
 
+<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+
 Hi~ This is Koi, an ~~undergraduate student~~ & Full-stack developer for ~~life~~ fun, I always use "MoeMagicMango" or "KoiParadise" as my own account names.
 
 Here you can see my old projects here, many of them moved to my own Organizations, to make them clearly to see what was for : qwq.
@@ -22,9 +24,10 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 ---
 
 <br />
-<img src="https://github-readme-stats-five-psi-29.vercel.app/api?username=moyoez&show_icons=true&icon_color=0078e7&title_color=0078e7"></a>
+<div class="self" style="display:flex">
+<img src="https://status-me.lemonkoi.one/api/status-card?variant=cover&cover=513f6faa-25db-407c-a23b-c45553524535&coverRev=6fe63d7c874f9c62&showHeader=1&showAvatar=1&showName=1&showBio=1&showNote=1&preferGame=1&showInClassStatus=1&width=520&height=310&radius=20&bg=%23FFFFFF&fg=%23111827&muted=%236B7280&accent=%2322C55E&border=%23E5E7EB">
 
-<br />
+</div>
 
 **Program Language**
 
