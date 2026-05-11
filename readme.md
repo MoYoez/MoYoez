@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>4/27/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>5/10/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/MoYoez/ActivityPing>MoYoez/ActivityPing</a><p>💫 Automatically turn your real-time activity into Discord presence, support Music & Now You are using (Windows/MacOS/Linux)!</p></li><li><a href=https://github.com/warpdotdev/warp>warpdotdev/warp</a><p>Warp is an agentic development environment, born out of the terminal.</p></li><li><a href=https://github.com/taigrr/spank>taigrr/spank</a><p>Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.</p></li><li><a href=https://github.com/guokaigdg/animal-island-ui>guokaigdg/animal-island-ui</a><p>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面</p></li><li><a href=https://github.com/memohai/Autofish>memohai/Autofish</a><p>An AI Agent tool to automate Android devices reliably</p></li></ul>
+<ul><li><a href=https://github.com/Monika-Dream/live-dashboard>Monika-Dream/live-dashboard</a><p>视监面板</p></li><li><a href=https://github.com/ungive/mediaremote-adapter>ungive/mediaremote-adapter</a><p>Fully functional MediaRemote access for all versions of macOS</p></li><li><a href=https://github.com/MoYoez/waken-wa-reporter>MoYoez/waken-wa-reporter</a><p>Tools For Waken-Wa ! | 适用于 Waken-Wa 的 Reporter 上报工具~</p></li><li><a href=https://github.com/warpdotdev/warp>warpdotdev/warp</a><p>Warp is an agentic development environment, born out of the terminal.</p></li><li><a href=https://github.com/redbaronyyyyy-eng/humanizer-zh-academic>redbaronyyyyy-eng/humanizer-zh-academic</a><p>🎓 降低中文学术写作 AIGC 检测率的 Claude Code Skill | Reduce AIGC detection rate for Chinese academic writing</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/10/26, 8:24 AM<br>下一次刷新：5/11/26, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：5/11/26, 8:24 AM<br>下一次刷新：5/12/26, 8:24 AM</p>
