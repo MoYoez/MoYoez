@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/temporalio/temporal>temporalio/temporal</a><p>Temporal service</p></li><li><a href=https://github.com/SomeOvO/xhhRobot>SomeOvO/xhhRobot</a></li><li><a href=https://github.com/nexu-io/open-design>nexu-io/open-design</a><p>🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.</p></li><li><a href=https://github.com/nekohy/MeowCLI>nekohy/MeowCLI</a><p>一个用于CLI反代的项目，追求更高性能，更优调度</p></li><li><a href=https://github.com/HyacinthHaru/HikariCanvas>HyacinthHaru/HikariCanvas</a><p>什么？在 Minecraft 服务器里复刻 Canva / Figma，还能实时展示到游戏里？</p></li></ul>
+<ul><li><a href=https://github.com/nekohy/MeowCLI>nekohy/MeowCLI</a><p>一个用于CLI反代的项目，追求更高性能，更优调度</p></li><li><a href=https://github.com/KIPPUDESU/KIPPU_Trace>KIPPUDESU/KIPPU_Trace</a><p>一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日</p></li><li><a href=https://github.com/QuantumNous/new-api>QuantumNous/new-api</a><p>A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥</p></li><li><a href=https://github.com/mem0ai/mem0>mem0ai/mem0</a><p>Universal memory layer for AI Agents</p></li><li><a href=https://github.com/seemoo-lab/owl>seemoo-lab/owl</a><p>An open Apple Wireless Direct Link (AWDL) implementation written in C</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/18/26, 8:36 AM<br>下一次刷新：6/19/26, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：6/19/26, 8:39 AM<br>下一次刷新：6/20/26, 8:39 AM</p>
