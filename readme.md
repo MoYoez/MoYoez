@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/temporalio/temporal>temporalio/temporal</a><p>Temporal service</p></li><li><a href=https://github.com/zhu1090093659/spec_driven_develop>zhu1090093659/spec_driven_develop</a><p>Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.</p></li><li><a href=https://github.com/JustLikeCheese/LGBT-Prompt>JustLikeCheese/LGBT-Prompt</a><p>利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求</p></li><li><a href=https://github.com/nekohy/MeowCLI>nekohy/MeowCLI</a><p>一个用于CLI反代的项目，追求更高性能，更优调度</p></li><li><a href=https://github.com/samber/cc-skills-golang>samber/cc-skills-golang</a><p>🧑‍🎨 A collection of Golang agentic skills that works</p></li></ul>
+<ul><li><a href=https://github.com/vikingmute/better-wechatpay>vikingmute/better-wechatpay</a><p>现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持</p></li><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li><li><a href=https://github.com/obra/superpowers>obra/superpowers</a><p>An agentic skills framework & software development methodology that works.</p></li><li><a href=https://github.com/HyacinthHaru/HikariCanvas>HyacinthHaru/HikariCanvas</a><p>什么？在 Minecraft 服务器里复刻 Canva / Figma，还能实时展示到游戏里？</p></li><li><a href=https://github.com/JustLikeCheese/LGBT-Prompt>JustLikeCheese/LGBT-Prompt</a><p>利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/10/26, 9:58 AM<br>下一次刷新：7/11/26, 9:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：7/11/26, 9:46 AM<br>下一次刷新：7/12/26, 9:46 AM</p>
