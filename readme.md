@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/zhu1090093659/spec_driven_develop>zhu1090093659/spec_driven_develop</a><p>Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.</p></li><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><p>ORM</p></li><li><a href=https://github.com/temporalio/temporal>temporalio/temporal</a><p>Temporal service</p></li><li><a href=https://github.com/tanweai/pua>tanweai/pua</a><p>你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.</p></li><li><a href=https://github.com/GaodaGG/SaltDiscordPlugin>GaodaGG/SaltDiscordPlugin</a><p>为 Salt Player for Windows 提供 Discord 丰富状态的插件</p></li></ul>
+<ul><li><a href=https://github.com/drizzle-team/drizzle-orm>drizzle-team/drizzle-orm</a><p>ORM</p></li><li><a href=https://github.com/JustLikeCheese/LGBT-Prompt>JustLikeCheese/LGBT-Prompt</a><p>利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求</p></li><li><a href=https://github.com/renovatebot/renovate>renovatebot/renovate</a><p>Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</p></li><li><a href=https://github.com/unchihugo/FluentFlyout>unchihugo/FluentFlyout</a><p>The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.</p></li><li><a href=https://github.com/microsoft/WindowsDeveloperConfig>microsoft/WindowsDeveloperConfig</a><p>Automate the setup and configuration of your Windows development environment.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/2/26, 9:51 AM<br>下一次刷新：8/3/26, 9:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/3/26, 9:53 AM<br>下一次刷新：8/4/26, 9:53 AM</p>
