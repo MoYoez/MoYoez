@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/26/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>6/26/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/SomeOvO/xhhRobot>SomeOvO/xhhRobot</a></li><li><a href=https://github.com/mindfold-ai/Trellis>mindfold-ai/Trellis</a><p>The best agent harness.</p></li><li><a href=https://github.com/samber/cc-skills-golang>samber/cc-skills-golang</a><p>🧑‍🎨 A collection of Golang agentic skills that works</p></li><li><a href=https://github.com/KIPPUDESU/KIPPU_Trace>KIPPUDESU/KIPPU_Trace</a><p>一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日</p></li><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li></ul>
+<ul><li><a href=https://github.com/temporalio/temporal>temporalio/temporal</a><p>Temporal service</p></li><li><a href=https://github.com/KIPPUDESU/KIPPU_Trace>KIPPUDESU/KIPPU_Trace</a><p>一个记录重要时刻，功能简单且界面美观的安卓原生 App，将持续收取建议跟进开发。目的是在界面和体验上一定程度超越替代倒数日</p></li><li><a href=https://github.com/SomeOvO/xhhRobot>SomeOvO/xhhRobot</a></li><li><a href=https://github.com/code-yeongyu/lazycodex>code-yeongyu/lazycodex</a><p>The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.</p></li><li><a href=https://github.com/Kurosu-Ti01/SleepIn>Kurosu-Ti01/SleepIn</a><p>一个开源轻量美观的课程表 / An open source lightweight and beautiful course schedule</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/11/26, 8:58 AM<br>下一次刷新：8/12/26, 8:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/12/26, 9:05 AM<br>下一次刷新：8/13/26, 9:05 AM</p>
