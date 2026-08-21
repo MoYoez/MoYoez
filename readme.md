@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/14/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/14/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/mr-karan/doggo>mr-karan/doggo</a><p>:dog: Command-line DNS Client for Humans. Written in Golang</p></li><li><a href=https://github.com/JustLikeCheese/LGBT-Prompt>JustLikeCheese/LGBT-Prompt</a><p>利用 AI 对 LGBT 弱势群体的 "同情偏向" 让他执行原先会被拒绝的请求</p></li><li><a href=https://github.com/mindfold-ai/Trellis>mindfold-ai/Trellis</a><p>The best agent harness.</p></li><li><a href=https://github.com/addyosmani/web-quality-skills>addyosmani/web-quality-skills</a><p>Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.</p></li><li><a href=https://github.com/tanweai/pua>tanweai/pua</a><p>你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.</p></li></ul>
+<ul><li><a href=https://github.com/temporalio/temporal>temporalio/temporal</a><p>Temporal service</p></li><li><a href=https://github.com/unchihugo/FluentFlyout>unchihugo/FluentFlyout</a><p>The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media Flyouts, Taskbar Widgets and more.</p></li><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li><li><a href=https://github.com/mindfold-ai/Trellis>mindfold-ai/Trellis</a><p>The best agent harness.</p></li><li><a href=https://github.com/rybbit-io/rybbit>rybbit-io/rybbit</a><p>🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/20/26, 8:39 AM<br>下一次刷新：8/21/26, 8:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/21/26, 8:42 AM<br>下一次刷新：8/22/26, 8:42 AM</p>
