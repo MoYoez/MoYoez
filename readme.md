@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/14/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>8/14/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li><li><a href=https://github.com/samber/cc-skills-golang>samber/cc-skills-golang</a><p>🧑‍🎨 A collection of Golang agentic skills that works</p></li><li><a href=https://github.com/mindfold-ai/Trellis>mindfold-ai/Trellis</a><p>The best agent harness.</p></li><li><a href=https://github.com/raysonmeng/agent-bridge>raysonmeng/agent-bridge</a><p>A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。</p></li><li><a href=https://github.com/donnemartin/system-design-primer>donnemartin/system-design-primer</a><p>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</p></li></ul>
+<ul><li><a href=https://github.com/Tencent/wcdb>Tencent/wcdb</a><p>WCDB is a cross-platform database framework developed by WeChat.</p></li><li><a href=https://github.com/GaodaGG/SaltDiscordPlugin>GaodaGG/SaltDiscordPlugin</a><p>为 Salt Player for Windows 提供 Discord 丰富状态的插件</p></li><li><a href=https://github.com/rybbit-io/rybbit>rybbit-io/rybbit</a><p>🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.</p></li><li><a href=https://github.com/microsoft/WindowsDeveloperConfig>microsoft/WindowsDeveloperConfig</a><p>Automate the setup and configuration of your Windows development environment.</p></li><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/25/26, 8:40 AM<br>下一次刷新：8/26/26, 8:40 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/26/26, 8:41 AM<br>下一次刷新：8/27/26, 8:41 AM</p>
