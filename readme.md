@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/Tencent/wcdb>Tencent/wcdb</a><p>WCDB is a cross-platform database framework developed by WeChat.</p></li><li><a href=https://github.com/GaodaGG/SaltDiscordPlugin>GaodaGG/SaltDiscordPlugin</a><p>为 Salt Player for Windows 提供 Discord 丰富状态的插件</p></li><li><a href=https://github.com/rybbit-io/rybbit>rybbit-io/rybbit</a><p>🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.</p></li><li><a href=https://github.com/microsoft/WindowsDeveloperConfig>microsoft/WindowsDeveloperConfig</a><p>Automate the setup and configuration of your Windows development environment.</p></li><li><a href=https://github.com/shengxinjing/burn-token>shengxinjing/burn-token</a></li></ul>
+<ul><li><a href=https://github.com/xintaofei/codeg>xintaofei/codeg</a><p>Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.</p></li><li><a href=https://github.com/GaodaGG/SaltDiscordPlugin>GaodaGG/SaltDiscordPlugin</a><p>为 Salt Player for Windows 提供 Discord 丰富状态的插件</p></li><li><a href=https://github.com/samber/cc-skills-golang>samber/cc-skills-golang</a><p>🧑‍🎨 A collection of Golang agentic skills that works</p></li><li><a href=https://github.com/raysonmeng/agent-bridge>raysonmeng/agent-bridge</a><p>A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。</p></li><li><a href=https://github.com/mr-karan/doggo>mr-karan/doggo</a><p>:dog: Command-line DNS Client for Humans. Written in Golang</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/26/26, 8:41 AM<br>下一次刷新：8/27/26, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：8/27/26, 1:47 PM<br>下一次刷新：8/28/26, 1:47 PM</p>
