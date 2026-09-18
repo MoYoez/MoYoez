@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/addyosmani/web-quality-skills>addyosmani/web-quality-skills</a><p>Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.</p></li><li><a href=https://github.com/mr-karan/doggo>mr-karan/doggo</a><p>:dog: Command-line DNS Client for Humans. Written in Golang</p></li><li><a href=https://github.com/Kurosu-Ti01/SleepIn>Kurosu-Ti01/SleepIn</a><p>一个开源轻量美观的课程表 / An open source lightweight and beautiful course schedule</p></li><li><a href=https://github.com/samber/cc-skills-golang>samber/cc-skills-golang</a><p>🧑‍🎨 A collection of Golang agentic skills that works</p></li><li><a href=https://github.com/Tencent/wcdb>Tencent/wcdb</a><p>WCDB is a cross-platform database framework developed by WeChat.</p></li></ul>
+<ul><li><a href=https://github.com/LodyAI/Lody>LodyAI/Lody</a><p>Share coding agents with your team on phone and desktop</p></li><li><a href=https://github.com/raysonmeng/agent-bridge>raysonmeng/agent-bridge</a><p>A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。</p></li><li><a href=https://github.com/usebruno/bruno>usebruno/bruno</a><p>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</p></li><li><a href=https://github.com/Menci/Floway>Menci/Floway</a><p>Serverless LLM API gateway with telemetry, full protocol translation and Stateful Responses support. Use any LLM from any client and get OpenAI/Anthropic 1P-like experience of Codex/Claude on 3P API providers!</p></li><li><a href=https://github.com/Tencent/wcdb>Tencent/wcdb</a><p>WCDB is a cross-platform database framework developed by WeChat.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/17/26, 10:27 AM<br>下一次刷新：9/18/26, 10:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/18/26, 10:13 AM<br>下一次刷新：9/19/26, 10:13 AM</p>
