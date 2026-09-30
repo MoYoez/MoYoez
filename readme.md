@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/10/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/10/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/donnemartin/system-design-primer>donnemartin/system-design-primer</a><p>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</p></li><li><a href=https://github.com/tailscale/tailcat>tailscale/tailcat</a><p>like netcat, but over Tailscale's data plane, without Tailscale's control plane</p></li><li><a href=https://github.com/deepseek-ai/deepseek-harness>deepseek-ai/deepseek-harness</a><p>DeepSeek Harness: Everything is a Plugin.</p></li><li><a href=https://github.com/hibiken/asynq>hibiken/asynq</a><p>Simple, reliable, and efficient distributed task queue in Go</p></li><li><a href=https://github.com/usebruno/bruno>usebruno/bruno</a><p>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</p></li></ul>
+<ul><li><a href=https://github.com/YunYouJun/ak-ui>YunYouJun/ak-ui</a><p>🔫 UI Tokens for Arknights.</p></li><li><a href=https://github.com/Tencent/wcdb>Tencent/wcdb</a><p>WCDB is a cross-platform database framework developed by WeChat.</p></li><li><a href=https://github.com/raysonmeng/agent-bridge>raysonmeng/agent-bridge</a><p>A local bridge for bidirectional collaboration between Claude Code and Codex. 连接 Claude Code 与 Codex 的本地实时协作桥接工具。</p></li><li><a href=https://github.com/addyosmani/web-quality-skills>addyosmani/web-quality-skills</a><p>Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.</p></li><li><a href=https://github.com/mindfold-ai/Trellis>mindfold-ai/Trellis</a><p>The best agent harness.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/29/26, 11:18 AM<br>下一次刷新：9/30/26, 11:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：9/30/26, 11:01 AM<br>下一次刷新：10/1/26, 11:01 AM</p>
