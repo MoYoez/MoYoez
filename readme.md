@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/YunYouJun/ak-ui>YunYouJun/ak-ui</a><p>🔫 UI Tokens for Arknights.</p></li><li><a href=https://github.com/tailscale/tailcat>tailscale/tailcat</a><p>like netcat, but over Tailscale's data plane, without Tailscale's control plane</p></li><li><a href=https://github.com/usebruno/bruno>usebruno/bruno</a><p>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</p></li><li><a href=https://github.com/paperclipai/paperclip>paperclipai/paperclip</a><p>The open-source app everyone uses to manage agents at work</p></li><li><a href=https://github.com/jetify-com/devbox>jetify-com/devbox</a><p>Instant, easy, and predictable development environments</p></li></ul>
+<ul><li><a href=https://github.com/morluto/rea>morluto/rea</a><p>Reverse engineer anything with agents, from app behavior down to native binaries.</p></li><li><a href=https://github.com/paperclipai/paperclip>paperclipai/paperclip</a><p>The open-source app everyone uses to manage agents at work</p></li><li><a href=https://github.com/uber/ADR>uber/ADR</a><p>ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.</p></li><li><a href=https://github.com/YunYouJun/ak-ui>YunYouJun/ak-ui</a><p>🔫 UI Tokens for Arknights.</p></li><li><a href=https://github.com/vladelaina/BongoCat>vladelaina/BongoCat</a><p>🩷 💘C × SDL3 × OpenGL — Three Mysterious Forces, United as One! Bong~ Bongocat!!!Don't be shy, Join Here🧸: https://discord.gg/vf8jqnattk</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/23/26, 10:34 AM<br>下一次刷新：10/24/26, 10:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：10/24/26, 10:32 AM<br>下一次刷新：10/25/26, 10:32 AM</p>
