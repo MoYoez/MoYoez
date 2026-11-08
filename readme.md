@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/LittleChest/mcd-withwork-skills>LittleChest/mcd-withwork-skills</a><p>为何不一边工作一边想想去麦当劳吃什么呢？| 关怀计划！</p></li><li><a href=https://github.com/mountain-loop/yaak>mountain-loop/yaak</a><p>The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬</p></li><li><a href=https://github.com/ip-please/ip-please.github.io>ip-please/ip-please.github.io</a></li><li><a href=https://github.com/Comfy-Org/ComfyUI>Comfy-Org/ComfyUI</a><p>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.</p></li><li><a href=https://github.com/jetify-com/devbox>jetify-com/devbox</a><p>Instant, easy, and predictable development environments</p></li></ul>
+<ul><li><a href=https://github.com/ip-please/ip-please.github.io>ip-please/ip-please.github.io</a></li><li><a href=https://github.com/morluto/rea>morluto/rea</a><p>Reverse engineer anything with agents, from app behavior down to native binaries.</p></li><li><a href=https://github.com/anthropics/claude-quickstarts>anthropics/claude-quickstarts</a><p>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</p></li><li><a href=https://github.com/ZiChuanLan/agent-purge>ZiChuanLan/agent-purge</a><p>One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.</p></li><li><a href=https://github.com/yetone/magpie>yetone/magpie</a><p>Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/7/26, 11:45 AM<br>下一次刷新：11/8/26, 11:45 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/8/26, 11:24 AM<br>下一次刷新：11/9/26, 11:24 AM</p>
