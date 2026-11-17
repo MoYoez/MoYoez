@@ -72,7 +72,7 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>9/10/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FloatTech/ZeroBot-Plugin target=_blank><b>FloatTech/ZeroBot-Plugin</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FloatTech/ZeroBot-Plugin?style=flat-square&labelColor=343b41"></td><td>8/10/2020</td><td>11/16/2026</td></tr><tr><td><a href=https://github.com/AriHaruikoi-Playground/gravity-progressbar target=_blank><b>AriHaruikoi-Playground/gravity-progressbar</b></a> <a href=https://gravity-progressbar.vercel.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/AriHaruikoi-Playground/gravity-progressbar?style=flat-square&labelColor=343b41"></td><td>2/12/2026</td><td>2/12/2026</td></tr></tbody></table>
 
 **Recent Liked...**
 
@@ -80,9 +80,9 @@ Currently, I'm focus on real life time & doing snap jobs. I'm not sure what if I
 
 **Starred**
 
-<ul><li><a href=https://github.com/Mr-xn/RedTeam_BlueTeam_HW>Mr-xn/RedTeam_BlueTeam_HW</a><p>红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具</p></li><li><a href=https://github.com/LittleChest/mcd-withwork-skills>LittleChest/mcd-withwork-skills</a><p>为何不一边工作一边想想去麦当劳吃什么呢？| 关怀计划！</p></li><li><a href=https://github.com/chen-006/meow-ai-arena>chen-006/meow-ai-arena</a><p>AI 算法对抗大赛</p></li><li><a href=https://github.com/Nyankomintsu/world-execute-me-lyric-mv>Nyankomintsu/world-execute-me-lyric-mv</a><p>world.execute(me); — an unofficial fan-made lyric MV told as a chat with Claude, rendered frame by frame from code. Prompts included; no music or lyrics. 非官方同人歌詞 MV:以程式碼逐幀渲染,附完整提示詞,不含歌曲與歌詞。</p></li><li><a href=https://github.com/djkcyl/farwing>djkcyl/farwing</a><p>Farwing — 远方，随手可及。用 Rust 编写的远程桌面与串流项目，让工作、游戏和多人共享用上同一套工具。</p></li></ul>
+<ul><li><a href=https://github.com/chen-006/meow-ai-arena>chen-006/meow-ai-arena</a><p>AI 算法对抗大赛</p></li><li><a href=https://github.com/jetify-com/devbox>jetify-com/devbox</a><p>Instant, easy, and predictable development environments</p></li><li><a href=https://github.com/MoeForge/moejs>MoeForge/moejs</a><p>A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.</p></li><li><a href=https://github.com/anthropics/claude-quickstarts>anthropics/claude-quickstarts</a><p>A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API</p></li><li><a href=https://github.com/Mr-xn/RedTeam_BlueTeam_HW>Mr-xn/RedTeam_BlueTeam_HW</a><p>红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具</p></li></ul>
 
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/16/26, 11:51 AM<br>下一次刷新：11/17/26, 11:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/wibus-wee>Wibus</a> 和 <a href=https://github.com/MoeCinnamo>MoeCinnamo</a> , Thanks.</b><br>刷新于：11/17/26, 1:44 PM<br>下一次刷新：11/18/26, 1:44 PM</p>
